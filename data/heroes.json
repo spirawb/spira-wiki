@@ -1,13 +1,1585 @@
 {
-  "lastUpdated": "2026-03-07T00:00:00Z",
+  "lastUpdated": "2026-03-07T20:24:58.526Z",
   "entries": [
     {
-      "id": "heroi-exemplo",
-      "name": "Herói de Exemplo",
+      "id": "hamil-laena",
+      "name": "Hamil Laena",
+      "type": "other",
+      "status": "retired",
+      "tags": [
+        "hero",
+        "spira",
+        "adventurer",
+        "demon-hunter",
+        "obsessed",
+        "troubled",
+        "disappeared"
+      ],
+      "summary": "Hamil Laena was an adventurer obsessed with demons and their extinction, whose solution to all problems was fire. Plagued by nightmares and psychological torment, he disappeared while on one of his daily retreats into the forest seeking peace. His current whereabouts remain unknown.",
+      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1386033177201737728/Hamil.jpg?ex=69adaffc&is=69ac5e7c&hm=2e300b98881ea50f0260e8e9ef48f9efb1161e491a8888061a6bc9c928aa7254&"
+    },
+    {
+      "id": "xolani",
+      "name": "Xolani",
+      "type": "druid",
+      "status": "active",
+      "tags": [
+        "shaman",
+        "xhosa",
+        "tribal",
+        "nature",
+        "healer"
+      ],
+      "summary": "Xolani is a shaman of the Xhosa tribe, wielding natural magic and spiritual wisdom. He serves as a spiritual guide and healer for his people.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1176617344068501514/Xholani.png?ex=69add94b&is=69ac87cb&hm=9c3221741f43feb2c2aed0793046b0e9cfaf8e1990e06c6f7059a286b02625ed&"
+    },
+    {
+      "id": "chilin",
+      "name": "Chilin",
+      "type": "druid",
+      "status": "retired",
+      "tags": [
+        "harengon",
+        "druid",
+        "mysterious",
+        "mentor-seeking",
+        "reformed",
+        "loyal",
+        "isolated",
+        "mentor",
+        "nature",
+        "herbalist",
+        "compassionate",
+        "shapeshifter",
+        "healer",
+        "adventurer",
+        "world-weary"
+      ],
+      "summary": "Chilin was a druid who spent years combating dangerous creatures, containing jagras and basilisks, and facing wyverns and dragons across Spira. Through transformative journeys with his companion Xolani, he evolved from hiding his past to facing it directly, ultimately dedicating his retirement to teaching young druids and preparing communities for the world's end. His legacy includes curing diseases, saving villages, and earning the title of the Purple Hare after his exploits at sea.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1177310275716796546/60ca83c46bcc8652f214595644b9d762.png?ex=69adbba3&is=69ac6a23&hm=750c28c4db1619efcc79a9e30cdcf8501fb2e3879a53ff1d4727eed06392f726&"
+    },
+    {
+      "id": "snow",
+      "name": "Snow",
+      "type": "other",
+      "status": "retired",
+      "tags": [
+        "faith",
+        "philosopher",
+        "pragmatist",
+        "believer",
+        "rabbit",
+        "loyal",
+        "mentor",
+        "adventurer",
+        "community-focused"
+      ],
+      "summary": "Snow was a white rabbit adventurer with the Guild of Ernesto Garza who was known for his loyalty and willingness to support his friends. He retired from adventuring to dedicate himself to training his brothers Ezel and Rerdak in the ways of adventure, with support from his close companion Balo. His adventuring career spanned from November 24, 2023 to May 22, 2025, and he now travels the world from his base in Talset.",
+      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1374908006013079684/93eb2ffc334e3dea061ff7e1565f863b.png?ex=69ad6c9d&is=69ac1b1d&hm=e1bc6ac09f5f686f703384bac3cede93f276f2cef7d15924fadd6afae7b1a1ae&"
+    },
+    {
+      "id": "rumapark",
+      "name": "Rumapark",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "mysterious",
+        "adventurer",
+        "spira"
+      ],
+      "summary": "Rumapark is an active hero in the Spira campaign world. Beyond their name, little is known about this character's background or abilities.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1187771949095596052/image0_0.jpg?ex=69ad8f54&is=69ac3dd4&hm=5278a98a35401a73ee607948cb0ec16986332f917974104f979d09992abcce07&"
+    },
+    {
+      "id": "zerrir",
+      "name": "Zerrir",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "warrior",
+        "mysterious",
+        "hero"
+      ],
+      "summary": "Zerrir is an active hero of Spira whose detailed background and abilities are yet to be documented.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1187862409822613534/5557b5adc3b50faa84cc11f50c5d98fd.jpg?ex=69ad3ad3&is=69abe953&hm=97f390f5765a361dffed3b988390c62b3bb7f2c679c80f1f0dd8c2e94d4918cd&"
+    },
+    {
+      "id": "mienshi",
+      "name": "Mienshi",
+      "type": "rogue",
+      "status": "deceased",
+      "tags": [
+        "goblin",
+        "drunken master",
+        "martial artist",
+        "monk",
+        "first death",
+        "guild member",
+        "erneste garza"
+      ],
+      "summary": "Mienshi was the first member to die in the Adventurers' Guild of Erneste Garza, marking a significant and tragic milestone in the guild's history.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1188176460150739056/goblinDrunkenMaster.png?ex=69adb68f&is=69ac650f&hm=9fbb1b3c7a23ebb1fc32b4dc18357e2973f631a7213ddcbd171112941cabc513&"
+    },
+    {
+      "id": "cateline-clarke",
+      "name": "Cateline Clarke",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "human",
+        "mystery",
+        "unknown-class"
+      ],
+      "summary": "Cateline Clarke is an active hero in the Spira campaign. Limited information is currently available about her background and abilities.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1189607110691004536/Cateline_Clarke.jpg?ex=69ada4f5&is=69ac5375&hm=b2ce1049c682fae6bee7a60b2424338ad15a57c89891bb8f0a135d4f7a142dd8&"
+    },
+    {
+      "id": "gunvald-bardstardo-rubius",
+      "name": "Gunvald \"Bardstardo\" Rubius",
+      "type": "bard",
+      "status": "active",
+      "tags": [
+        "bard",
+        "performer",
+        "musician",
+        "charismatic",
+        "humorous",
+        "adventurer"
+      ],
+      "summary": "Gunvald \"Bardstardo\" Rubius is a bard known by his distinctive epithet, suggesting a comedic or irreverent personality. He is an active member of the party, contributing entertainment and magical prowess through bardic arts.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1298594298480037929/GUNVALD_UPDATED.png?ex=69ad4faf&is=69abfe2f&hm=40064145a35a2e6d0fb51a0d74800744ff93f3023906cee6f090b707e62e9d97&"
+    },
+    {
+      "id": "mina-novaris",
+      "name": "Mina Novaris",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "unknown-class",
+        "active-hero"
+      ],
+      "summary": "Mina Novaris is an active hero in the Spira campaign. No additional details about her background, abilities, or role have been documented yet.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1202276550733467678/Mina_Norvaris.png?ex=69ad97ca&is=69ac464a&hm=a42c7e211e6f60cda8e08508393da550b910f717a8ee4ff2dcae429c6972b105&"
+    },
+    {
+      "id": "raksha",
+      "name": "Raksha",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "monk",
+        "martial artist",
+        "mountain dweller"
+      ],
+      "summary": "Raksha is a disciplined mountain monk, trained in martial arts and spiritual practices. This hero embodies balance between physical prowess and inner tranquility.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1202343663322013756/MountainMonk.jpg?ex=69add64b&is=69ac84cb&hm=18b34fa5956b224b132b666d0e562998ded822ffac3b2f9f36cf5a16730d2124&"
+    },
+    {
+      "id": "zhaul-baikal",
+      "name": "Z'Haul Baikal",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "mysterious",
+        "exotic",
+        "spira"
+      ],
+      "summary": "Z'Haul Baikal is an active hero in the Spira campaign. Little is known about this enigmatic figure at present.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1206404228130807828/med.jpg?ex=69ad72bd&is=69ac213d&hm=f2d17009aac1cbc8a9cbc4cfb94831db72c06fa7d678aac9fd296e71f25148a1&"
+    },
+    {
+      "id": "kall-teach",
+      "name": "Kall Teach",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "mysterious",
+        "adventurer",
+        "unknown-class"
+      ],
+      "summary": "Kall Teach is an active hero in the Spira campaign. Limited information is currently available about this character.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1213392136515354644/kall-art.jpg?ex=69add23d&is=69ac80bd&hm=90644de05e9d0d6a211f7ff2fd86e304a35aa4edc605adfe1641c70400caedda&"
+    },
+    {
+      "id": "manu-lapilis",
+      "name": "Manu Lapilis",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "hero",
+        "spira"
+      ],
+      "summary": "Manu Lapilis is an active hero in the Spira campaign.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1213958803372904509/Screenshot_2024-03-01_at_12.52.53.png?ex=69ad3efc&is=69abed7c&hm=81f8e80855a961c7fc6b4336154bd9c5451979fdc85e67400bb3be0040272fc1&"
+    },
+    {
+      "id": "irineus-robberman",
+      "name": "Irineus Robberman",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "rogue",
+        "thief",
+        "cunning"
+      ],
+      "summary": "Irineus Robberman is an active hero of Spira. Little is currently known about their background and abilities.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1229888009294319777/7b707006-27fc-4e43-acd1-8a643cbe640b.jpg?ex=69add8f7&is=69ac8777&hm=7a57c63cafad15576e839be2400b3f6e4b8884ff79abf64eb87711c5f16a1266&"
+    },
+    {
+      "id": "clevius-moldler",
+      "name": "Clevius Moldler",
+      "type": "mage",
+      "status": "retired",
+      "tags": [
+        "gnome",
+        "arcane",
+        "inventor",
+        "magical",
+        "artificer",
+        "blacksmith",
+        "forgemaster",
+        "underdark",
+        "mage-smith",
+        "innovator",
+        "family-business"
+      ],
+      "summary": "Clevius Moldler returned to his mountain village and reformed the family forge with his brother Melvius, transforming it into a center of innovation where magic and craftsmanship merge. Now a master artificer, he creates weapons, armor, and magical items of excellence while Melvius handles the business side with charisma and storytelling talent. The Moldler's Forge has become known throughout the region, especially for enchanted sculptures commemorating family legends.",
+      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1330194061541376141/gnome4.jpg?ex=69ad92c2&is=69ac4142&hm=909ceb92c742915c5cd09aa150a4107f7f0b6431a05a996f67606e1212da13d9&"
+    },
+    {
+      "id": "hank-the-tank",
+      "name": "Hank the Tank",
       "type": "warrior",
-      "tags": ["exemplo", "nivel-1"],
-      "summary": "Um herói placeholder. Substitui com os personagens reais dos jogadores.",
+      "status": "active",
+      "tags": [
+        "tank",
+        "melee",
+        "defender",
+        "strength"
+      ],
+      "summary": "Hank the Tank is a sturdy warrior and tank character built to absorb damage and protect allies on the battlefield. He is a new hero to the campaign, created by wazzupex, and has a backstory already established in the character room.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1248737953820315799/image.png?ex=69ad3598&is=69abe418&hm=78281635feb8ecfcdea720b9c708eb949394b5193888cadf287508067af1a8dd&"
+    },
+    {
+      "id": "nastasia",
+      "name": "Nastasia",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "character",
+        "hero",
+        "spira"
+      ],
+      "summary": "Nastasia is an active hero in the Spira campaign. Further details about her background, abilities, and role await discovery.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1253702013913403473/Nastasia.jpg?ex=69ad787c&is=69ac26fc&hm=5cfec185c1cc10bbfc0809b7cb49300d3a6d8f02eb4378915f96e1c70c5ec43e&"
+    },
+    {
+      "id": "tairnenach-flyborn",
+      "name": "Tairnenach Flyborn",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "flyborn",
+        "adventurer",
+        "mysterious"
+      ],
+      "summary": "Tairnenach Flyborn, known by the aliases Tair and Fly, is an active hero in the Spira campaign. Little is currently known about this character beyond their name and nicknames.",
       "image": null
+    },
+    {
+      "id": "rain",
+      "name": "Rain",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "mysterious",
+        "spira"
+      ],
+      "summary": "Rain is an active hero in the Spira campaign. Little is currently known about this character.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1261479710551048202/med.jpg?ex=69ad6bc8&is=69ac1a48&hm=6e738d832f017550ba58cc5af9a0de79de6955de32ec495c15078aae20bcfb94&"
+    },
+    {
+      "id": "elka-wynna",
+      "name": "Elka Wynna",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "warrior",
+        "human",
+        "fighter",
+        "adventurer"
+      ],
+      "summary": "Elka Wynna is an active hero in the Spira campaign. Little is currently known about her background and abilities.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1262527006969565315/Captura_de_ecra_2024-06-28_134423.png?ex=69ad46a7&is=69abf527&hm=346dcc5313062651ada6d3a09d3770e42fd19512d9ae1c9f548f75328f40dbd5&"
+    },
+    {
+      "id": "rajo-furashada",
+      "name": "Rajo Furashada",
+      "type": "cleric",
+      "status": "deceased",
+      "tags": [
+        "diplomat",
+        "peacekeeper",
+        "philosopher",
+        "understanding",
+        "compassionate",
+        "blessed",
+        "faithful",
+        "healer"
+      ],
+      "summary": "Rajo Furashada was a compassionate cleric who dedicated himself to avoiding conflict and seeing only good in the world. He met his end while attempting to save a companion, remaining blessed until his final moments. May Kuncare grant him rest.",
+      "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1289717399649521755/Rajo_Furashada.jpg?ex=69ad512d&is=69abffad&hm=3544001df71a429a4e30af55540efd9e6e5bb3b1bec3eb4df91aca51366d0fc6&"
+    },
+    {
+      "id": "automano",
+      "name": "Automano",
+      "type": "other",
+      "status": "deceased",
+      "tags": [
+        "construct",
+        "adventurer",
+        "mysterious",
+        "guild-member",
+        "dreamer",
+        "fallen",
+        "legendary"
+      ],
+      "summary": "Automano was a dreamer who met his end in battle. He was slain by a powerful adversary and now rests among the hall of the fallen.",
+      "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1277741906612195410/Automano_Oficial.jpg?ex=69ad41a1&is=69abf021&hm=a539480f881434b9712b50a1e5ebd34dbd4855b3f98be3a07e38a52e2f7c809c&"
+    },
+    {
+      "id": "kronk",
+      "name": "Kronk",
+      "type": "warrior",
+      "status": "retired",
+      "tags": [
+        "adventurer",
+        "hopeful",
+        "determined",
+        "warrior",
+        "strong",
+        "updated",
+        "orc",
+        "barbarian",
+        "shy",
+        "tavern-worker"
+      ],
+      "summary": "Kronk was a shy orc barbarian who joined the adventurer's guild despite his low intelligence, quickly making friends and gaining a companion and mentor in Marro. Over his 11-adventure career from August 2024 to July 2025, he found success working at Fraaq's tavern and formed a meaningful bond with the taverneer. He retired with the rank of Silver and departed to the Feywild in search of Marro, carrying the taverneer's teachings in his heart.",
+      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1394637735389696020/file_000000001e5c620a9ce417eeb07ccba5.jpg?ex=69ad599b&is=69ac081b&hm=def6f0bb149b533be60e4c82a6dfb706b09213369c0d0c592e81c26fbc3556c9&"
+    },
+    {
+      "id": "ze-dedo-mindinho",
+      "name": "Zé Dedo-mindinho",
+      "type": "rogue",
+      "status": "active",
+      "tags": [
+        "rogue",
+        "cunning",
+        "dexterous",
+        "small",
+        "hero"
+      ],
+      "summary": "Zé Dedo-mindinho is a nimble and clever rogue, likely known for his remarkable agility and quick fingers. His unusual epithet suggests a character defined by precision and cunning tactics.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1275447334477631579/Ze_dedo_mindinho.jpg?ex=69ad7a65&is=69ac28e5&hm=d7c8665122e68791cfc03d5bf9ac9e46b00e2785d89d9d8e0166e4ce017ccd59&"
+    },
+    {
+      "id": "arthur-morgan",
+      "name": "Arthur Morgan",
+      "type": "warrior",
+      "status": "retired",
+      "tags": [
+        "outlaw",
+        "thief",
+        "skilled",
+        "rebel",
+        "survival",
+        "cowboy",
+        "gunslinger",
+        "reformed",
+        "outsider",
+        "leader"
+      ],
+      "summary": "Arthur Morgan was a cowboy from the wild west who joined the guild and struggled to adapt to this unfamiliar world. Despite generating intrigue, he grew through his time with the guild and eventually left to help his former gang members integrate and stay out of trouble. He retired at silver rank after 20 adventures spanning from August 27, 2024 to August 17, 2025.",
+      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1406426010911768668/arthurmorgan_dnd.jpg?ex=69ad638b&is=69ac120b&hm=158ab26c4df1768dcc71b2bc8c004ca79a5365f3cd856fb2ca5db96e5f0e2f35&"
+    },
+    {
+      "id": "duque-alf-de-argat",
+      "name": "Duque Alf de Argat",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "noble",
+        "duke",
+        "leader",
+        "argat"
+      ],
+      "summary": "Duque Alf de Argat is a noble figure of rank and authority. Little else is known about this hero at present.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1278084482531987596/Duke_.jpg?ex=69add7ee&is=69ac866e&hm=df65cc9b22fbf616f6d95e1c2cc863c839cb74a538d137bd5f55361a0dc90395&"
+    },
+    {
+      "id": "jahira",
+      "name": "Jahira",
+      "type": "other",
+      "status": "deceased",
+      "tags": [
+        "sailor",
+        "adventurer",
+        "charismatic",
+        "pirate",
+        "mysterious",
+        "undead",
+        "familiar",
+        "resurrection",
+        "zombie",
+        "corrupted",
+        "tragic-fate"
+      ],
+      "summary": "Jahira was transformed into a zombie and consumed by the Rabo do Rajo (Ray's Tail), losing her former self to undeath. Her final memory was of the very creature that destroyed her.",
+      "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1289716521093824553/Captura_de_ecra_2024-09-27_021946.png?ex=69ad505c&is=69abfedc&hm=091f3d6625dd6e674e1466c0cffebc907549e73479228dd649ed00a2def6232e&"
+    },
+    {
+      "id": "jane-hatefield",
+      "name": "Jane Hatefield",
+      "type": "bard",
+      "status": "retired",
+      "tags": [
+        "bard",
+        "musician",
+        "performer",
+        "loud",
+        "confident",
+        "rock",
+        "sonic-powers",
+        "bastarda"
+      ],
+      "summary": "Jane Hatefield joined the guild to fund her rock school and adopt her young friend Sara. Bonded with a mythic music entity, she gained sonic distortion powers and formed deep friendships with Brakk and Zé. She retired at Silver rank after a journey spanning from September 30, 2024 to December 22, 2024.",
+      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1320443750044008499/da8cde032b7ba5b98e01435ba56d5085.jpg?ex=69adb292&is=69ac6112&hm=53c54dd1b0990258ae7d801a637e8ff1ab65a8090552f4803a837100fb202e31&"
+    },
+    {
+      "id": "ob-nixilis",
+      "name": "Ob Nixilis",
+      "type": "mage",
+      "status": "retired",
+      "tags": [
+        "dark",
+        "tyrant",
+        "powerful",
+        "leader",
+        "warforged",
+        "sorcerer",
+        "arcane",
+        "ambitious",
+        "cult-leader",
+        "mysterious",
+        "dark-legacy",
+        "vanished"
+      ],
+      "summary": "Ob Nixilis was a charismatic cult leader who gathered a large following called 'The 88 of Ob Nixilis' before mysteriously departing from the guild. His departure left behind a dark legacy marked by discoveries of murdered followers and missing remains, including the death of Jingle Jangle. Rumors suggest a statue resembling him was spotted in a mansion in Maral, though Ob Nixilis himself has never been seen again.",
+      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1338969271958503464/Warforged_sorcerer.jpg?ex=69ad328f&is=69abe10f&hm=41bd960a4b3914ae6e231af940833436afef35fe0501ab4a365d934d17c66f75&"
+    },
+    {
+      "id": "zachiel-the-banished",
+      "name": "Zachiel the Banished",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "banished",
+        "mysterious",
+        "outcast"
+      ],
+      "summary": "Zachiel the Banished is a hero marked by exile and loss. Little is known of their origins or the nature of their banishment, but they persist as an active force in Spira.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1295495304983875604/Zachiel.jpg?ex=69ad3e45&is=69abecc5&hm=532a97a6479d162a26bd7590013f1b5057c1967f39b3cb4f1da2015f034f3c9c&"
+    },
+    {
+      "id": "chakalaka-o-mordaz",
+      "name": "Chakalaka, O Mordaz",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "bard",
+        "trickster",
+        "sharp-tongue",
+        "humor"
+      ],
+      "summary": "Chakalaka, O Mordaz is a wit-sharp character known for their sharp tongue and clever remarks. A bard-type hero who uses humor and cunning to navigate the world of Spira.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1297603532786241576/IMG_1220.jpg?ex=69ada976&is=69ac57f6&hm=2bf40bb63d9f59bdf788338bd317a4c30bf6a163a3c9e915441ae07c19a7724e&"
+    },
+    {
+      "id": "sorgvar",
+      "name": "Sorgvar",
+      "type": "warrior",
+      "status": "retired",
+      "tags": [
+        "warrior",
+        "strength",
+        "fighter",
+        "eladrin",
+        "barbarian",
+        "amnesiac",
+        "stone-hammer",
+        "feywild",
+        "dwarf",
+        "axe-wielder",
+        "veteran"
+      ],
+      "summary": "Sorgvar was a stalwart dwarf warrior known for his prowess in battle and unwavering resolve. Now retired, he has hung up his axe to rest from his adventures.",
+      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1388657748035764375/sorgvar.jpg?ex=69ad590f&is=69ac078f&hm=58b7ff03d403b410401641f1911daed9ec677d4f309035f1ad358a568bc1f33e&"
+    },
+    {
+      "id": "brakk",
+      "name": "Brakk",
+      "type": "warrior",
+      "status": "retired",
+      "tags": [
+        "centaur",
+        "yanogu",
+        "warrior",
+        "large",
+        "loyal",
+        "compassionate"
+      ],
+      "summary": "Brakk was a mighty Centaur Yanogu warrior known for his great heart and ability to forge deep friendships. He retired on December 22nd alongside Jane, valuing the bonds he had made over the completion of his original objectives, proving that friendship speaks louder than ambition. His loves included Jane and Sara, and he carried the hearts of all his companions with him.",
+      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1320339221529100329/IMG_1303.jpg?ex=69ad5139&is=69abffb9&hm=17fbaeb8f3fd59bb0967f898896172bcba5b8b32ae6104b37db16cbb3bf1aefc&"
+    },
+    {
+      "id": "v-de-vitha",
+      "name": "V de Vitha",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "mysterious",
+        "vitha",
+        "character"
+      ],
+      "summary": "V de Vitha is a character whose details remain largely mysterious. More information about their background, abilities, and role in the campaign is needed.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1304101807932444752/240ee2aa64a3a73100ef0be346dd870b.jpg?ex=69ad9274&is=69ac40f4&hm=7982ff20c4ac6742bdc499ff8bd5f0b906bf5ab056c30176b87ea00591425a44&"
+    },
+    {
+      "id": "lenton",
+      "name": "Lenton",
+      "type": "mage",
+      "status": "active",
+      "tags": [
+        "turtle",
+        "wizard",
+        "mystical",
+        "arcane"
+      ],
+      "summary": "Lenton is an anthropomorphic turtle wizard who has recently adopted spectacles and undergone a physical transformation. This mystical mage practices magic in enchanted caves and commands arcane powers.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1305103102097100810/DALLE_2024-11-10_11.31.09_-_A_detailed_image_of_an_anthropomorphic_turtle_character_dressed_as_a_mystical_wizard_standing_in_a_magical_cave._The_turtle_is_wearing_a_robe_with_gl.webp?ex=69ad427b&is=69abf0fb&hm=59a868aa3a60447cc762f8d72c5c0060cd2322e0301879593896ebc81212848c&"
+    },
+    {
+      "id": "luther-hallow",
+      "name": "Luther Hallow",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "human",
+        "mysterious",
+        "active-hero"
+      ],
+      "summary": "Luther Hallow is an active hero in the Spira campaign. Little is currently known about their background or abilities.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1305467164807135282/file-J1XTiBFLIBFWt1k5ki06zow8.png?ex=69ad440a&is=69abf28a&hm=26d3f0bafa36fbd17eb1f3246a7ab0e69d6b0373c1920ff13a1801c149dae920&"
+    },
+    {
+      "id": "alvorius-venator",
+      "name": "Alvorius Venator",
+      "type": "ranger",
+      "status": "active",
+      "tags": [
+        "ranger",
+        "hunter",
+        "venator"
+      ],
+      "summary": "Alvorius Venator is an active hero of Spira. Little is currently known about this character.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1307451789649641512/c6fe3222b2499f14ce9d1408d4e54c4e.jpg?ex=69ad3c1d&is=69abea9d&hm=d98f7677c96be39df52c5f7499ad42958b38993244b2a62e12212d368425a3bd&"
+    },
+    {
+      "id": "vak-o-renegado",
+      "name": "Vak, o Renegado",
+      "type": "ranger",
+      "status": "active",
+      "tags": [
+        "lizardfolk",
+        "archer",
+        "renegade",
+        "forest-dweller"
+      ],
+      "summary": "Vak is a lizardfolk ranger who has broken from his kind's traditions, earning the title 'the Renegade.' Armed with a longbow and a confident demeanor, he operates independently in the wilderness, guided by his own code rather than tribal customs.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1311366350739869807/DALLE_2024-11-27_17.20.44_-_A_lizardfolk_warrior_with_green_scaly_skin_standing_confidently_in_a_vibrant_forest_clearing._The_character_has_a_longbow_strapped_across_their_back.webp?ex=69ada216&is=69ac5096&hm=23fb7ff06484fc7c07b95ba2923a9967213c2379e27e48dc2737dac220a68eb2&"
+    },
+    {
+      "id": "lepain-dessages",
+      "name": "Lepain Dessages",
+      "type": "rogue",
+      "status": "retired",
+      "tags": [
+        "hero",
+        "volunteer",
+        "servant",
+        "baker",
+        "crime",
+        "reformed",
+        "guild",
+        "human"
+      ],
+      "summary": "Lepain Dessages, known as \"O Padeiro\" (The Baker), was a figure of ambiguous reputation—viewed by some as a crime master and by others as a fool. Traumatized by witnessing Raziel's death, he retired from adventuring to pursue his true calling as a baker, now found at Fraaq's tavern. He adventured from November 27, 2024 to June 22, 2025.",
+      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1386416970458726580/Lepain_Dessages.jpg?ex=69adc3ec&is=69ac726c&hm=a13058cc7d3e0e31dbf25689fe9c88e39b24f16688d6f781602c091836ef882a&"
+    },
+    {
+      "id": "avo-ziva-felpuda",
+      "name": "Avó Ziva \"Felpuda\"",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "grandmother",
+        "adventurer",
+        "cat-lover",
+        "guild-member"
+      ],
+      "summary": "Avó Ziva, affectionately known as \"Felpuda,\" is a spirited grandmother who has joined the Guild as an adventurer. She is known for her caring nature and fondness for cats, particularly a feline companion she dotes upon.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1320478706254348298/IMG_1714.jpg?ex=69add320&is=69ac81a0&hm=e6b3973c1aad04b6238e4a2bda861995d677da8db7b57372424562cad1a83af2&"
+    },
+    {
+      "id": "amble-annseea",
+      "name": "Amble Annseea",
+      "type": "cleric",
+      "status": "active",
+      "tags": [
+        "healer",
+        "medic",
+        "support",
+        "cleric"
+      ],
+      "summary": "Amble Annseea is a dedicated healer and medic, as indicated by the ambulance emoji. This cleric specializes in restoration and support magic to aid their allies in combat and recovery.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1320775170171998308/AA1.jpg?ex=69ad95bb&is=69ac443b&hm=e1fcbe58edbdfffae9750c2d9ce6dad9eb770ce1c20a3164e62e2c53b0e7124d&"
+    },
+    {
+      "id": "marro",
+      "name": "Marro",
+      "type": "warrior",
+      "status": "retired",
+      "tags": [
+        "archer",
+        "scout",
+        "wilderness",
+        "satyr",
+        "melee",
+        "brash",
+        "protective",
+        "feywild"
+      ],
+      "summary": "Marro is a rough and ill-mannered Satyr with a good heart who preferred solving problems with combat. Despite his failure to save his sister Mel from bandits, he never gave up on challenging himself and grew strong enough to return to the Feywild to protect the innocent.",
+      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1368826492015874169/MArro.jpg?ex=69adb643&is=69ac64c3&hm=2f9868646b29923836d51af470d058ca6d081d93f31c1eeed7a4701f0e774558&"
+    },
+    {
+      "id": "mel",
+      "name": "Mel",
+      "type": "warrior",
+      "status": "active",
+      "tags": [
+        "barbarian",
+        "fairy",
+        "small",
+        "spirited",
+        "melee"
+      ],
+      "summary": "Mel is a small but fierce fairy barbarian with an enormous spirit. Despite her diminutive size, she is a formidable warrior driven by passion and courage.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1330832625480241244/Fairy_Barbarian.jpg?ex=69ad4277&is=69abf0f7&hm=7cf4e9e56b6a0c15a93bebc0c24ffbc83d3583471d5978bc7a3426587b5bd171&"
+    },
+    {
+      "id": "sssimon",
+      "name": "Sssimon",
+      "type": "mage",
+      "status": "active",
+      "tags": [
+        "yuan-ti",
+        "serpent",
+        "arcane",
+        "mysterious",
+        "companion"
+      ],
+      "summary": "Sssimon is a mysterious Yuan-ti mage accompanied by his serpent companion Sssiri. He carries a macabre tome of dark magic and speaks with a distinctive hiss.",
+      "image": null
+    },
+    {
+      "id": "familiar",
+      "name": "Familiar",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "companion",
+        "magical",
+        "green",
+        "familiar"
+      ],
+      "summary": "A green magical familiar from the realm of Dungeons and Dragons. This companion serves as a mystical aid to its master, bound by arcane power and loyalty.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1335255318208446516/santas_A_familiar_from_Dungeons_and_Dragons_which_is_a_Green__fafc43c8-9c1e-41d3-bd9e-6c769dff0ba8_1.png?ex=69ad876b&is=69ac35eb&hm=b76284b2d4d937ef1423937ec50ad3bfd5648daccd3335478ab0b5a6efce52bd&"
+    },
+    {
+      "id": "gideon-larderius",
+      "name": "Gideon Larderius",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "carpenter",
+        "craftsman",
+        "adventurer",
+        "support"
+      ],
+      "summary": "Gideon Larderius is a friendly carpenter who has joined the Adventurers' Guild of Ernesto Garza. He brings his craftsmanship and practical skills to support the guild's endeavors.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1338969844544045269/Gideon_Larderius.jpg?ex=69ad3317&is=69abe197&hm=2d13aae56519165ca99ccdeeb01b8a3b494ec05e64313a74590239a12cfab166&"
+    },
+    {
+      "id": "lucci",
+      "name": "Lucci",
+      "type": "paladin",
+      "status": "deceased",
+      "tags": [
+        "young",
+        "stoic",
+        "guild-member",
+        "mysterious",
+        "paladin",
+        "rebellious",
+        "fallen hero"
+      ],
+      "summary": "Lucci was a rebellious paladin who met his end. Little is known of his deeds, but his defiant nature marked his legacy.",
+      "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1366727942843138058/Lucci.png?ex=69ad5416&is=69ac0296&hm=3aa55dea1525a71aee8cd95624ca4b799c93aedf842bc9f10fa0f3fccfaefb8c&"
+    },
+    {
+      "id": "arnaldo-bolota",
+      "name": "Arnaldo Bolota",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "businessman",
+        "manager",
+        "reformed whistler",
+        "merchant"
+      ],
+      "summary": "Arnaldo Bolota is a businessman and manager who has reformed from his whistling ways. A entrepreneur with a knack for managing ventures and people.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1343251725020041236/Bolota.png?ex=69ad9da7&is=69ac4c27&hm=dcafa7a164ceacc3fc67202af99db880249d853b2740cf71952e167e76630eef&"
+    },
+    {
+      "id": "brodo-faggins",
+      "name": "Brodo Faggins",
+      "type": "bard",
+      "status": "active",
+      "tags": [
+        "bard",
+        "entertainer",
+        "charismatic",
+        "performer"
+      ],
+      "summary": "Brodo Faggins is a bard of extraordinary talent and charm. He captivates audiences with his performances and uses his skills to support his allies in adventure.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1343693238451572786/Brodo_Faggins.jpg?ex=69ad3e98&is=69abed18&hm=9c4d919a97e4df6a01e4267032b94652a0d22aa277bc7ece0c1dbdcabd822a96&"
+    },
+    {
+      "id": "bo-faisca",
+      "name": "Bô Faísca",
+      "type": "other",
+      "status": "retired",
+      "tags": [
+        "spark",
+        "mischievous",
+        "active",
+        "goblin",
+        "pyromancer",
+        "explosives",
+        "eccentric",
+        "popcorn-enthusiast"
+      ],
+      "summary": "Bô Faísca was an eccentric goblin adventurer with a manic passion for fire, explosions, and popcorn. During his brief three-adventure career (March–May 2025), he made few friends but found his true calling. He now resides at the Zoo in Maral, where he creates fireworks and sweet popcorn.",
+      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1369012563341475880/image.png?ex=69adbace&is=69ac694e&hm=7ab462336c8f0bee07723ca9c6e96a1bf5496003868363ee3f410255ee42abd2&"
+    },
+    {
+      "id": "feio",
+      "name": "Feio",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "portuguese",
+        "bully",
+        "character"
+      ],
+      "summary": "Feio is a character in the Spira campaign. Limited information is currently available about this hero.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1357386912289001763/portuguesebully.__93550bcb-8a66-4b91-b5a2-26ae4a3114c1.png?ex=69ad9f92&is=69ac4e12&hm=270967900f56b633cab7992d2c2956f63a22345e1a222ecff88147c8dbcb7fd3&"
+    },
+    {
+      "id": "nak-tuk",
+      "name": "Nak'Tuk",
+      "type": "warrior",
+      "status": "active",
+      "tags": [
+        "thri-kreen",
+        "insectoid",
+        "melee",
+        "warrior"
+      ],
+      "summary": "Nak'Tuk is a Thri-kreen warrior, a member of the insectoid race known for their natural combat prowess and multiple limbs. This mantis-like hero brings strength and agility to the party's front lines.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1359460620625514577/Thri-kreen2.jpg?ex=69ad41dd&is=69abf05d&hm=8da13a610cc663fd0471642ac12904ffd2b1beec5e3dd111cd850f9eb5019225&"
+    },
+    {
+      "id": "varak",
+      "name": "Varak",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "warrior",
+        "fighter",
+        "hero"
+      ],
+      "summary": "Varak is an active hero in the Spira campaign. Little is currently known about this character.",
+      "image": null
+    },
+    {
+      "id": "anwelion-orodruin",
+      "name": "Anwelion Orodruin",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "mysterious",
+        "orodruin",
+        "hero"
+      ],
+      "summary": "Anwelion Orodruin is an active hero in the Spira campaign. Little is currently known about this character.",
+      "image": null
+    },
+    {
+      "id": "unknown-hero",
+      "name": "Unknown Hero",
+      "type": "other",
+      "status": "active",
+      "tags": [],
+      "summary": "",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1360645100522307745/med.png?ex=69ad9c7f&is=69ac4aff&hm=586409d83d8c7fb69639cddf069fb8b54f17544c5a670ada6ff5bdc30cfd6d58&"
+    },
+    {
+      "id": "gok-otta",
+      "name": "Gök Otta",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "mysterious",
+        "new-hero",
+        "spira"
+      ],
+      "summary": "Gök Otta is a hero of Spira whose full background and abilities have yet to be documented.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1364502453336150046/87526e911f4f064ce4e739b4ac6d60fe.jpg?ex=69adcd30&is=69ac7bb0&hm=32fe64c4b90f28ab8d1b794501e5b54e282981acb6413d78644c4cc51225d614&"
+    },
+    {
+      "id": "perrie-perval",
+      "name": "Perrie Perval",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "adventurer",
+        "mysterious",
+        "hero"
+      ],
+      "summary": "Perrie Perval is an active hero in the Spira campaign. Little is known about their background or abilities at this time.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1368827203529216082/perrieavatar2.png?ex=69adb6ec&is=69ac656c&hm=ae0ba56b63e7e7c988412766224d8a0dbab269ecac2e90c2ae8f05f49f2764c3&"
+    },
+    {
+      "id": "azim-o",
+      "name": "Azim Ö",
+      "type": "ranger",
+      "status": "deceased",
+      "tags": [
+        "mysterious",
+        "spira",
+        "archer",
+        "ranger",
+        "sacrificial",
+        "brave"
+      ],
+      "summary": "Azim Ö was a small archer who gave her life for Poopoo (Lupu). She was a selfless ranger known for her archery skills and ultimate sacrifice.",
+      "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1408598438408360076/Azim1.jpg?ex=69ad61c6&is=69ac1046&hm=c79b53e0a8e5c5918ec6e5ef9d1502a557eda108a232fb44628582995fe597c1&"
+    },
+    {
+      "id": "zuko-calmaria-mabari",
+      "name": "Zuko, 'Calmaria' Mabari",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "mabari",
+        "companion",
+        "loyal",
+        "adventurer"
+      ],
+      "summary": "Zuko, known as 'Calmaria' Mabari, is a stalwart companion who adventures alongside Sir Quackson. Together they form a formidable pair in their travels across Spira.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1373632691945340989/hq.png?ex=69ad6622&is=69ac14a2&hm=bf44969704500cc427f9712917dfbc59317e8abe692150fa42d2dd8e18791843&"
+    },
+    {
+      "id": "zorak",
+      "name": "Zorak",
+      "type": "warrior",
+      "status": "active",
+      "tags": [
+        "goliath",
+        "warrior",
+        "scarred",
+        "strong",
+        "humanoid"
+      ],
+      "summary": "Zorak is a Goliath warrior of smaller stature than typical for his race, but maintains a robust and muscular build. Despite lacking the traditional tattoos and markings of his people, his descent is clearly visible upon close inspection. His numerous scars attest to his capacity to endure significant physical punishment.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1375996586819190844/d0c73a6dcadb348b233b193a2a7d5703.jpg?ex=69ad6def&is=69ac1c6f&hm=36d2de0e90d50e1c4c370f82f7eeeeaf8eac96c7fa54e7c0c4fcaa7392544924&"
+    },
+    {
+      "id": "pruce-paine",
+      "name": "Pruce Paine",
+      "type": "rogue",
+      "status": "retired",
+      "tags": [
+        "dual-identity",
+        "shadowman",
+        "rogue",
+        "mysterious",
+        "alter-ego",
+        "vigilante",
+        "crime-fighter",
+        "human"
+      ],
+      "summary": "Pruce Paine was a hero with a dual identity as the vigilante Shadowman, dedicated to apprehending criminals without lethal force. His adventuring career spanned from June 15, 2025 to August 24, 2025, during which he completed 9 adventures. After retirement, he returned to his mansion in Trand, where rumors persist of Shadowman still patrolling the streets at night.",
+      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1409119861514440806/pruceman.png?ex=69ad4d23&is=69abfba3&hm=7520cec600553b4bdb95b25ab29eff8025ee6c7c2d6763ae5a6011ab32f5fb2e&"
+    },
+    {
+      "id": "conde-erampvire-d-yraid",
+      "name": "Conde Erampvire D Yraid",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "noble",
+        "count",
+        "mysterious",
+        "aristocrat"
+      ],
+      "summary": "Conde Erampvire D Yraid is a noble figure of mysterious origins and apparent aristocratic standing. Little is currently known about this character's background, abilities, or role in the campaign.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1383845670384828647/208b05cdeea79323523d0b7143063f8a.jpg?ex=69ada3b6&is=69ac5236&hm=939583cb7418089d013f6e3a83574954363f8840389c448689cb54c7d515cfb6&"
+    },
+    {
+      "id": "sula",
+      "name": "Sula",
+      "type": "paladin",
+      "status": "deceased",
+      "tags": [
+        "adventurer",
+        "resilient",
+        "protector",
+        "elemental",
+        "guardian",
+        "naive",
+        "betrayed",
+        "sea-keeper",
+        "tragic"
+      ],
+      "summary": "Sula was a Guardian of the Seas who died defending the depths from encroaching evil. Betrayed and deceived by his own naivety, he fell while standing against darkness.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1386420471569842236/Sula.jpg?ex=69adc72e&is=69ac75ae&hm=6cf91ce002e5c5d18c5edb684cd92b1f3befeec9c88de587151b641a080ea533&"
+    },
+    {
+      "id": "chien-langfei",
+      "name": "Chien Langfei",
+      "type": "rogue",
+      "status": "active",
+      "tags": [
+        "gambler",
+        "cunning",
+        "the black ace",
+        "risk-taker",
+        "charismatic"
+      ],
+      "summary": "Chien Langfei, known by the alias The Black Ace, is a cunning rogue with a penchant for high-stakes gambling. His catchphrase \"Vai uma aposta?\" (\"Want to make a bet?\") reflects his bold and risk-taking nature.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1386744734223171807/21313.jpg?ex=69ada3ad&is=69ac522d&hm=14bee322c63577f51f2ac2b46ec2a73cbc117c643dca2c02d44f1ab822f20861&"
+    },
+    {
+      "id": "braum",
+      "name": "Braum, the Heart of Freljord",
+      "type": "warrior",
+      "status": "active",
+      "tags": [
+        "tank",
+        "protector",
+        "frost",
+        "strong",
+        "leader"
+      ],
+      "summary": "Braum is a mighty warrior from Freljord, known as the Heart of his frozen homeland. He is a steadfast protector and leader, embodying strength and courage in the face of adversity.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1390801651752767588/image.png?ex=69ad3cb9&is=69abeb39&hm=68627221d8ba1875c8687622b9c725b487fc065655fe5288b505a417ccd3c3c5&"
+    },
+    {
+      "id": "thar-echo",
+      "name": "Thar Echo",
+      "type": "ranger",
+      "status": "active",
+      "tags": [
+        "witch-hunter",
+        "fey-anomalies",
+        "tracker",
+        "supernatural"
+      ],
+      "summary": "Thar Echo is a witch hunter and tracker of fey anomalies. Skilled in pursuing and eliminating supernatural threats, they specialize in hunting creatures and phenomena beyond the mortal realm.",
+      "image": null
+    },
+    {
+      "id": "rukan",
+      "name": "Rukan",
+      "type": "druid",
+      "status": "deceased",
+      "tags": [
+        "druid",
+        "forest",
+        "protector",
+        "scutum-servant",
+        "healer",
+        "sacrifice",
+        "demon-pact",
+        "fire",
+        "guild-member"
+      ],
+      "summary": "Rukan was a druid who fought alongside his companions Felkron and Braum against a dragon. In a final act of desperation, he made a contract with the demon Traaq, unleashing a massive firestorm that weakened the dragon but at great cost. He was ultimately frozen and killed by the dragon's final breath, dying as a hero who gave his life for his companions.",
+      "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1465504330407743803/file_00000000bf4871f491136bca32ed271e.png?ex=69ad6c04&is=69ac1a84&hm=7cc7d3253e619d9bfd3ec8a640af032df9e890e6da5612a8bc0c8c11a9915c28&"
+    },
+    {
+      "id": "lukyn-argyle",
+      "name": "Lukyn Argyle",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "elf",
+        "lucky",
+        "magical",
+        "spirited",
+        "adventurer",
+        "lazy"
+      ],
+      "summary": "Lukyn Argyle is an elf blessed by fortune, magic, and spirits, granting him natural luck and spiritual affinity. However, he remains an immature and lazy adventurer still growing into his potential.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1394028821128155257/Lu.jpg?ex=69adc582&is=69ac7402&hm=d0540d6b74479e24d4c14c04d38a92575a5c1a2d759d3b487852204112d17e69&"
+    },
+    {
+      "id": "preston-argyle",
+      "name": "Preston Argyle",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "mysterious",
+        "searching",
+        "unknown-class"
+      ],
+      "summary": "Preston Argyle is a hero actively searching for someone who resembles him, suggesting a possible connection to another individual. Little is known about his background or capabilities at this time.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1394386541291245629/image.png?ex=69adc129&is=69ac6fa9&hm=41b12a1052880aa8dae338633d09058a02b5f94c4608d9a84f7afd84bee783d&"
+    },
+    {
+      "id": "husk",
+      "name": "Husk",
+      "type": "ranger",
+      "status": "active",
+      "tags": [
+        "owlin",
+        "protector",
+        "darkness",
+        "forgotten",
+        "nocturnal"
+      ],
+      "summary": "Husk is an owlin trained to protect those surrounded by darkness, a guardian now forgotten by the world. Shrouded in mystery and shadow, this ranger operates from the edges of civilization.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1398205064610447390/HuskV2_-_Spira.jpg?ex=69adcdb0&is=69ac7c30&hm=dd608b2b434f45373133734aadd5aeb0151026f22cde7d749b457ccbbbb80a4d&"
+    },
+    {
+      "id": "leroy-o-louco",
+      "name": "Leroy o Louco",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "eccentric",
+        "mad",
+        "mysterious",
+        "philosophical"
+      ],
+      "summary": "Leroy o Louco is an enigmatic character known for his peculiar worldview and cryptic wisdom. He speaks in paradoxes and unusual pronouncements, suggesting a mind operating outside conventional logic.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1400139365652631663/image.png?ex=69ad96e6&is=69ac4566&hm=d13213cbcc58ea912af5d9ba87d6e99938e6b6c0404c529dda89352256755d24&"
+    },
+    {
+      "id": "johny-cash",
+      "name": "Johny Cash",
+      "type": "other",
+      "status": "deceased",
+      "tags": [
+        "unlucky",
+        "gambler",
+        "rogue",
+        "cursed",
+        "charming",
+        "tragic",
+        "legendary"
+      ],
+      "summary": "Johny Cash, also known as Johny Castillo, was a man born to wealth who lost everything to gambling, drinking, and magical substances. Known for his long nights at cards, his strange misfortune, and his mysterious charm, he was remembered differently by all who knew him—some as a drunken addict, others as the noble who saved a village. He now rests at the bottom of the sea, his true nature forever ambiguous between hero and cautionary tale.",
+      "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1479589959173410948/Johny_Cash.jpg?ex=69ad3fc7&is=69abee47&hm=689839b20d03e690729a018cb0118080a23a08e8ddb90fc178bc3072ed6d8dd6&"
+    },
+    {
+      "id": "nookar-thesul",
+      "name": "Nookar Thesul",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "artificer",
+        "inventor",
+        "family-oriented",
+        "progression"
+      ],
+      "summary": "Nookar Thesul is an Artificer who believes that progression and family are the foundations of life. He is dedicated to advancing both his craft and the welfare of those close to him.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1408548417201901639/file_00000000549c6246a9755e20cd1d2ffd_3.png?ex=69ad3330&is=69abe1b0&hm=3eeef6c65673feb2177696ec557c1802f00f744d3d3d420ea65912d4507db2ff&"
+    },
+    {
+      "id": "felkron",
+      "name": "Felkron",
+      "type": "mage",
+      "status": "active",
+      "tags": [
+        "mage",
+        "mysterious",
+        "magical",
+        "arcane"
+      ],
+      "summary": "Felkron is a somewhat enigmatic figure with magical abilities, though the exact nature of his powers remains unclear. A practitioner of the arcane arts, he brings an air of mystery to those who encounter him.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1411091965252206724/27E31233-86CB-4264-ACE5-6FD9D88B27A6.png?ex=69ad398d&is=69abe80d&hm=fb194741374f67ca4d68547fafe24dee282b5fc906932a5a9938e0d27893bc84&"
+    },
+    {
+      "id": "basta",
+      "name": "Basta",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "mysterious",
+        "enigmatic",
+        "folk-hero"
+      ],
+      "summary": "Basta is a notable figure in Spira, known by a single name. Little is known about their origins or true nature.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1423634863948300338/image.png?ex=69ad5f49&is=69ac0dc9&hm=b6191988f3cedcf5182b95d27b4e0ddaaed0a481b4c7a24f33e5f576be51470f&"
+    },
+    {
+      "id": "belo",
+      "name": "Belo",
+      "type": "mage",
+      "status": "active",
+      "tags": [
+        "mage",
+        "arcane",
+        "fan",
+        "admirer"
+      ],
+      "summary": "Belo is a mage who greatly admires the legendary white dragonborn mage Balo. He draws inspiration from this powerful arcane mentor figure.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1425196731615678534/Belo_o_mago_da_boca_aberta.jpg?ex=69adc7e3&is=69ac7663&hm=a59d85690dce2fb60d0981b940dd0a8c92b5e3a20bdc4067883a495c036bd429&"
+    },
+    {
+      "id": "thorgan",
+      "name": "Thorgan",
+      "type": "paladin",
+      "status": "active",
+      "tags": [
+        "goliath",
+        "paladin",
+        "stoic",
+        "resilient",
+        "mountain-born",
+        "strength"
+      ],
+      "summary": "Thorgan the Unshakeable is a stoic Goliath Paladin, a wall of flesh and steel forged in the mountains. With great strength and Stone Resistance, he seeks to prove that the greatest strength of all is simply the ability to never fall.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1439003407519060029/ChatGPT_Image_14_11_2025_18_54_41.png?ex=69ad409b&is=69abef1b&hm=3c0d183c55e25acffc6d2ff8c8c10eb983cc9e630ace8a348c256d6ece0f1848&"
+    },
+    {
+      "id": "rhainnis",
+      "name": "Rhainnis",
+      "type": "cleric",
+      "status": "active",
+      "tags": [
+        "cleric",
+        "follower-of-solenar",
+        "free-woman",
+        "devoted"
+      ],
+      "summary": "Rhainnis is a free woman devoted to Solenar. She is an active follower of the faith and serves her deity with determination.",
+      "image": null
+    },
+    {
+      "id": "oric",
+      "name": "Oric",
+      "type": "paladin",
+      "status": "retired",
+      "tags": [
+        "kobold",
+        "green-dragon",
+        "paladin",
+        "determined",
+        "draconic",
+        "lucky",
+        "adventurer"
+      ],
+      "summary": "Oric is a small green kobold paladin who became an adventurer by accident but was saved by fortune. Nervous yet determined, this unlikely hero represents the power of luck and providence.",
+      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1455275666307158026/portuguesebully._A_small_green_kobold_paladin_nervous_but_deter_72965062-49de-4604-bd78-5ecd6f65a9da.png?ex=69adc894&is=69ac7714&hm=cc5a1df72445ce3d966bc4313c2ae63bf77e0c224ce35b4aeba1fbbad106da81&"
+    },
+    {
+      "id": "troht",
+      "name": "Troht",
+      "type": "warrior",
+      "status": "active",
+      "tags": [
+        "dwarf",
+        "talset",
+        "blue-hood",
+        "group-survivor"
+      ],
+      "summary": "Troht is a dwarf who came to the party from Talset after his former group was dissolved. He is notably distinguished by his blue hood.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1444241073256796170/a9e908a0-ada4-4149-914e-68ffee71c46d.png?ex=69ad30d0&is=69abdf50&hm=2fba03821f0c6559405631f834e78a3e478b626d26c4a5f85f8b534755ea8160&"
+    },
+    {
+      "id": "clara-grütze",
+      "name": "Clara Grütze",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "guild-mother",
+        "leader",
+        "support"
+      ],
+      "summary": "Clara Grütze is the new mother figure of the guild, taking on a leadership and supportive role for her companions. Her compassionate nature has made her an important anchor for the group's camaraderie.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1446978780198473920/23a46098-de9c-4dcc-9872-210ca4397d2b.jpg?ex=69ad4340&is=69abf1c0&hm=5597fc10bd3d133e36560883f02c688b92b9366326884d05cc06bf6feae5b585&"
+    },
+    {
+      "id": "florivia-pozinha",
+      "name": "Florivia Pózinha",
+      "type": "cleric",
+      "status": "active",
+      "tags": [
+        "fairy",
+        "healer",
+        "protector",
+        "enchanted",
+        "compassionate"
+      ],
+      "summary": "Florivia Pózinha is a fairy cleric devoted to protecting those in need. Her motto, 'It is never too late to protect those who need it,' reflects her unwavering commitment to healing and safeguarding others.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1455825353078603817/portuguesebully._A_fat_fairy_flying_around_in_an_enchented_fore_ec8c362b-bb8b-4def-bb93-13e2098a2f40.png?ex=69adce44&is=69ac7cc4&hm=b6a572f6cde31e7e3f5194d623b938f5e63c80aad0182e44ac50a4fdb1abf3fa&"
+    },
+    {
+      "id": "thundros",
+      "name": "Thundros",
+      "type": "warrior",
+      "status": "active",
+      "tags": [
+        "protector",
+        "strength",
+        "goliath",
+        "defender"
+      ],
+      "summary": "Thundros is a powerful warrior who believes that strength exists to protect those who lack it. A stalwart defender driven by a noble philosophy of using power responsibly.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1460279442206232814/Goliath.png?ex=69ad87b5&is=69ac3635&hm=4dc065ec01f46144d34ca34a09b85afe2f9891ee58bcdb4fee9eea46eb2412b7&"
+    },
+    {
+      "id": "kip-anu",
+      "name": "Kip Anu",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "monk",
+        "martial-arts",
+        "calm",
+        "problem-solver",
+        "contemplative"
+      ],
+      "summary": "Kip Anu is a monk who strives to resolve problems with patience and composure, though he admits he sometimes resorts to faster solutions. He is careful about his destructive potential and makes a self-aware joke about not breaking anything important by accident.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1465799328432914456/Kip_Anu.png?ex=69add601&is=69ac8481&hm=5c3ce50ba2564fd9be56c53c2366129bc9eca2aa3e1b7a4d4288731811e05a64&"
+    },
+    {
+      "id": "ronog",
+      "name": "Ronog, o Dragão Negro",
+      "type": "warrior",
+      "status": "retired",
+      "tags": [
+        "wyvern-rider",
+        "dragon",
+        "legendary",
+        "guild-adventurer"
+      ],
+      "summary": "Ronog the Black Dragon was proclaimed the strongest adventurer of the guild and an eternal wyvern rider. He adventured in the name of Ernesto Garza for exactly one year before retiring on November 26, 2024.",
+      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1317306230716371005/Ronog.jpg?ex=69ad7d47&is=69ac2bc7&hm=880e026b1c08b1270544012a1c71436f1d43eac34248d1fcd86f0be4093f6c5b&"
+    },
+    {
+      "id": "jane",
+      "name": "Jane",
+      "type": "other",
+      "status": "retired",
+      "tags": [
+        "adventurer",
+        "property-owner",
+        "guardian",
+        "settlement-founder"
+      ],
+      "summary": "Jane was an adventurer who, alongside her companions, won a land auction and successfully adopted Sara, establishing a new home and settlement with the help of Xolani and local allies.",
+      "image": null
+    },
+    {
+      "id": "sara",
+      "name": "Sara",
+      "type": "bard",
+      "status": "retired",
+      "tags": [
+        "musician",
+        "bard",
+        "community builder",
+        "dreamer"
+      ],
+      "summary": "Sara is a bard who, after her adventuring days, settled down with the help of her companions. Together they built a combined home and music school, a sanctuary where Sara could cultivate her musical dreams and teach others.",
+      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1320444349066121336/brakk__Roll-1.jpg?ex=69adb321&is=69ac61a1&hm=5c52d2e343f46e5f5f1094f0bc923f5e25d0d3de3bb0440e5d50c1d1b227c830&"
+    },
+    {
+      "id": "unnamed-music-teacher",
+      "name": "Unnamed Music Teacher",
+      "type": "bard",
+      "status": "retired",
+      "tags": [
+        "bard",
+        "teacher",
+        "community",
+        "music",
+        "mentor"
+      ],
+      "summary": "A compassionate music teacher who founded a music school and formed a partnership with the local orphanage. Through community sponsorships and personal dedication, they created a welcoming space for orphans like Sara, establishing a thriving institution dedicated to music and dreams.",
+      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1320444795273085000/file-98TQTSgg5QDMPvaW2ew7kY-1.webp?ex=69adb38b&is=69ac620b&hm=9faffe46363a87fa4cc2e27cc5d7bb7e5fa825312529fddbdd34924703b2622b&"
+    },
+    {
+      "id": "jane-and-brakk",
+      "name": "Jane and Brakk",
+      "type": "other",
+      "status": "retired",
+      "tags": [
+        "couple",
+        "educators",
+        "parents",
+        "community-builders",
+        "found-family"
+      ],
+      "summary": "Jane and Brakk are a retired couple who now manage a school and care for Sara, their adopted daughter. Though Jane struggles with business management and carries an outstanding debt to a patron, they have built a happy life together, with Brakk serving as a devoted father and protector while Jane embraces motherhood. Their school welcomes orphans from Talset and members of the Falahar community, becoming a beacon of hope and education.",
+      "image": null
+    },
+    {
+      "id": "clevius",
+      "name": "Clevius",
+      "type": "other",
+      "status": "retired",
+      "tags": [
+        "artificer",
+        "craftsman",
+        "blacksmith",
+        "family-oriented",
+        "humble"
+      ],
+      "summary": "Clevius is a skilled artificer who retired to his village to work alongside his brother Melvius at the Moldler's Forge. Once an adventurer, he now dedicates himself to crafting tools and protective equipment that may one day save lives. He has found peace and purpose in his work, united with his family in the mountains.",
+      "image": null
+    },
+    {
+      "id": "xolani-o-xamã-dos-xhosa",
+      "name": "!Xolani o Xamã dos !!Xhosa",
+      "type": "druid",
+      "status": "retired",
+      "tags": [
+        "bugbear",
+        "druid",
+        "shaman",
+        "tribal",
+        "nature",
+        "mentor"
+      ],
+      "summary": "!Xolani is a young bugbear druid who was initially forced onto a path not of his choosing, but destiny proved otherwise. Throughout his adventuring career from November 2023 to January 2025, he formed deep bonds with companions and learned invaluable lessons that he carries forward to help his tribe prosper. He retired with the rank of Titanium from the Adventurers' Guild of Ernesto Garza.",
+      "image": null
+    },
+    {
+      "id": "zachiel",
+      "name": "Zachiel",
+      "type": "warrior",
+      "status": "retired",
+      "tags": [
+        "half-orc",
+        "fighter",
+        "barbarian",
+        "monster-hunter",
+        "redeemed"
+      ],
+      "summary": "Zachiel is a Half-Orc Fighter/Barbarian who began his adventuring career seeking revenge after being cast out from home, but found redemption and family within the Ernesto Garza Adventurers' Guild. Over 34 adventures spanning from October 2024 to April 2025, his hatred transformed into belonging. He retires at Gold rank with a newfound calling to hunt giant monsters while cherishing the bonds he formed.",
+      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1359231012177187060/Zachiel.png?ex=69adbd86&is=69ac6c06&hm=c4123cb1d68d4e2a704ba5e98f4d857e558781395c2acef245f1b3eee99411a5&"
+    },
+    {
+      "id": "amble",
+      "name": "Amble",
+      "type": "cleric",
+      "status": "retired",
+      "tags": [
+        "healer",
+        "cleric",
+        "missionary",
+        "compassionate",
+        "silver-rank"
+      ],
+      "summary": "Amble is a compassionate cleric who dedicated his adventuring career to helping others, from his time with the Garza guild to aiding refugees after Asura's destruction. He has retired as a Silver-rank hero and now travels the continent as a missionary of Kunkare, continuing his mission to aid those in need.",
+      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1390684994351136858/image.png?ex=69ad78d4&is=69ac2754&hm=d6329233c7b0392fbab252bc7d15afd44294f623f009c80970cb742a65f7cc13&"
+    },
+    {
+      "id": "jahira-hardy",
+      "name": "Jahira Hardy",
+      "type": "rogue",
+      "status": "retired",
+      "tags": [
+        "pirate",
+        "clone",
+        "blue-skinned",
+        "leader",
+        "vengeful"
+      ],
+      "summary": "Jahira Hardy is a blue clone of the original Jahira who fell in a pyramid, born from an accidental mixing of the Hardy family's cloning experiments. Betrayed and rejected by her own family—her father Jeff and brother Tom attempted to poison her—she destroyed the entire Hardy lineage and now seeks to reclaim her rightful place as leader of the clan. She has retired to Greyford with Perrie, her loyal companion and now husband, to establish a new family and pirate fleet built on honor, courage, and resilience.",
+      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1443599770282364978/jahira-clone_b.jpg?ex=69ad7e8e&is=69ac2d0e&hm=28d7548f4682b5877d0d2a8c2b1e5d5b0e4c4a7b6f1d9e3c5a8b2d7f0e1c4a"
+    },
+    {
+      "id": "perrie-pervail",
+      "name": "Perrie Pervail",
+      "type": "druid",
+      "status": "retired",
+      "tags": [
+        "pirate",
+        "druid",
+        "drinker",
+        "jahira",
+        "greyford"
+      ],
+      "summary": "Perrie Pervail was a large drunken pirate druid who adventured from May 5, 2025 to November 27, 2025, completing 21 adventures and earning Gold status. Obsessed with Jahira, he lost hope and went his own way, but ultimately achieved his dream of becoming a Hardy. He retired to a cave in Greyford with Jahira.",
+      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1443706604070637708/image.png?ex=69ad394d&is=69abe7cd&hm=10d572c25abf3f6dcb73ae5120596c96d7f3b64ea9c807e7430e596353540588&"
+    },
+    {
+      "id": "luckyn",
+      "name": "Luckyn",
+      "type": "mage",
+      "status": "retired",
+      "tags": [
+        "sorcerer",
+        "chaotic",
+        "young",
+        "inexperienced"
+      ],
+      "summary": "Luckyn was a mad sorcerer who embarked on a brief adventuring career from July 2025 to February 2026, completing 10 silver-ranked adventures. Too inexperienced and young for the adventuring life, he retired to his parents' home, though his future plans remain uncertain.",
+      "image": null
+    },
+    {
+      "id": "preston",
+      "name": "Preston",
+      "type": "other",
+      "status": "retired",
+      "tags": [
+        "ama-seca",
+        "caretaker",
+        "spring-court",
+        "contract"
+      ],
+      "summary": "Preston was an adventurer who served a 13-adventure career from July 13, 2025 to February 19, 2026, achieving silver rank. After fulfilling a duty to care for his brother, he retired to the Court of the Spring Queen to honor his contract with her.",
+      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1473841231049265223/image.png?ex=69ad6ddc&is=69ac1c5c&hm=f217e82dec61bea299f5ef6b29b999bfd62bc4b3781ac41d319d739023e74a53&"
+    },
+    {
+      "id": "chakalaka",
+      "name": "Chakalaka",
+      "type": "bard",
+      "status": "deceased",
+      "tags": [
+        "bard",
+        "charismatic",
+        "electrifying",
+        "adventurer",
+        "musician",
+        "unpredictable",
+        "energetic"
+      ],
+      "summary": "Chakalaka was a bard who lived life with flair and spontaneity. He met his end in a manner as unexpected and electrifying as the way he lived, leaving behind a legacy of bold performances and untamed spirit.",
+      "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1299746215394545776/IMG_1220.jpg?ex=69ad8bfd&is=69ac3a7d&hm=69b7f37bb900d0b6b47341f3b222398cb6a98d6d53b51ec1777d2da78f59ffa8&"
+    },
+    {
+      "id": "melinha",
+      "name": "Melinha",
+      "type": "warrior",
+      "status": "deceased",
+      "tags": [
+        "barbarian",
+        "fairy",
+        "fierce",
+        "beloved",
+        "fallen"
+      ],
+      "summary": "Melinha, also known as Melga to some, was a fierce fairy barbarian who rests in a beautiful tomb adorned with flowers. Legend says that a part of her flame lives on in the heart of her brother Marro.",
+      "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1356725698139652147/Fairy_Barbarian-1.jpg?ex=69addac5&is=69ac8945&hm=7b7089102527d34d290dcd1b0999bdde9a464080a1a7746ef547b4d550cf311c&"
+    },
+    {
+      "id": "avo-ziva",
+      "name": "Avó Ziva",
+      "type": "other",
+      "status": "deceased",
+      "tags": [
+        "elderly",
+        "criminal",
+        "talset",
+        "dragon-slain",
+        "infamous"
+      ],
+      "summary": "Avó Ziva was an elderly criminal woman identified in Talset, known by aliases including 'Madeira com caruncho' (wood with woodworm). She met her end at the claws or breath of a dragon, a fate some believed she deserved.",
+      "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1356727160055791686/ziva_midjourney.png?ex=69ad3361&is=69abe1e1&hm=36261d0611b163a245e5c91f7dcd446ddc1603f72dcb5e2acccb1a5af1b8e2ed&"
+    },
+    {
+      "id": "raziel",
+      "name": "Raziel",
+      "type": "other",
+      "status": "deceased",
+      "tags": [
+        "mysterious",
+        "unknown-origin",
+        "deceased"
+      ],
+      "summary": "Raziel was a hero whose full surname remains unknown. Little is recorded of this mysterious figure's life and deeds.",
+      "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1383580123445465111/image.png?ex=69ad5527&is=69ac03a7&hm=9d69932e1ab480894c4f1f01c1674450ad8c74ba7c6d9889998f9f1128e411be&"
+    },
+    {
+      "id": "balo-rainshine",
+      "name": "Balo Rainshine",
+      "type": "mage",
+      "status": "deceased",
+      "tags": [
+        "mage",
+        "arcane",
+        "asura"
+      ],
+      "summary": "Balo Rainshine was a mage from Asura. He is now deceased.",
+      "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1390154073629528134/image.png?ex=69ad849e&is=69ac331e&hm=6234622c5c75c569cb25c8d67f63f3429ac205b1c50685fe6c7fa4a52b4c4e29&"
+    },
+    {
+      "id": "zuko-mabari",
+      "name": "Zuko Mabari",
+      "type": "warrior",
+      "status": "deceased",
+      "tags": [
+        "fighter",
+        "loyal",
+        "companion",
+        "mabari"
+      ],
+      "summary": "Zuko Mabari was a warrior who fought alongside his faithful companion Sir Quackson. Together they formed a formidable duo known for their unwavering loyalty and combat prowess.",
+      "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1406557013567078501/zuko-token.png?ex=69ad34cc&is=69abe34c&hm=08800fb99b7a8267db2be50eaed3242bbc9efc25a4665863fb437ca967f602c8&"
+    },
+    {
+      "id": "arnaldo",
+      "name": "Arnaldo",
+      "type": "warrior",
+      "status": "deceased",
+      "tags": [
+        "kenku",
+        "fighter",
+        "brave",
+        "tragic",
+        "family-driven"
+      ],
+      "summary": "Arnaldo was a courageous Kenku warrior who fought fiercely to protect his family and uphold his honor. Facing overwhelming odds, he chose a defiant death rather than surrender, his final moments a mix of rage, pride, and the weight of sacrifices made along his journey.",
+      "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1434983471507570710/portuguesebully.__93550bcb-8a66-4b91-b5a2-26ae4a3114c1.png?ex=69adca00&is=69ac7880&hm=d90975087390d69e16451f35cd4eff20417e8b4c424ffb4cf3a1e4e3d7920271"
     }
   ]
 }
