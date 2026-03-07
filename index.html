@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Spira Wiki</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1 class="site-title">Spira Wiki</h1>
+      <p class="site-subtitle">The living record of our world</p>
+    </div>
+  </header>
+
+  <nav class="site-nav">
+    <div class="container">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="pages/world.html">World</a></li>
+        <li><a href="pages/locations.html">Locations</a></li>
+        <li><a href="pages/heroes.html">Heroes</a></li>
+        <li><a href="pages/enemies.html">Enemies</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <main class="container">
+    <section class="hero-section">
+      <h2>Welcome, Adventurer</h2>
+      <p>This wiki contains the collected lore, history, and chronicles of our campaign world. Use the navigation above to explore.</p>
+    </section>
+
+    <section class="cards-grid" id="home-cards">
+      <a class="card" href="pages/world.html">
+        <span class="card-icon">🌍</span>
+        <h3>World</h3>
+        <p>History, cosmology, factions, and lore of the world.</p>
+      </a>
+      <a class="card" href="pages/locations.html">
+        <span class="card-icon">🗺️</span>
+        <h3>Locations</h3>
+        <p>Cities, dungeons, wilderness, and points of interest.</p>
+      </a>
+      <a class="card" href="pages/heroes.html">
+        <span class="card-icon">⚔️</span>
+        <h3>Heroes</h3>
+        <p>Player characters and their stories.</p>
+      </a>
+      <a class="card" href="pages/enemies.html">
+        <span class="card-icon">💀</span>
+        <h3>Enemies</h3>
+        <p>Monsters, bosses, and antagonists encountered.</p>
+      </a>
+    </section>
+
+    <section class="recent-updates" id="recent-updates">
+      <h2>Recent Updates</h2>
+      <ul id="updates-list">
+        <li>Wiki initialized — start adding content!</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Last updated: <span id="last-updated">—</span></p>
+    </div>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

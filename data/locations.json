@@ -1,0 +1,13 @@
+{
+  "lastUpdated": "2026-03-07T00:00:00Z",
+  "entries": [
+    {
+      "id": "location-example",
+      "name": "Example Location",
+      "type": "city",
+      "tags": ["example", "city"],
+      "summary": "A placeholder location. Replace with actual places from the campaign.",
+      "image": null
+    }
+  ]
+}

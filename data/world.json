@@ -1,0 +1,13 @@
+{
+  "lastUpdated": "2026-03-07T00:00:00Z",
+  "entries": [
+    {
+      "id": "world-example",
+      "name": "Example World Entry",
+      "type": "history",
+      "tags": ["lore", "example"],
+      "summary": "This is a placeholder. Replace with real world lore.",
+      "image": null
+    }
+  ]
+}

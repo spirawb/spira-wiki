@@ -1,0 +1,13 @@
+{
+  "lastUpdated": "2026-03-07T00:00:00Z",
+  "entries": [
+    {
+      "id": "enemy-example",
+      "name": "Example Enemy",
+      "type": "beast",
+      "tags": ["example", "cr-1"],
+      "summary": "A placeholder enemy. Replace with actual monsters and antagonists.",
+      "image": null
+    }
+  ]
+}
