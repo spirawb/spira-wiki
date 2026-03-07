@@ -25,6 +25,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Inject cache-busting version into HTML
+        run: |
+          BUILD_VER=$(date +%Y%m%d%H%M%S)
+          echo "Cache version: $BUILD_VER"
+          find . -name "*.html" -not -path "./.git/*" \
+            -exec sed -i "s/__CACHE_VER__/$BUILD_VER/g" {} +
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 

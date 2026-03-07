@@ -12,7 +12,8 @@ const BASE = location.pathname.includes('/pages/') ? '../' : './';
 // ── Utilities ──────────────────────────────────────────────────────────────
 
 async function loadJSON(path) {
-  const res = await fetch(path);
+  // Cache-bust data files on every request so bot updates are always visible
+  const res = await fetch(`${path}?t=${Date.now()}`);
   if (!res.ok) throw new Error(`Failed to load ${path}: ${res.status}`);
   return res.json();
 }
