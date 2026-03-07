@@ -2,11 +2,11 @@
   "lastUpdated": "2026-03-07T00:00:00Z",
   "entries": [
     {
-      "id": "hero-example",
-      "name": "Example Hero",
+      "id": "heroi-exemplo",
+      "name": "Herói de Exemplo",
       "type": "warrior",
-      "tags": ["example", "level-1"],
-      "summary": "A placeholder hero. Replace with actual player characters.",
+      "tags": ["exemplo", "nivel-1"],
+      "summary": "Um herói placeholder. Substitui com os personagens reais dos jogadores.",
       "image": null
     }
   ]

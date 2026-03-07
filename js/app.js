@@ -21,7 +21,7 @@ function setLastUpdated(isoDate) {
   const el = document.getElementById('last-updated');
   if (!el) return;
   el.textContent = isoDate
-    ? new Date(isoDate).toLocaleDateString(undefined, { dateStyle: 'long' })
+    ? new Date(isoDate).toLocaleDateString('pt-PT', { dateStyle: 'long' })
     : '—';
 }
 
@@ -59,7 +59,7 @@ async function loadHome() {
 
 function renderEntries(entries, container, iconMap = {}) {
   if (!entries?.length) {
-    container.innerHTML = `<div class="empty-state">No entries yet. Start adding content!</div>`;
+    container.innerHTML = `<div class="empty-state">Sem entradas ainda. Começa a adicionar conteúdo!</div>`;
     return;
   }
 
@@ -94,7 +94,7 @@ async function loadWorld() {
     setLastUpdated(data.lastUpdated);
     renderEntries(data.entries, container);
   } catch (e) {
-    container.innerHTML = `<div class="empty-state">World data not found.</div>`;
+    container.innerHTML = `<div class="empty-state">Dados do mundo não encontrados.</div>`;
   }
 }
 
@@ -107,7 +107,7 @@ async function loadLocations() {
     setLastUpdated(data.lastUpdated);
     renderEntries(data.entries, container, icons);
   } catch (e) {
-    container.innerHTML = `<div class="empty-state">Locations data not found.</div>`;
+    container.innerHTML = `<div class="empty-state">Dados de localizações não encontrados.</div>`;
   }
 }
 
@@ -120,7 +120,7 @@ async function loadHeroes() {
     setLastUpdated(data.lastUpdated);
     renderEntries(data.entries, container, icons);
   } catch (e) {
-    container.innerHTML = `<div class="empty-state">Heroes data not found.</div>`;
+    container.innerHTML = `<div class="empty-state">Dados de heróis não encontrados.</div>`;
   }
 }
 
@@ -133,7 +133,7 @@ async function loadEnemies() {
     setLastUpdated(data.lastUpdated);
     renderEntries(data.entries, container, icons);
   } catch (e) {
-    container.innerHTML = `<div class="empty-state">Enemies data not found.</div>`;
+    container.innerHTML = `<div class="empty-state">Dados de inimigos não encontrados.</div>`;
   }
 }
 

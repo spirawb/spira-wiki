@@ -1,11 +1,11 @@
 {
   "siteName": "Spira Wiki",
-  "description": "The living record of our TTRPG world",
+  "description": "O registo vivo do nosso mundo de TTRPG",
   "lastUpdated": "2026-03-07T00:00:00Z",
   "recentUpdates": [
     {
       "date": "2026-03-07",
-      "text": "Wiki initialized — ready for content!"
+      "text": "Wiki inicializada — pronta para receber conteúdo!"
     }
   ]
 }

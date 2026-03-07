@@ -2,11 +2,11 @@
   "lastUpdated": "2026-03-07T00:00:00Z",
   "entries": [
     {
-      "id": "world-example",
-      "name": "Example World Entry",
+      "id": "world-exemplo",
+      "name": "Exemplo de Entrada do Mundo",
       "type": "history",
-      "tags": ["lore", "example"],
-      "summary": "This is a placeholder. Replace with real world lore.",
+      "tags": ["lore", "exemplo"],
+      "summary": "Isto é um placeholder. Substitui com o lore real do mundo.",
       "image": null
     }
   ]
