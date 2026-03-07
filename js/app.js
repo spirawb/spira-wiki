@@ -70,7 +70,7 @@ function renderEntries(entries, container, iconMap = {}) {
       : placeholderImg(iconMap[entry.type] || '📄');
 
     const tags = entry.tags?.length
-      ? `<div class="tags">${entry.tags.map(t => `<span class="tag">${t}</span>`).join('')}</div>`
+      ? `<div class="tags">${entry.tags.map(t => `<span class="tag" data-tag="${t}">${t}</span>`).join('')}</div>`
       : '';
 
     return `
@@ -85,6 +85,103 @@ function renderEntries(entries, container, iconMap = {}) {
   }).join('');
 }
 
+// ── Search & Filter ────────────────────────────────────────────────────────
+
+function initSearchAndFilter(entries, container, iconMap = {}) {
+  // Collect all unique tags across every entry, sorted alphabetically
+  const allTags = [...new Set(entries.flatMap(e => e.tags || []))].sort();
+
+  // Mutable filter state
+  let searchQuery = '';
+  const activeTags = new Set();
+
+  // Build the search bar and inject it before the entry container
+  const bar = document.createElement('div');
+  bar.className = 'search-filter-bar';
+  bar.innerHTML = `
+    <div class="search-input-wrap">
+      <span class="search-icon">🔍</span>
+      <input type="search" class="search-input"
+             placeholder="Pesquisar…" autocomplete="off" spellcheck="false" />
+    </div>
+    ${allTags.length ? `
+      <div class="tag-filter-wrap">
+        <span class="tag-filter-label">Etiquetas:</span>
+        <div class="tag-filter-pills">
+          ${allTags.map(t => `<button class="tag-pill" data-tag="${t}">${t}</button>`).join('')}
+        </div>
+      </div>` : ''}
+    <p class="search-count" id="search-count" hidden></p>
+  `;
+  container.parentNode.insertBefore(bar, container);
+
+  // Re-render with current filter state
+  function applyFilters() {
+    let filtered = entries;
+
+    if (searchQuery) {
+      const q = searchQuery.toLowerCase();
+      filtered = filtered.filter(e =>
+        e.name.toLowerCase().includes(q) ||
+        e.summary?.toLowerCase().includes(q) ||
+        e.tags?.some(t => t.toLowerCase().includes(q))
+      );
+    }
+
+    if (activeTags.size > 0) {
+      filtered = filtered.filter(e =>
+        [...activeTags].every(t => e.tags?.includes(t))
+      );
+    }
+
+    renderEntries(filtered, container, iconMap);
+    attachEntryTagHandlers();
+
+    // Update the result count
+    const countEl = document.getElementById('search-count');
+    if (countEl) {
+      const active = searchQuery || activeTags.size > 0;
+      countEl.hidden = !active;
+      countEl.textContent = active
+        ? `${filtered.length} de ${entries.length} entrada${entries.length !== 1 ? 's' : ''}`
+        : '';
+    }
+  }
+
+  // Toggle a tag and sync the filter bar pill state
+  function toggleTag(tag) {
+    const pill = bar.querySelector(`.tag-pill[data-tag="${CSS.escape(tag)}"]`);
+    if (activeTags.has(tag)) {
+      activeTags.delete(tag);
+      pill?.classList.remove('active');
+    } else {
+      activeTags.add(tag);
+      pill?.classList.add('active');
+    }
+    applyFilters();
+  }
+
+  // Make tags on rendered entry cards trigger the filter
+  function attachEntryTagHandlers() {
+    container.querySelectorAll('.tag[data-tag]').forEach(el => {
+      el.addEventListener('click', () => toggleTag(el.dataset.tag));
+    });
+  }
+
+  // Wire up the search input
+  bar.querySelector('.search-input').addEventListener('input', e => {
+    searchQuery = e.target.value.trim();
+    applyFilters();
+  });
+
+  // Wire up the filter bar tag pills
+  bar.querySelectorAll('.tag-pill').forEach(pill => {
+    pill.addEventListener('click', () => toggleTag(pill.dataset.tag));
+  });
+
+  applyFilters(); // initial render
+}
+
 // ── Page loaders ───────────────────────────────────────────────────────────
 
 async function loadWorld() {
@@ -93,7 +190,7 @@ async function loadWorld() {
   try {
     const data = await loadJSON(`${BASE}data/world.json`);
     setLastUpdated(data.lastUpdated);
-    renderEntries(data.entries, container);
+    initSearchAndFilter(data.entries, container);
   } catch (e) {
     container.innerHTML = `<div class="empty-state">Dados do mundo não encontrados.</div>`;
   }
@@ -106,7 +203,7 @@ async function loadLocations() {
   try {
     const data = await loadJSON(`${BASE}data/locations.json`);
     setLastUpdated(data.lastUpdated);
-    renderEntries(data.entries, container, icons);
+    initSearchAndFilter(data.entries, container, icons);
   } catch (e) {
     container.innerHTML = `<div class="empty-state">Dados de localizações não encontrados.</div>`;
   }
@@ -119,7 +216,7 @@ async function loadHeroes() {
   try {
     const data = await loadJSON(`${BASE}data/heroes.json`);
     setLastUpdated(data.lastUpdated);
-    renderEntries(data.entries, container, icons);
+    initSearchAndFilter(data.entries, container, icons);
   } catch (e) {
     container.innerHTML = `<div class="empty-state">Dados de heróis não encontrados.</div>`;
   }
@@ -132,7 +229,7 @@ async function loadEnemies() {
   try {
     const data = await loadJSON(`${BASE}data/enemies.json`);
     setLastUpdated(data.lastUpdated);
-    renderEntries(data.entries, container, icons);
+    initSearchAndFilter(data.entries, container, icons);
   } catch (e) {
     container.innerHTML = `<div class="empty-state">Dados de inimigos não encontrados.</div>`;
   }

@@ -252,6 +252,107 @@ main.container { padding-top: 2.5rem; padding-bottom: 3rem; }
 .page-header p { color: var(--color-muted); margin-top: 0.25rem; }
 
 /* =====================
+   Search & Filter
+   ===================== */
+.search-filter-bar {
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.search-input-wrap {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.search-icon {
+  position: absolute;
+  left: 0.75rem;
+  font-size: 1rem;
+  pointer-events: none;
+  opacity: 0.5;
+}
+
+.search-input {
+  width: 100%;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  padding: 0.65rem 1rem 0.65rem 2.5rem;
+  color: var(--color-text);
+  font-size: 0.95rem;
+  font-family: var(--font-body);
+  outline: none;
+  transition: border-color 0.15s;
+}
+
+.search-input:focus { border-color: var(--color-accent-dim); }
+.search-input::placeholder { color: var(--color-muted); }
+.search-input::-webkit-search-cancel-button { display: none; }
+
+.tag-filter-wrap {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.tag-filter-label {
+  color: var(--color-muted);
+  font-size: 0.82rem;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.tag-filter-pills {
+  display: flex;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+}
+
+.tag-pill {
+  background: transparent;
+  border: 1px solid var(--color-border);
+  border-radius: 99px;
+  color: var(--color-muted);
+  cursor: pointer;
+  font-size: 0.75rem;
+  font-family: var(--font-body);
+  padding: 0.2rem 0.65rem;
+  transition: background 0.15s, border-color 0.15s, color 0.15s;
+}
+
+.tag-pill:hover {
+  border-color: var(--color-accent-dim);
+  color: var(--color-accent);
+}
+
+.tag-pill.active {
+  background: var(--color-accent-dim);
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+}
+
+.search-count {
+  color: var(--color-muted);
+  font-size: 0.85rem;
+  font-style: italic;
+}
+
+/* Entry card tags are clickable — highlight on hover */
+.tag[data-tag] {
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+}
+
+.tag[data-tag]:hover {
+  background: var(--color-accent);
+  color: var(--color-bg);
+}
+
+/* =====================
    Empty State
    ===================== */
 .empty-state {
