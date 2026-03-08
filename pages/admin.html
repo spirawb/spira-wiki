@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Admin — Spira Wiki</title>
+  <link rel="stylesheet" href="../css/style.css?v=__CACHE_VER__" />
+  <link rel="stylesheet" href="../css/admin.css?v=__CACHE_VER__" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1 class="site-title"><a href="../index.html" style="color:inherit;text-decoration:none">Spira Wiki</a></h1>
+      <p class="site-subtitle">O registo vivo do nosso mundo</p>
+    </div>
+  </header>
+
+  <nav class="site-nav">
+    <div class="container">
+      <ul>
+        <li><a href="../index.html">Início</a></li>
+        <li><a href="world.html">Mundo</a></li>
+        <li><a href="locations.html">Localizações</a></li>
+        <li><a href="heroes.html">Heróis</a></li>
+        <li><a href="enemies.html">Inimigos</a></li>
+        <li><a href="pantheon.html">Panteão</a></li>
+        <li><a href="news.html">Notícias</a></li>
+        <li><a href="history.html">História</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <main class="container">
+    <div class="page-header">
+      <h2>✏️ Painel de Administração</h2>
+      <p>Edita os ficheiros de conteúdo do wiki directamente no browser.</p>
+    </div>
+
+    <!-- Token section -->
+    <section class="admin-section">
+      <h3>🔑 Token GitHub</h3>
+      <p class="admin-help">
+        Precisas de um
+        <a href="https://github.com/settings/tokens/new?scopes=repo&description=Spira+Wiki+Admin"
+           target="_blank" rel="noopener noreferrer">Personal Access Token</a>
+        do GitHub com o scope <code>repo</code> (ou <code>contents: write</code> para tokens granulares).
+        O token é guardado apenas nesta sessão — é apagado quando fechares o separador.
+      </p>
+      <div class="admin-row">
+        <input type="password" id="token-input" class="admin-input"
+               placeholder="ghp_…" autocomplete="off" spellcheck="false" />
+        <button id="btn-token" class="admin-btn">Guardar Token</button>
+      </div>
+      <p id="token-status" class="admin-token-status"></p>
+    </section>
+
+    <!-- File selector -->
+    <section class="admin-section">
+      <h3>📂 Ficheiro</h3>
+      <div class="admin-row">
+        <select id="file-select" class="admin-select">
+          <option value="">— Selecciona um ficheiro —</option>
+        </select>
+        <button id="btn-load" class="admin-btn">Carregar</button>
+      </div>
+    </section>
+
+    <!-- Editor -->
+    <section class="admin-section">
+      <div class="admin-editor-header">
+        <h3>📝 Editor JSON</h3>
+        <div class="admin-editor-actions">
+          <button id="btn-format" class="admin-btn admin-btn--secondary">Formatar JSON</button>
+          <span id="spinner" hidden class="admin-spinner">A processar…</span>
+        </div>
+      </div>
+      <textarea id="editor" class="admin-editor" spellcheck="false"
+                placeholder="Carrega um ficheiro para editar…"></textarea>
+    </section>
+
+    <!-- Save -->
+    <section class="admin-section">
+      <h3>💾 Guardar</h3>
+      <div class="admin-row">
+        <input type="text" id="commit-msg" class="admin-input"
+               placeholder="Mensagem do commit (opcional)" />
+        <button id="btn-save" class="admin-btn admin-btn--primary">Confirmar &amp; Guardar</button>
+      </div>
+      <p class="admin-help">
+        O ficheiro é guardado no GitHub. O GitHub Actions reimplanta o site automaticamente (~1 min).
+      </p>
+      <div id="admin-status" class="admin-status" hidden></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Spira Wiki · <a href="../index.html">Voltar ao início</a></p>
+    </div>
+  </footer>
+
+  <script src="../js/admin.js?v=__CACHE_VER__"></script>
+</body>
+</html>

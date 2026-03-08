@@ -1,0 +1,27 @@
+{
+  "lastUpdated": "2026-03-08T00:00:00Z",
+  "entries": [
+    {
+      "id": "deus-exemplo-maior",
+      "name": "Divindade Maior (Exemplo)",
+      "tier": "major",
+      "domain": "Criação e Equilíbrio",
+      "symbol": "☀️",
+      "alignment": "Neutro",
+      "tags": ["maior", "exemplo"],
+      "summary": "Uma divindade placeholder. Substitui com os deuses maiores reais de Spira.",
+      "image": null
+    },
+    {
+      "id": "deus-exemplo-menor",
+      "name": "Divindade Menor (Exemplo)",
+      "tier": "minor",
+      "domain": "Sombras e Segredos",
+      "symbol": "🌙",
+      "alignment": "Neutro",
+      "tags": ["menor", "exemplo"],
+      "summary": "Uma divindade menor placeholder. Substitui com os deuses menores reais.",
+      "image": null
+    }
+  ]
+}

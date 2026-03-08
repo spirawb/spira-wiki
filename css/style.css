@@ -353,6 +353,245 @@ main.container { padding-top: 2.5rem; padding-bottom: 3rem; }
 }
 
 /* =====================
+   Active Tag Chips (replaces static pill bar)
+   ===================== */
+.active-tags-wrap {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+}
+
+.active-tags-label {
+  color: var(--color-muted);
+  font-size: 0.8rem;
+  white-space: nowrap;
+}
+
+.active-tag-chip {
+  background: var(--color-accent-dim);
+  border: 1px solid var(--color-accent);
+  border-radius: 99px;
+  color: var(--color-accent);
+  cursor: pointer;
+  font-size: 0.75rem;
+  font-family: var(--font-body);
+  padding: 0.2rem 0.65rem;
+  transition: background 0.15s, color 0.15s;
+}
+
+.active-tag-chip:hover {
+  background: var(--color-accent);
+  color: var(--color-bg);
+}
+
+/* =====================
+   News Feed
+   ===================== */
+.news-card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-bottom: 1.25rem;
+}
+
+.news-img {
+  width: 100%;
+  max-height: 220px;
+  object-fit: cover;
+  border-radius: var(--radius);
+  border: 1px solid var(--color-border);
+}
+
+.news-body { display: flex; flex-direction: column; gap: 0.5rem; }
+
+.news-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+}
+
+.news-date {
+  color: var(--color-muted);
+  font-size: 0.82rem;
+}
+
+.news-title {
+  font-family: var(--font-heading);
+  color: var(--color-accent);
+  font-size: 1.2rem;
+  margin: 0;
+}
+
+.news-summary {
+  color: var(--color-text);
+  font-size: 0.95rem;
+  margin: 0;
+}
+
+.news-content {
+  color: var(--color-muted);
+  font-size: 0.9rem;
+  border-top: 1px solid var(--color-border);
+  padding-top: 0.75rem;
+  margin: 0;
+}
+
+/* =====================
+   History / Eras
+   ===================== */
+.era-card {
+  display: grid;
+  grid-template-columns: 160px 1fr;
+  gap: 1.5rem;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  padding: 1.5rem;
+  margin-bottom: 1.25rem;
+  align-items: start;
+}
+
+@media (max-width: 600px) {
+  .era-card { grid-template-columns: 1fr; }
+}
+
+.era-period {
+  font-family: var(--font-heading);
+  color: var(--color-accent);
+  font-size: 0.85rem;
+  text-align: center;
+  background: var(--color-border);
+  border-radius: var(--radius);
+  padding: 0.5rem 0.75rem;
+  line-height: 1.4;
+  align-self: start;
+}
+
+.era-body h3 {
+  margin-bottom: 0.4rem;
+}
+
+.era-events {
+  list-style: none;
+  margin-top: 0.75rem;
+  border-top: 1px solid var(--color-border);
+  padding-top: 0.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.era-events li {
+  color: var(--color-muted);
+  font-size: 0.88rem;
+  padding-left: 1rem;
+  position: relative;
+}
+
+.era-events li::before {
+  content: '▸';
+  position: absolute;
+  left: 0;
+  color: var(--color-accent-dim);
+}
+
+/* =====================
+   Pantheon
+   ===================== */
+.pantheon-group {
+  margin-bottom: 2.5rem;
+}
+
+.pantheon-group-title {
+  font-size: 1.1rem;
+  color: var(--color-accent);
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+  font-family: var(--font-heading);
+}
+
+.deity-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.deity-card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  padding: 1.5rem;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 1rem;
+  align-items: start;
+}
+
+.deity-card img {
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+  border-radius: var(--radius);
+  border: 1px solid var(--color-border);
+}
+
+.deity-card .placeholder-img {
+  width: 90px;
+  height: 90px;
+  background: var(--color-border);
+  border-radius: var(--radius);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+}
+
+.deity-card h3 { margin-bottom: 0.25rem; }
+
+.deity-meta {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin: 0.3rem 0 0.5rem;
+}
+
+.deity-domain,
+.deity-alignment {
+  font-size: 0.8rem;
+  color: var(--color-muted);
+}
+
+/* =====================
+   Footer admin link
+   ===================== */
+.footer-admin-link {
+  color: var(--color-muted);
+  font-size: 0.85rem;
+  opacity: 0.7;
+  transition: opacity 0.15s;
+}
+
+.footer-admin-link:hover {
+  opacity: 1;
+  color: var(--color-accent);
+  text-decoration: none;
+}
+
+/* =====================
+   Nav — wrap on smaller screens
+   ===================== */
+.site-nav ul {
+  flex-wrap: wrap;
+}
+
+/* =====================
    Empty State
    ===================== */
 .empty-state {

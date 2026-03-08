@@ -85,17 +85,135 @@ function renderEntries(entries, container, iconMap = {}) {
   }).join('');
 }
 
+// ── News renderer ──────────────────────────────────────────────────────────
+
+function renderNews(entries, container) {
+  if (!entries?.length) {
+    container.innerHTML = `<div class="empty-state">Sem notícias ainda.</div>`;
+    return;
+  }
+  // Newest first
+  const sorted = [...entries].sort((a, b) => new Date(b.date) - new Date(a.date));
+  container.innerHTML = sorted.map(entry => {
+    const dateStr = entry.date
+      ? new Date(entry.date + 'T12:00:00').toLocaleDateString('pt-PT', { dateStyle: 'long' })
+      : '';
+    const tags = entry.tags?.length
+      ? `<div class="tags">${entry.tags.map(t => `<span class="tag" data-tag="${t}">${t}</span>`).join('')}</div>`
+      : '';
+    const imgHtml = entry.image
+      ? `<img src="${entry.image}" alt="${entry.name}" class="news-img" loading="lazy" />`
+      : '';
+    const fullContent = entry.content
+      ? `<p class="news-content">${entry.content}</p>`
+      : '';
+
+    return `
+      <article class="news-card">
+        ${imgHtml}
+        <div class="news-body">
+          <div class="news-meta">
+            ${dateStr ? `<span class="news-date">📅 ${dateStr}</span>` : ''}
+            ${tags}
+          </div>
+          <h3 class="news-title">${entry.name}</h3>
+          <p class="news-summary">${entry.summary || ''}</p>
+          ${fullContent}
+        </div>
+      </article>`;
+  }).join('');
+}
+
+// ── History renderer ───────────────────────────────────────────────────────
+
+function renderHistory(entries, container) {
+  if (!entries?.length) {
+    container.innerHTML = `<div class="empty-state">Sem história ainda.</div>`;
+    return;
+  }
+  container.innerHTML = entries.map(entry => {
+    const tags = entry.tags?.length
+      ? `<div class="tags">${entry.tags.map(t => `<span class="tag" data-tag="${t}">${t}</span>`).join('')}</div>`
+      : '';
+    const events = entry.events?.length
+      ? `<ul class="era-events">${entry.events.map(ev => `<li>${ev}</li>`).join('')}</ul>`
+      : '';
+
+    return `
+      <div class="era-card">
+        <div class="era-period">${entry.period || '???'}</div>
+        <div class="era-body">
+          <h3>${entry.name}</h3>
+          ${tags}
+          <p>${entry.summary || ''}</p>
+          ${events}
+        </div>
+      </div>`;
+  }).join('');
+}
+
+// ── Pantheon renderer ──────────────────────────────────────────────────────
+
+function renderPantheon(entries, container) {
+  if (!entries?.length) {
+    container.innerHTML = `<div class="empty-state">Sem divindades ainda.</div>`;
+    return;
+  }
+
+  const major = entries.filter(e => e.tier === 'major');
+  const minor = entries.filter(e => e.tier === 'minor');
+  const other = entries.filter(e => e.tier !== 'major' && e.tier !== 'minor');
+
+  function renderGroup(title, gods) {
+    if (!gods.length) return '';
+    const cards = gods.map(deity => {
+      const imgHtml = deity.image
+        ? `<img src="${deity.image}" alt="${deity.name}" loading="lazy" />`
+        : `<div class="placeholder-img">${deity.symbol || '🌟'}</div>`;
+      const tags = deity.tags?.length
+        ? `<div class="tags">${deity.tags.map(t => `<span class="tag" data-tag="${t}">${t}</span>`).join('')}</div>`
+        : '';
+      const meta = [
+        deity.domain    ? `<span class="deity-domain">⚗️ ${deity.domain}</span>`    : '',
+        deity.alignment ? `<span class="deity-alignment">⚖️ ${deity.alignment}</span>` : '',
+      ].filter(Boolean).join('');
+
+      return `
+        <div class="deity-card">
+          ${imgHtml}
+          <div>
+            <h3>${deity.name}</h3>
+            ${meta ? `<div class="deity-meta">${meta}</div>` : ''}
+            ${tags}
+            <p>${deity.summary || ''}</p>
+          </div>
+        </div>`;
+    }).join('');
+
+    return `
+      <div class="pantheon-group">
+        <h3 class="pantheon-group-title">${title}</h3>
+        <div class="deity-list">${cards}</div>
+      </div>`;
+  }
+
+  container.innerHTML = [
+    renderGroup('⭐ Deuses Maiores', major),
+    renderGroup('🌙 Deuses Menores', minor),
+    renderGroup('🌀 Outras Entidades', other),
+  ].join('');
+}
+
 // ── Search & Filter ────────────────────────────────────────────────────────
+// Tag filter pills have been removed from the top bar.
+// Tags on each card are clickable and activate the filter inline.
+// Active tags appear as dismissible chips below the search input.
 
-function initSearchAndFilter(entries, container, iconMap = {}) {
-  // Collect all unique tags across every entry, sorted alphabetically
-  const allTags = [...new Set(entries.flatMap(e => e.tags || []))].sort();
-
-  // Mutable filter state
+function initSearchAndFilter(entries, container, iconMap = {}, renderFn = null) {
   let searchQuery = '';
   const activeTags = new Set();
 
-  // Build the search bar and inject it before the entry container
+  // Build the search bar
   const bar = document.createElement('div');
   bar.className = 'search-filter-bar';
   bar.innerHTML = `
@@ -104,16 +222,30 @@ function initSearchAndFilter(entries, container, iconMap = {}) {
       <input type="search" class="search-input"
              placeholder="Pesquisar…" autocomplete="off" spellcheck="false" />
     </div>
-    ${allTags.length ? `
-      <div class="tag-filter-wrap">
-        <span class="tag-filter-label">Etiquetas:</span>
-        <div class="tag-filter-pills">
-          ${allTags.map(t => `<button class="tag-pill" data-tag="${t}">${t}</button>`).join('')}
-        </div>
-      </div>` : ''}
+    <div class="active-tags-wrap" hidden></div>
     <p class="search-count" id="search-count" hidden></p>
   `;
   container.parentNode.insertBefore(bar, container);
+
+  const activeTagsWrap = bar.querySelector('.active-tags-wrap');
+
+  // Render the active-tag chips (only shown when tags are active)
+  function renderActiveTagChips() {
+    if (activeTags.size === 0) {
+      activeTagsWrap.hidden = true;
+      activeTagsWrap.innerHTML = '';
+      return;
+    }
+    activeTagsWrap.hidden = false;
+    activeTagsWrap.innerHTML =
+      `<span class="active-tags-label">Etiqueta activa:</span>` +
+      [...activeTags].map(t =>
+        `<button class="active-tag-chip" data-tag="${t}">${t} ✕</button>`
+      ).join('');
+    activeTagsWrap.querySelectorAll('.active-tag-chip').forEach(chip => {
+      chip.addEventListener('click', () => toggleTag(chip.dataset.tag));
+    });
+  }
 
   // Re-render with current filter state
   function applyFilters() {
@@ -122,7 +254,7 @@ function initSearchAndFilter(entries, container, iconMap = {}) {
     if (searchQuery) {
       const q = searchQuery.toLowerCase();
       filtered = filtered.filter(e =>
-        e.name.toLowerCase().includes(q) ||
+        e.name?.toLowerCase().includes(q) ||
         e.summary?.toLowerCase().includes(q) ||
         e.tags?.some(t => t.toLowerCase().includes(q))
       );
@@ -134,10 +266,14 @@ function initSearchAndFilter(entries, container, iconMap = {}) {
       );
     }
 
-    renderEntries(filtered, container, iconMap);
+    if (renderFn) {
+      renderFn(filtered, container);
+    } else {
+      renderEntries(filtered, container, iconMap);
+    }
     attachEntryTagHandlers();
 
-    // Update the result count
+    // Update result count
     const countEl = document.getElementById('search-count');
     if (countEl) {
       const active = searchQuery || activeTags.size > 0;
@@ -148,35 +284,27 @@ function initSearchAndFilter(entries, container, iconMap = {}) {
     }
   }
 
-  // Toggle a tag and sync the filter bar pill state
+  // Toggle a tag filter on/off
   function toggleTag(tag) {
-    const pill = bar.querySelector(`.tag-pill[data-tag="${CSS.escape(tag)}"]`);
     if (activeTags.has(tag)) {
       activeTags.delete(tag);
-      pill?.classList.remove('active');
     } else {
       activeTags.add(tag);
-      pill?.classList.add('active');
     }
+    renderActiveTagChips();
     applyFilters();
   }
 
-  // Make tags on rendered entry cards trigger the filter
+  // Make tags on rendered entry cards clickable
   function attachEntryTagHandlers() {
     container.querySelectorAll('.tag[data-tag]').forEach(el => {
       el.addEventListener('click', () => toggleTag(el.dataset.tag));
     });
   }
 
-  // Wire up the search input
   bar.querySelector('.search-input').addEventListener('input', e => {
     searchQuery = e.target.value.trim();
     applyFilters();
-  });
-
-  // Wire up the filter bar tag pills
-  bar.querySelectorAll('.tag-pill').forEach(pill => {
-    pill.addEventListener('click', () => toggleTag(pill.dataset.tag));
   });
 
   applyFilters(); // initial render
@@ -235,6 +363,42 @@ async function loadEnemies() {
   }
 }
 
+async function loadPantheon() {
+  const container = document.getElementById('pantheon-entries');
+  if (!container) return;
+  try {
+    const data = await loadJSON(`${BASE}data/pantheon.json`);
+    setLastUpdated(data.lastUpdated);
+    initSearchAndFilter(data.entries, container, {}, renderPantheon);
+  } catch (e) {
+    container.innerHTML = `<div class="empty-state">Dados do panteão não encontrados.</div>`;
+  }
+}
+
+async function loadNews() {
+  const container = document.getElementById('news-entries');
+  if (!container) return;
+  try {
+    const data = await loadJSON(`${BASE}data/news.json`);
+    setLastUpdated(data.lastUpdated);
+    initSearchAndFilter(data.entries, container, {}, renderNews);
+  } catch (e) {
+    container.innerHTML = `<div class="empty-state">Dados de notícias não encontrados.</div>`;
+  }
+}
+
+async function loadHistory() {
+  const container = document.getElementById('history-entries');
+  if (!container) return;
+  try {
+    const data = await loadJSON(`${BASE}data/history.json`);
+    setLastUpdated(data.lastUpdated);
+    initSearchAndFilter(data.entries, container, {}, renderHistory);
+  } catch (e) {
+    container.innerHTML = `<div class="empty-state">Dados de história não encontrados.</div>`;
+  }
+}
+
 // ── Boot ───────────────────────────────────────────────────────────────────
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -242,11 +406,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const page = location.pathname.split('/').pop() || 'index.html';
   const loaders = {
-    'index.html': loadHome,
-    'world.html':     loadWorld,
+    'index.html':    loadHome,
+    'world.html':    loadWorld,
     'locations.html': loadLocations,
-    'heroes.html':    loadHeroes,
-    'enemies.html':   loadEnemies,
+    'heroes.html':   loadHeroes,
+    'enemies.html':  loadEnemies,
+    'pantheon.html': loadPantheon,
+    'news.html':     loadNews,
+    'history.html':  loadHistory,
   };
 
   (loaders[page] || (() => {}))();
