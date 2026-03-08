@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-08T20:18:19.129Z",
+  "lastUpdated": "2026-03-08T20:38:27.805Z",
   "entries": [
     {
       "id": "deus-exemplo-menor",
@@ -28,9 +28,10 @@
         "progresso",
         "titã",
         "tecnologia",
-        "protetor"
+        "protetor",
+        "titã primordial"
       ],
-      "summary": "Buzug é um titã primordial cordial com a humanidade, cuja verdadeira origem permanece misteriosa. Odiava o mundo primordial e dedicou-se a proteger as formas de vida inteligentes para acelerar o progresso do mundo. Diz-se que Katta'Ra, uma cidade de tecnologia sem igual, existe nas formas que cobrem o seu corpo colossal.",
+      "summary": "Buzug é um titã primordial cordial para com a humanidade, conhecido por proteger as formas de vida inteligentes e impulsionar o progresso no mundo. Diz-se que carrega em seu corpo a lendária Katta'Ra, uma cidade de tecnologia ímpar onde o avanço é sem paralelo. Venerado por humanos, gnomos e seguidores de várias raças que esperam um dia alcançar essa cidade sagrada.",
       "image": null
     },
     {
@@ -48,7 +49,7 @@
         "cleric",
         "vida"
       ],
-      "summary": "Um titã primordial que desde os primórdios protege todos os seres capazes de sentimentos, abençoando-os com vidas longas e corpos saudáveis. Recusando-se a proteger contra males ou maldições, Scutum concentra-se apenas em prevenir a morte, incentivando os seus seguidores a viverem plenamente e corajosamente. Refugiado em Feywild após irritar outros deuses ao curar soldados em batalha, agora age de forma indireta através dos seus devotos.",
+      "summary": "Um titã primordial existente desde os primórdios do mundo, Scutum é o protetor de todos os seres sencientes e da natureza. Especialista em curação e prolongamento da vida, recusa-se a oferecer proteção contra o mal ou o sofrimento, focando-se apenas em prevenir a morte e abençoar com corpos saudáveis. Agora atua de forma indireta através dos seus seguidores desde que se refugiou em Feywild, cujo lema é que nunca é tarde demais para se viver uma vida plena.",
       "image": "https://cdn.discordapp.com/attachments/1173065628307959869/1173068207930740837/Scutum.png?ex=69aec7a7&is=69ad7627&hm=9f6acbac71a66449987209f79721c92391162dee27be658b079ab9fe2de1fccb&"
     },
     {
@@ -64,9 +65,13 @@
         "deusa",
         "tempestades",
         "proteção marítima",
-        "culto"
+        "culto",
+        "piratas",
+        "magia",
+        "riqueza",
+        "navegação"
       ],
-      "summary": "Ramness é a Deusa dos Mares, ascendida de uma pirata lendária que descobriu um monóculo artefacto que absorveu o poder de um titã primordial. Controla as rotas marítimas e oferece proteção aos navegadores que lhe fazem oferendas nos templos dos portos, em particular na Alcova do Rum. Os piratas celebram o \"mar bêbado\", um dia santo dedicado a derramar alcóol nos mares em agradecimento à sua proteção divina.",
+      "summary": "Ramness é a Deusa dos Mares, ascendida de uma notória pirata que descobriu um artefacto primordial contendo o poder de controlar os oceanos. Todos aqueles que desejam atravessar os mares sem lhe render honras são castigados com monstros e adversidades, sendo os templos nos portos locais os principais santuários de veneração. Os piratas celebram o Dia do Mar Bêbado em sua honra, despejando alcóol nas águas como agradecimento pela proteção divina.",
       "image": "https://cdn.discordapp.com/attachments/1173065628307959869/1173079716736016474/Ramness.png?ex=69aed25f&is=69ad80df&hm=e21037d116a451f25a2c4aa15cb1a13a81903dce546360993f31a449b2d80291&"
     },
     {
@@ -82,9 +87,11 @@
         "magia",
         "titã",
         "poder primordial",
-        "aprisionado"
+        "aprisionado",
+        "titã antigo",
+        "prisão planar"
       ],
-      "summary": "O'joo é uma entidade primordial de poder imensa, um titã cujo potencial era tão vasto que todos os outros titãs se uniram para lhe fazer frente durante a guerra que moldou o mundo actual. Diz-se que foi aprisionado num plano distante pelos seus pares, e toda a magia do mundo é tida como emanação do seu poder. Ocasionalmente, cristais imbuídos da sua essência mágica podem ser encontrados no mundo material.",
+      "summary": "O'joo é um titã antigo de poder incomparável, cuja ameaça levou todos os outros titãs a unirem-se contra ele, moldando o mundo tal como o conhecemos hoje. Aprisionado num plano distante há milénios, toda a magia do mundo supostamente emana do seu poder colossal. Ocasionalmente, fragmentos dos seus cristais carregados de magia podem ser encontrados dispersos pelo mundo.",
       "image": "https://cdn.discordapp.com/attachments/1173065628307959869/1173080014368014429/Ojoo.jpg?ex=69aed2a6&is=69ad8126&hm=6fa470dd3c86e8d0cc936228992fc76831651fa851916328579386fb91a6cc2a&"
     },
     {
@@ -100,9 +107,11 @@
         "conhecimento",
         "deusa",
         "renascimento",
-        "omnisciente"
+        "omnisciente",
+        "cleric",
+        "omnisciência"
       ],
-      "summary": "Deusa da Magia e do Conhecimento nascida do poder de O'joo, Mystic é uma entidade omnipresente capaz de ver passado, presente e futuro através dos 7 caminhos de cada destino. Após sua quarta morte ao proteger seu mestre contra um titã dos mares, seu renascimento descontrolado libertou uma onda de magia selvagem que alterou o continente e deu origem a Latifur como Deusa. Mystic busca desvendar os erros causados durante seu renascimento através de seus acólitos, enquanto manipula o tempo com conhecimento incomparável.",
+      "summary": "Deusa da Magia e do Conhecimento, Mystic surgiu do poder primordial de O'joo e renasceu pela quarta vez após sacrificar-se para proteger seu mestre de um antigo titã dos mares. Omnipresente e capaz de ver passado, presente e futuro, ela conhece os sete caminhos de cada destino e manipula o tempo com sabedoria incomparável. Os seus Acólitos continuam a desvendar os efeitos da onda de magia selvagem libertada durante o seu renascimento, transmitindo conhecimento pelo continente.",
       "image": null
     },
     {
@@ -147,9 +156,11 @@
         "segredos",
         "proteção",
         "roubo justificado",
-        "generosidade"
+        "generosidade",
+        "escuridão",
+        "roubo"
       ],
-      "summary": "Latifur é uma deusa nascida de uma drow ladina que roubava para alimentar os pobres, elevada ao divino após um evento cataclísmico relacionado com a morte de Mystic. Protege aqueles que roubam sem malícia, tornando-se inimiga eterna de D. Franciesco de Russo. Os seus fiéis, principalmente ladinos, veneram-na através de rituais antes de seus crimes e oferecem proteção aos seguidores de Mystic e O'joo.",
+      "summary": "Latifur é uma deusa nascida de uma antiga drow ladina que roubava por generosidade, não por malícia. Renasceu como divindade após a sua morte às mãos do campeão de D. Franciesco de Russo, um evento que perturbou profundamente o mundo e causou repercussões da 3ª morte de Mystic. Protege todos aqueles que roubam sem intenções maliciosas, sendo venerada principalmente por ladinos que rezam antes de cometer crimes.",
       "image": "https://cdn.discordapp.com/attachments/1173065628307959869/1173081875301011506/Latifur.png?ex=69aed461&is=69ad82e1&hm=820fe129c59d0d171075e243399fdeecc1f9f42f02f5d0bd9324be663984d156&"
     },
     {
@@ -165,9 +176,10 @@
         "caridade",
         "cleric",
         "mártir",
-        "ascensão divina"
+        "ascensão divina",
+        "redenção"
       ],
-      "summary": "Kuncare é uma divindade maior que ascendeu à categoria de deus através da devoção popular e do poder da crença de seus seguidores. Originalmente uma criatura de espírito bondoso próxima a Scutum, suas capacidades curativas e protetoras tornaram-se tão essenciais que o povo o venerou enquanto Scutum se retirava para a Feywild. Seus sacerdotes são conhecidos como mártires e protetores nos campos de batalha, mantendo uma frente externa dedicada à cura sem violência, e atacá-los é considerado crime entre as nações.",
+      "summary": "Kuncare é uma divindade maior que ascendeu da adoração popular após suas ações compassivas ao lado de Scutum. Conhecida como protetora da vida e da honestidade, é venerada especialmente pelos seus sacerdotes que atuam como curandeiros e pacificadores nos campos de batalha. O seu culto é caracterizado pelo voto de não-agressão, sendo considerado crime sagrado atacar os seus devotos que portam símbolos de hastes de veado.",
       "image": "https://cdn.discordapp.com/attachments/1173065628307959869/1173082388872560680/Kuncare.jpg?ex=69aed4dc&is=69ad835c&hm=c4cb6c2bef39861fb58551ca862c2c2be543ce71b47c1183dc67debae09e310d&"
     },
     {
@@ -176,23 +188,26 @@
       "tier": "semideus",
       "domain": "Sorte, Proteção, Caos",
       "symbol": null,
-      "alignment": "Neutral",
+      "alignment": "Neutro",
       "tags": [
         "sorte",
         "proteção",
         "caos",
         "heroísmo",
         "sacrifício",
-        "guardião"
+        "guardião",
+        "herói mortal",
+        "culto variável",
+        "redenção"
       ],
-      "summary": "Viltots era um simples guarda de vila que, após sofrer uma tragédia devastadora quando seu lar foi atacado por goblins e bugbears, ascendeu a semidivindade através de actos de coragem e desespero. Seu culto é caracterizado pela natureza fluida e imprevisível, refletindo tanto a aleatoriedade da sorte como o poder protetor do caos. Revenerado por aqueles que enfrentam adversidades impossíveis e buscam proteção contra fados inescapáveis.",
+      "summary": "Viltots era um simples guarda que enfrentou sozinho uma onda de invasores para proteger a sua aldeia, sacrificando-se no processo. Ascendeu à divindade através do seu ato de desespero e valor, tornando-se uma entidade imprevável cujo símbolo varia consoante o culto que o venera. Representa a sorte dos desafortunados, a proteção dos vulneráveis e o caos inerente ao destino.",
       "image": null
     },
     {
       "id": "viltots",
       "name": "Viltots",
       "tier": "semideus",
-      "domain": "Os Fracos e Desprotegidos",
+      "domain": "Proteção dos Fracos e Desprotegidos",
       "symbol": "Machado partido",
       "alignment": "Leal e Bom",
       "tags": [
@@ -212,9 +227,13 @@
         "sorte",
         "resistência",
         "culto-popular",
-        "ascensão divina"
+        "ascensão divina",
+        "herói improvável",
+        "magia maldita",
+        "heroísmo",
+        "culto popular"
       ],
-      "summary": "Viltots é um cavaleiro imortal que foi injustamente executado pela regência da cidade que defendera, evento que desencadeou uma rebelião e originou múltiplos cultos em sua honra. Elevado ao panteão pelo poder coletivo da crença das massas, tornou-se o deus dos fracos e desprotegidos, concedendo sorte aos seus seguidores nos seus esforços. A sua verdadeira natureza permanece misteriosa — se foi um simples homem com extraordinária resiliência ou se foi de facto abençoado pelos deuses é questão que cada crente interpreta à sua maneira.",
+      "summary": "Viltots é um cavaleiro imortal cuja ascensão ao panteão divino nasceu da fé coletiva após ser injustamente condenado à morte pela regência de sua cidade. Embora sua origem seja incerta—possivelmente um simples mortal afortunado—a força do crédito popular e da magia transformou-o numa divindade protetora dos fracos e desprotegidos. Aqueles que seguem Viltots frequentemente recebem favores de sorte extraordinária nos seus esforços, fazendo dele um deus venerado principalmente através de cultos urbanos.",
       "image": "https://cdn.discordapp.com/attachments/1173065628307959869/1173083207403569262/Viltots_Bog.png?ex=69aed59f&is=69ad841f&hm=cd709793f3aabc76193d2a78f096424c6bbb6d89ffd52319d1e61720418b3292&"
     },
     {
@@ -232,7 +251,7 @@
         "magia",
         "deus-patrono"
       ],
-      "summary": "D. Franciesco de Russo é o Deus da nobreza e da soberba, patrono de todos os nobres e senhor de tudo quanto é luxuoso e refinado. Seu símbolo sagrado é a cartola, usada por toda a nobreza que se preza, e diz-se que criou uma cartola mágica capaz de transformar criaturas hostis em campeões refinados e dóceis. É grande inimigo de Latifur, vendo nela uma ameaça à ordem nobiliárquica que representa.",
+      "summary": "D. Franciesco de Russo é o Deus da nobreza e da soberba, patrono de todos os nobres e senhor de tudo quanto é luxo e refinamento. O seu símbolo sagrado é a cartola, que todo o nobre que se preze usa como sinal de devoção. Diz-se que criou uma cartola mágica capaz de transformar qualquer criatura hostil ou besta num campeão refinado e amigável, dotado de fala, mas cuja verdadeira natureza permanece aprisionada enquanto o chapéu não for removido. É inimigo declarado de Latifur pela ameaça que ela representa à hierarquia social que defende.",
       "image": "https://cdn.discordapp.com/attachments/1173065628307959869/1173083559175651438/D._Franciesco_de_Russo.jpg?ex=69aed5f3&is=69ad8473&hm=85d90645ea0d5a7ff836a1131ba80a4d0cdb386c67662b86e058130094be277c&"
     },
     {
@@ -248,9 +267,10 @@
         "tempestade",
         "divindades-gémeas",
         "agricultura",
-        "clima"
+        "clima",
+        "deusas-irmãs"
       ],
-      "summary": "Um conjunto de quatro deusas menores que, quando unidas, formam um poder maior. Cada irmã governa uma estação — primavera, verão, outono e inverno — e juntas controlam o clima e a temperatura do mundo. Embora veneradas principalmente em zonas rurais por agricultores em busca de bom tempo, os seus desentendimentos causam desastres naturais devastadores como tsunamis, inundações e furacões.",
+      "summary": "Quatro deusas irmãs que individualmente são menores, mas que quando unidas formam uma divindade maior. Cada uma representa uma estação — primavera, verão, outono e inverno — e juntas controlam a temperatura e o clima do mundo. São principalmente veneradas em zonas rurais pelos agricultores que lhes pedem bom tempo para as colheitas e lhes fazem oferendas para as acalmar quando os seus desentendimentos causam desastres naturais como tsunamis, inundações e furacões.",
       "image": "https://cdn.discordapp.com/attachments/1173065628307959869/1173083959916253184/Musas_das_estacoes.jpg?ex=69aed652&is=69ad84d2&hm=d1295b3b6eb23628b537a7c3f8a92bee83dcfa5094a63580935ccb3335243046&"
     },
     {
@@ -259,17 +279,37 @@
       "tier": "semideus",
       "domain": "Celebrações e Liberdade",
       "symbol": "Garrafa de vinho",
-      "alignment": "Caótico e Mau",
+      "alignment": "Neutral Evil",
       "tags": [
         "celebração",
         "liberdade",
         "embriaguez",
         "magia antiga",
         "trickster",
+        "warlock patron",
+        "celebrações",
+        "culto popular"
+      ],
+      "summary": "Cervin era um gnomo desprezado que fez um acordo com uma entidade antiga e poderosa, recebendo o dom de enfeitiçar pessoas com danças e risos fatais. Após amaldiçoar toda uma aldeia na sua celebração de vingança, tornou-se uma lenda e divindade temida. Os seus cultuadores, muitas vezes bêbados, fazem oferendas antes de grandes festas para evitar serem amaldiçoados também.",
+      "image": "https://cdn.discordapp.com/attachments/1173065628307959869/1173084423726571580/Cervin.jpg?ex=69aed6c1&is=69ad8541&hm=a76384796a49c234fde8fbcbbf7c9cd018bc0d90e4f6a50145a1847222c113df&"
+    },
+    {
+      "id": "lilia",
+      "name": "Lilia, Rainha das Sucubbis",
+      "tier": "outro",
+      "domain": "Ilusão, Sexo, Seca",
+      "symbol": "Triângulo cor de areia com uma palmeira com asas negras e fitas pretas",
+      "alignment": "Caótico e Maligno",
+      "tags": [
+        "ilusão",
+        "sedução",
+        "outro-plano",
+        "deserto",
+        "almas presas",
         "warlock patron"
       ],
-      "summary": "Cervin é um semideus gnomo que ascendeu ao poder através de um acordo com uma entidade antiga e nefasta, conquistando a capacidade de amaldiçoar aldeias inteiras com danças e risos até à morte. Representa as celebrações desenfreadas e a liberdade sem limites, sendo venerado por bêbados e hedonistas que oferecem sacrifícios antes das festas para evitar a sua maldição. Seu culto revela-se na inversão da ordem social e na transformação perversa da alegria em instrumento de ruína.",
-      "image": "https://cdn.discordapp.com/attachments/1173065628307959869/1173084423726571580/Cervin.jpg?ex=69aed6c1&is=69ad8541&hm=a76384796a49c234fde8fbcbbf7c9cd018bc0d90e4f6a50145a1847222c113df&"
+      "summary": "Lilia é uma entidade poderosa originária de outro plano de existência, rainha das Sucubbis que habita os desertos do mundo material através de portais dimensionais. As suas filhas e seguidores usam ilusões de oásis e cidades de pecado para atrair almas desesperadas, que são então presas e torturadas eternamente no seu reino. Diz-se que Lilia procura desesperadamente libertar O'joo, uma entidade aprisionada que foi seu grande amor, motivando a sua luta contínua para recuperar a paz perdida.",
+      "image": "https://cdn.discordapp.com/attachments/1173065628307959869/1173081300287103006/Lilia.png?ex=69aed3d8&is=69ad8258&hm=3c7f28d87389d79648e02e2b976f37444eb8fec2f4f6d5fbe92869acb9c1fb61&"
     }
   ]
 }
