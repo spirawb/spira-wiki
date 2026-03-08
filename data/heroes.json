@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-08T20:17:02.558Z",
+  "lastUpdated": "2026-03-08T20:38:25.286Z",
   "entries": [
     {
       "id": "hamil-laena",
@@ -17,9 +17,11 @@
         "obcecado-com-demónios",
         "perturbado",
         "aventureiro",
-        "desaparecido"
+        "desaparecido",
+        "obsessão-demoníaca",
+        "solitário"
       ],
-      "summary": "Hamil Laena era um aventureiro obcecado com a extinção de demónios, cuja solução era sempre queimar tudo. Atormentado por pesadelos e procurando paz, desapareceu durante um dos seus retiros diários na floresta. O seu paradeiro permanece desconhecido desde maio de 2024.",
+      "summary": "Hamil Laena era um aventureiro obcecado com demónios e a sua extinção, resolvendo tudo através da queimação. Atormentado por pesadelos que o mantinham acordado, buscava paz nos retiros diários na floresta. Desapareceu durante um desses retiros, com localização actual desconhecida.",
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1386033177201737728/Hamil.jpg?ex=69af017c&is=69adaffc&hm=03657669373f1edbc5f3f99ca3975bbd2ce6d31d30369eda629d48e2e455d713&"
     },
     {
@@ -71,9 +73,14 @@
         "aventureiro",
         "marinheiro",
         "protetor-da-natureza",
-        "mestre"
+        "mestre",
+        "misterioso",
+        "floresta",
+        "mestre-wooz",
+        "hortelão",
+        "transformação"
       ],
-      "summary": "Chilin foi um druida dedicado que enfrentou inúmeros perigos — desde jagras e basiliscos até wyverns e dragões — enquanto viajava com Xolani em busca de respostas sobre o fim do mundo. Conhecido como o Lebre Roxa, tornou-se experiente marinheiro e curandeiro, ajudando comunidades a limpar corrupção e doenças. Encerrou seu percurso ensinando jovens druídas na Guilda de Aventureiros de Ernesto Garza, preparando o mundo para o que virá.",
+      "summary": "Chilin foi um druida dedicado que enfrentou inúmeros desafios para proteger o mundo, desde a contenção de monstros até à cura de doenças e à limpeza de terras corrompidas. Após uma jornada épica ao lado de companheiros como Xolani e Wooz, encerrou o seu percurso como mentor na Guilda de Aventureiros de Ernesto Garza, ensinando jovens druídas e preparando as comunidades para o fim do mundo.",
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1335239329403899908/60ca83c46bcc8652f214595644b9d762.png?ex=69aeca07&is=69ad7887&hm=ea5c09eb878799aac52219ff7bd9f9e94364bd0ae005051b010c11c7a5265d34&"
     },
     {
@@ -99,10 +106,13 @@
         "aventureiro",
         "instrutor",
         "leal",
-        "guildhall-ernesto-garza"
+        "guildhall-ernesto-garza",
+        "guerreiro",
+        "lealdade",
+        "guild-ernesto-garza"
       ],
-      "summary": "Snow, o Coelhinho Branco, foi um aventureiro dedicado na Guild de Ernesto Garza durante aproximadamente 18 meses. Conhecido pela sua lealdade e disposição em apoiar os seus camaradas, decidiu reformar-se para treinar e orientar os seus irmãos Ezel e Rerdak, que mostram grande promessa como futuros aventureiros. Atualmente reside em Talset, mas viaja pelo mundo para cumprir a sua missão de instrutor.",
-      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1374908006013079684/93eb2ffc334e3dea061ff7e1565f863b.png?ex=69aebe1d&is=69ad6c9d&hm=8752b0997fac373cb18fe703ff89304d8662f88452f0ba047dd9e93&"
+      "summary": "Snow era um coelho branco que se dedicava integralmente à vida de aventureiro na Guild de Ernesto Garza, conhecido pela sua lealdade inabalável aos amigos. Após uma carreira que se estendeu de Novembro de 2023 a Maio de 2025, decidiu reformar-se para treinar seus irmãos Ezel e Rerdak, que mostram grande promessa como futuros aventureiros. Actualmente reside em Talset, mas continua a viajar pelo mundo apoiado pelo seu grande camarada Balo.",
+      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1374908006013079684/93eb2ffc334e3dea061ff7e1565f863b.png?ex=69aebe1d&is=69ad6c9d&hm=8752b0997fac373cb18fe703ff89304d8662f88452f0891ae0570fa047dd9e93&"
     },
     {
       "id": "rumapark",
@@ -127,9 +137,11 @@
         "mysterious",
         "hero",
         "misterioso",
-        "personagem-jogador"
+        "personagem-jogador",
+        "personagem",
+        "herói"
       ],
-      "summary": "Zerrir é um herói cujos detalhes ainda aguardam documentação completa.",
+      "summary": "Zerrir é um herói do mundo de Spira.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1187771949095596052/image0_0.jpg?ex=69aee0d4&is=69ad8f54&hm=b46e0d85c31d307e60d3b12fa00ba8b98af207e1928739974754092126d2d757&"
     },
     {
@@ -149,7 +161,7 @@
         "primeira-morte",
         "erneste-garza"
       ],
-      "summary": "Mienshi foi a primeira morte registada na Guilda de Aventureiros de Erneste Garza, marcando um momento trágico na história da organização.",
+      "summary": "Mienshi foi a primeira morte registada na Guilda de Aventureiros de Erneste Garza.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1188176460150739056/goblinDrunkenMaster.png?ex=69adb68f&is=69ac650f&hm=9fbb1b3c7a23ebb1fc32b4dc18357e2973f631a7213ddcbd171112941cabc513&"
     },
     {
@@ -163,9 +175,10 @@
         "unknown-class",
         "goblin",
         "mestre-embriagado",
-        "lutador"
+        "lutador",
+        "aventureiro"
       ],
-      "summary": "Cateline Clarke é uma goblin mestre embriagado, combinando técnicas de combate com um estilo de vida boémio. Seu domínio das artes marciais é tão impressionante quanto sua relação peculiar com a bebida.",
+      "summary": "Cateline Clarke é uma goblin aventureira. Baseada na imagem do mestre embriagado, parece ser uma personagem com habilidades de combate marcial.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1189607110691004536/Cateline_Clarke.jpg?ex=69aef675&is=69ada4f5&hm=98881f9bdeb4f00c572caa161735fecd61a95a9ffd58ba2bf26acb45fcac7246&"
     },
     {
@@ -187,9 +200,12 @@
         "trovador",
         "humor",
         "músico",
-        "aventureiro"
+        "aventureiro",
+        "apelido-peculiar",
+        "herói",
+        "carismático"
       ],
-      "summary": "Gunvald \"Bardstardo\" Rubius é um bardo excêntrico e carismático, conhecido pelo seu nome de palco que combina tradição trovadoresca com humor irreverente. Um músico e contador de histórias que traz leveza e diversão ao grupo.",
+      "summary": "Gunvald Rubius, conhecido pelo cognome \"Bardstardo\", é um bardo aventureiro. Com o seu apelido sugestivo, é uma figura que combina talento artístico com um toque de irreverência.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1298594298480037929/GUNVALD_UPDATED.png?ex=69aea12f&is=69ad4faf&hm=69cb2e6fd1f67d822b56c2407f6c069812742a5621211019b63403265dd89736&"
     },
     {
@@ -215,9 +231,10 @@
         "mountain dweller",
         "monge",
         "guerreiro",
-        "montanha"
+        "montanha",
+        "mistério"
       ],
-      "summary": "Raksha é um herói cujas origens e detalhes permanecem envolvidos em mistério. Baseado na imagem do MountainMonk, parece ser um monge de montanha com treino marcial.",
+      "summary": "Raksha é um herói envolvido em mistério, cuja história e origem permanecem a ser descobertas.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1202276550733467678/Mina_Norvaris.png?ex=69aee94a&is=69ad97ca&hm=64fb2644116d89e962ec3dc1598f78947f9814fc46caf6a375caa236be697543&"
     },
     {
@@ -244,9 +261,10 @@
         "unknown-class",
         "personagem",
         "herói",
-        "aventureiro"
+        "aventureiro",
+        "personagem-misterioso"
       ],
-      "summary": "Kall Teach é um herói de Spira. Pouco se sabe sobre este personagem além do seu nome e aparência.",
+      "summary": "Kall Teach é um herói cuja história e classe permanecem por definir.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1206404228130807828/med.jpg?ex=69aec43d&is=69ad72bd&hm=715e6f7b3e023d5c31d6f31f299b9ee15979e7eefbabc673d02c9d51ce564206&"
     },
     {
@@ -272,9 +290,11 @@
         "cunning",
         "personagem",
         "aliado",
-        "humano"
+        "humano",
+        "herói",
+        "aventureiro"
       ],
-      "summary": "Irineus Robberman é um herói do mundo de Spira. Pouco se sabe sobre os detalhes específicos de sua classe e origem baseado nas informações fornecidas.",
+      "summary": "Irineus Robberman é um herói da campanha. Pouco se sabe sobre o seu background no momento, aguardando mais detalhes.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1213958803372904509/Screenshot_2024-03-01_at_12.52.53.png?ex=69ae907c&is=69ad3efc&hm=145e508b68e2263bab7e725724c64a9d86a65a036d82e9b09b8415dec21fbfbb&"
     },
     {
@@ -303,9 +323,11 @@
         "ferreiro",
         "mago",
         "inovador",
-        "família"
+        "família",
+        "aventureiro",
+        "personagem-jogador"
       ],
-      "summary": "Clevius Moldler regressou à sua aldeia natal nas montanhas, onde reformou a antiga forja da família juntamente com o seu irmão Melvius. Transformou a Moldler's Forge num lugar de inovação onde magia e técnica se encontram para criar armas, armaduras e itens mágicos de excelência. Concentra-se nos complexos encantamentos e no trabalho minucioso com o metal, enquanto Melvius gere o negócio.",
+      "summary": "Clevius Moldler é um gnomo simpático e artificer armoreiro, mestre da forja que se destacou por ser um dos poucos a conseguir forjar equipamento na Forja do Underdark e sobreviver para contar a sua história. Iniciou a sua jornada a 22 de maio de 2024 e reformou-se a 18 de janeiro de 2025 com Rank Ouro.",
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1330194061541376141/gnome4.jpg?ex=69aee442&is=69ad92c2&hm=76a4ac5f3cc30619666642bf57e1ab42023fb16e15ec165fa9e1a11757076660&"
     },
     {
@@ -321,7 +343,7 @@
         "guerreiro",
         "defensor"
       ],
-      "summary": "Hank é um tank apresentado como resposta a uma necessidade de personagem defensivo no grupo. É o primeiro personagem do autor e possui backstory completa na sala de personagens.",
+      "summary": "Hank é um tanque robusto, especializado em absorver dano e proteger os seus aliados. Criado para ser a linha de frente de qualquer grupo, este herói é o primeiro personagem do seu jogador.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1248737953820315799/image.png?ex=69ae8718&is=69ad3598&hm=68cf45c74fbc64bf76372d5eb9b02d8c7b701976ad5834e578dba239c86503b0&"
     },
     {
@@ -348,9 +370,11 @@
         "mysterious",
         "Tair",
         "Fly",
-        "aventureiro"
+        "aventureiro",
+        "aliados-Tair",
+        "mistério"
       ],
-      "summary": "Tairnenach Flyborn, conhecido pelos seus apelidos Tair e Fly, é um herói de Spira.",
+      "summary": "Tairnenach Flyborn, conhecido pelos apelidos Tair ou Fly, é um herói cujos pormenores exactos ainda necessitam de maior documentação. Aparentemente ligado a Spira através de conexões ainda não totalmente esclarecidas.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1253702013913403473/Nastasia.jpg?ex=69aec9fc&is=69ad787c&hm=206ca42514d940d53ccd0676cfaf0697dacad3bccfa4492464aed99c5b20cf73&"
     },
     {
@@ -377,9 +401,11 @@
         "adventurer",
         "elfa",
         "misteriosa",
-        "heroína"
+        "heroína",
+        "personagem",
+        "herói"
       ],
-      "summary": "Elka Wynna é uma heroína cujos detalhes e história ainda aguardam documentação completa na wiki.",
+      "summary": "Elka Wynna é um herói do mundo de Spira.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1261479710551048202/med.jpg?ex=69aebd48&is=69ad6bc8&hm=9add675c044b606c15d53dde3f9261023b786798d22802aec6b587e0b2290f61&"
     },
     {
@@ -402,9 +428,11 @@
         "líder",
         "abençoado",
         "companheiro-leal",
-        "heroísmo"
+        "heroísmo",
+        "mediador",
+        "sacrifício"
       ],
-      "summary": "Rajo Furashada era um herói que evitava conflitos acima de tudo, movido por uma bondade genuína que o fazia ver o melhor no mundo. Perdeu a vida ao tentar salvar a sua companheira, demonstrando que seu verdadeiro carácter era o de um protetor desinteressado. Abençoado até ao fim, descansa agora sob a graça de Kuncare.",
+      "summary": "Rajo Furashada foi um herói que dedicou a sua vida a evitar conflitos, movido por uma bondade genuína que o levava a ver o bem em todas as coisas. Pereceu ao tentar salvar a sua companheira, mantendo a sua natureza abençoada até ao fim. Que Kuncare lhe conceda o descanso merecido.",
       "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1289717399649521755/Rajo_Furashada.jpg?ex=69aea2ad&is=69ad512d&hm=a4c22601c660f6905ceb90ad8e405de00c95240b2c391a82bde99fb05da5d5fb&"
     },
     {
@@ -425,9 +453,10 @@
         "aventureiro",
         "sonhador",
         "herói-caído",
-        "lendário"
+        "lendário",
+        "guilda-de-aventureiros"
       ],
-      "summary": "Automano foi um herói cujos sonhos e ideais o levaram a grandes feitos. Partiu para um mundo melhor após ser morto em combate.",
+      "summary": "Automano foi um herói sonhador que partiu para um mundo melhor. Morreu nas mãos de um inimigo, deixando um legado de esperança e idealismo.",
       "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1277741906612195410/Automano_Oficial.jpg?ex=69ae9321&is=69ad41a1&hm=bc8f46e20b49e20bb32009a5e17e19d005c8aa22cbe43d3f2ee6eccb53828e60&"
     },
     {
@@ -450,9 +479,12 @@
         "incerto",
         "bárbaro",
         "tímido",
-        "prata"
+        "prata",
+        "misterioso",
+        "Feywild",
+        "rank-prata"
       ],
-      "summary": "Kronk era um Orc bárbaro tímido com um passado confuso que se tornou aventureiro na guilda. Apesar da sua baixa inteligência, fez muitos amigos e ganhou um companheiro e mestre em Marro, a quem agora vai em procura. Reforma-se com rank de Prata após uma carreira de sucesso, deixando a vida de aventureiro para seguir para Feywild em busca do seu mestre.",
+      "summary": "Kronk era um Orc bárbaro de natureza tímida que chegou à guilda de aventureiros com um passado confuso. Durante a sua carreira de 11 aventuras, ganhou amigos e um mestre em Marro, enquanto trabalhava na taverna do Fraaq. Reformou-se em rank de Prata e partiu para Feywild em busca de Marro, levando consigo os ensinamentos do taverneiro.",
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1394637735389696020/file_000000001e5c620a9ce417eeb07ccba5.jpg?ex=69aeab1b&is=69ad599b&hm=1dab822f02f301c0f31b41d75ac4afd32991273e369e2593e5db6d7caf2a6b69&"
     },
     {
@@ -493,9 +525,14 @@
         "reformado",
         "prata",
         "forasteiro",
-        "aventureiro"
+        "aventureiro",
+        "ladrão",
+        "fora-da-lei",
+        "personagem-complexo",
+        "wild-west",
+        "antigo-membro-de-gangue"
       ],
-      "summary": "Arthur Morgan era um cowboy do Wild West que se integrou na guilda de Spira, trazendo consigo uma perspectiva radicalmente diferente deste mundo. Apesar das intrigas que gerava, contribuiu quando necessário e ajudou os seus companheiros a crescerem. No final da sua carreira, partiu em busca dos seus antigos colegas de gangue para os ajudar a adaptar-se a este novo mundo.",
+      "summary": "Arthur Morgan era um cowboy originário do Wild West que se integrou na guilda, aprendendo a compreender este novo mundo apesar das suas dificuldades iniciais. Conhecido por gerar intrigas, tentava ajudar quando necessário e eventualmente abandonou a guilda para assistir os seus antigos colegas de gangue na adaptação a este reino. Reformou-se com rank de prata após 20 aventuras entre Agosto de 2024 e Agosto de 2025.",
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1406426010911768668/arthurmorgan_dnd.jpg?ex=69aeb50b&is=69ad638b&hm=3ab0883b33a8664e7d003708eb496d712e27b4cf432161b1ddab251ccc7e8a62&"
     },
     {
@@ -536,9 +573,11 @@
         "mistério",
         "ressurreição",
         "transformada",
-        "intended"
+        "intended",
+        "viajante",
+        "morta-viva"
       ],
-      "summary": "Jahira foi transformada em Zombie, com a última memória sendo o Rabo do Rajo. Banqueteava-se desta remanescência do seu passado.",
+      "summary": "Jahira foi transformada em zombie, permanecendo presa à sua última memória: o Rabo do Rajo. Jaz agora no Hall dos Mortos.",
       "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1289716521093824553/Captura_de_ecra_2024-09-27_021946.png?ex=69aea1dc&is=69ad505c&hm=0bd8fdd0da197e95efd68ca6fc675be55d69abcb84c0ad5d35f392ff12e85797&"
     },
     {
@@ -561,9 +600,11 @@
         "barda",
         "pacto-mítico",
         "distorção-sonora",
-        "heavy-metal"
+        "heavy-metal",
+        "música",
+        "a-bastarda"
       ],
-      "summary": "Jane Hatefield, conhecida como a \"Bastarda\", juntou-se à guilda para financiar uma escola de rock e adoptar a sua pequena amiga Sara. Fez um pacto com uma entidade mítica da música que lhe concedeu poderes de distorção sonora. Durante a sua jornada, forjou uma grande amizade com Brakk e reencontrou Zé do orfanato, reforçando laços antigos.",
+      "summary": "Jane Hatefield, conhecida como \"a Bastarda\", juntou-se à guilda motivada pela paixão do rock e heavy metal, com o objetivo de ganhar dinheiro para a sua escola de rock e adoptar a sua pequena amiga Sara. Fez um pacto com uma entidade mítica da música que lhe concedeu poderes de distorção sonora. Durante a sua jornada forjou uma grande amizade com Brakk e reencontrou o seu amigo de orfanato Zé, fortalecendo a cumplicidade entre eles.",
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1320443750044008499/da8cde032b7ba5b98e01435ba56d5085.jpg?ex=69af0412&is=69adb292&hm=78dcab48c58710297ccff8eefd5c24bf727d8bba56b8aa8d4731c611012c6cb8&"
     },
     {
@@ -590,10 +631,13 @@
         "arrogante",
         "construto",
         "culto",
-        "misterioso"
+        "misterioso",
+        "ser-sobrenatural",
+        "divindade",
+        "maligno"
       ],
-      "summary": "Um construto warforged que se apresentava como uma divindade, arrecadando súbditos e oferendas num templo dentro da guilda. Abandonou o grupo em busca de horizontes novos e novos adoradores, deixando para trás um legado enigmático marcado por desaparecimentos misteriosos e uma caixa contendo restos mortais.",
-      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1338969271958503464/Warforged_sorcerer.jpg?ex=69ae840f&is=69ad328f&hm=db4595409f957acf5f6659371ce3669b9e8335c3bdec8cab7746aa5bd062d4b4b&"
+      "summary": "Ob Nixilis foi uma divindade adorada por seus súbditos que eventualmente abandonou a guilda em busca de novos devotos e do paradeiro de Lilia. Seu legado marcou-se por tragédia e mistério, deixando para trás um culto disperso e evidências de atrocidades contra seus próprios seguidores. Rumores sugerem avistamentos de uma estátua falante e andante em Maral.",
+      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1338969271958503464/Warforged_sorcerer.jpg?ex=69af2ccf&is=69addb4f&hm=04eed937e530db0e8a9b2711dc874873166616da00bdc22035b8e75375080e8e&"
     },
     {
       "id": "zachiel-the-banished",
@@ -606,9 +650,12 @@
         "outcast",
         "banido",
         "mistério",
-        "personagem-notável"
+        "personagem-notável",
+        "exilado",
+        "misterioso",
+        "personagem-principal"
       ],
-      "summary": "Zachiel the Banished é um herói envolvido em circunstâncias de exílio ou banimento. Pouco se sabe sobre a sua história, mas o seu título sugere um passado marcado por rejeição ou castigo.",
+      "summary": "Zachiel the Banished é um herói envolvido em circunstâncias de exílio. Pouco se sabe sobre a sua verdadeira natureza e origem, aguardando mais detalhes para uma caracterização completa.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1295495304983875604/Zachiel.jpg?ex=69ae8fc5&is=69ad3e45&hm=0792f78a43b3a68ad1f1e526dcfe4d853760ca4bf675802485fe41a0aa7a5f92&"
     },
     {
@@ -623,9 +670,12 @@
         "humor",
         "personagem-misterioso",
         "título-épico",
-        "spira"
+        "spira",
+        "misterioso",
+        "épico",
+        "personagem-único"
       ],
-      "summary": "Chakalaka, O Mordaz, é um herói cujo nome ecoa com dramatismo e intrigue. Pouco se sabe sobre as suas origens e verdadeira natureza, mas o epíteto que o acompanha sugere um carácter afiado e perspicaz.",
+      "summary": "Chakalaka, O Mordaz, é um herói cujo nome evoca uma personalidade afiada e incisiva. Pouco se sabe sobre o seu passado, mas a alcunha sugere alguém conhecido pela sua língua afiada ou comentários mordazes.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1297603532786241576/IMG_1220.jpg?ex=69aefaf6&is=69ada976&hm=72ac125eb57e0fc3f566efe590c84e4bedfb072dc32d079758736465a13c35e4&"
     },
     {
@@ -648,9 +698,10 @@
         "bárbaro",
         "martelo",
         "Feywild",
-        "redenção"
+        "redenção",
+        "força"
       ],
-      "summary": "Sorgvar é um Eladrin Bárbaro que chegou à guilda sem memórias, guiado apenas por um vago sentimento de protecção e vingança. Ao longo de 30 aventuras, reencontrou fragmentos de si mesmo — a sua família, o seu amor e o seu propósito — moldando-se através de combates e amizades. Reformou-se com rank de Ouro e partiu para o Feywild, levando consigo a força da guilda e a certeza de que o seu braço ajudará quem o precisar.",
+      "summary": "Sorgvar é um Eladrin Bárbaro que chegou à guilda sem memórias, guiado apenas pela sensação de que havia algo a proteger. Ao longo de 30 aventuras, reencontrou cada pedaço de si: a sua família, o seu amor e a sua luta. Agora reforma-se com rank de Ouro, partindo para o Feywild para ajudar quem possa resolver a guerra do seu povo.",
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1388657748035764375/sorgvar.jpg?ex=69ad590f&is=69ac078f&hm=58b7ff03d403b410401641f1911daed9ec677d4f309035f1ad358a568bc1f33e&"
     },
     {
@@ -670,9 +721,10 @@
         "nobre",
         "grande-tamanho",
         "amigável",
-        "romântico"
+        "romântico",
+        "amizade"
       ],
-      "summary": "Brakk foi um centauro yanogu e grande guerreiro conhecido pela sua natureza amigável e pelo seu coração generoso. Conquistou o amor de Jane e Sara, levando ambas ao seu coração. Reformou-se a 22 de dezembro, priorizando a amizade sobre os seus objectivos iniciais.",
+      "summary": "Brakk era um centauro Yanogu, um grande guerreiro e um amigo querido que conquistou o coração de Jane e Sara. Reformou-se no dia 22 de dezembro, escolhendo a amizade acima dos seus objectivos iniciais, provando que os laços que criou falavam mais alto.",
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1320339221529100329/IMG_1303.jpg?ex=69aea2b9&is=69ad5139&hm=5b1f4b31bf64d855191bcda8eeaf5e4b90dd65e4b61ac4bbd51fec63fcf47e7e&"
     },
     {
@@ -701,9 +753,10 @@
         "tartaruga",
         "mago",
         "óculos",
-        "caverna-mágica"
+        "caverna-mágica",
+        "misticismo"
       ],
-      "summary": "Lenton é um tartaruga antropomórfica que se tornou um mago místico. Após colocar óculos e perder alguma massa corporal, este personagem agora habita cavernas mágicas e domina artes arcanas.",
+      "summary": "Lenton é um mago tartaruga que se apresenta como um personagem místico. Após colocar os óculos e fazer algumas alterações na sua aparência, tornou-se uma figura reconhecível no grupo.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1305103102097100810/DALLE_2024-11-10_11.31.09_-_A_detailed_image_of_an_anthropomorphic_turtle_character_dressed_as_a_mystical_wizard_standing_in_a_magical_cave._The_turtle_is_wearing_a_robe_with_gl.webp?ex=69ae93fb&is=69ad427b&hm=994997d51f0d42c084e140e77ee400b72d12231a43553df05ffe25a19dab4598&"
     },
     {
@@ -729,9 +782,10 @@
         "hunter",
         "venator",
         "caçador",
-        "mistério"
+        "mistério",
+        "aventureiro"
       ],
-      "summary": "Alvorius Venator é um herói cujo propósito e origem permanecem envoltos em mistério. O seu nome sugere uma vocação de caça ou perseguição, mas detalhes sobre a sua classe e habilidades específicas carecem de confirmação.",
+      "summary": "Alvorius Venator é um herói cujo nome sugere uma natureza de caçador ou perseguidor. Pouco se sabe sobre este personagem além do seu nome evocativo.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1305467164807135282/file-J1XTiBFLIBFWt1k5ki06zow8.png?ex=69ae958a&is=69ad440a&hm=16f329da1f91d590e03451d8f4257149ae6edb641dd164445d393c18d0211580&"
     },
     {
@@ -770,9 +824,13 @@
         "criminoso",
         "humano",
         "taverna",
-        "guilda"
+        "guilda",
+        "guerreiro-escamoso",
+        "floresta",
+        "taberna",
+        "guildo"
       ],
-      "summary": "Lepain Dessages, conhecido como O Padeiro, foi um aventureiro com reputação ambígua — alguns o viam como mestre do crime, outros como um homem de sorte duvidosa. Após testemunhar a morte de Raziel, decidiu reformar-se e retomar a sua verdadeira vocação de padeiro, trabalhando agora na taberna do Fraaq. Aventurou-se de 27 de Novembro de 2024 até 22 de Junho de 2025.",
+      "summary": "Lepain Dessages, conhecido como O Padeiro, foi um aventureiro marcado pela morte de Raziel. Tido por alguns como mestre do crime e por outros como um totó, encontra a sua verdadeira vocação na arte de fazer pão. Esperava poder ajudar a guilda através da sua paixão pela padaria.",
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1386416970458726580/Lepain_Dessages.jpg?ex=69af156c&is=69adc3ec&hm=b581545cd5d21a7fa32eed67ece79a90c1bf04ec016611143ad699cd16fe10ad&"
     },
     {
@@ -788,9 +846,11 @@
         "aventureira",
         "guilda",
         "carismática",
-        "amiga-dos-animais"
+        "amiga-dos-animais",
+        "avó",
+        "felina"
       ],
-      "summary": "Avó Ziva, conhecida como \"Felpuda\", é uma aventureira que acaba de se juntar à Guilda. Demonstra uma personalidade calorosa e protetora, com grande afeição pelos animais, particularmente por um gatinho chamado Sr Biscoito.",
+      "summary": "Avó Ziva \"Felpuda\" é uma aventureira que se juntou à Guilda. Conhecida pelo seu apreço pelos gatos e pela sua determinação em viajar e explorar o mundo.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1320478706254348298/IMG_1714.jpg?ex=69af24a0&is=69add320&hm=4fc860050b525c0d7119954364662e4b2612c32110e22696c11ce7cd14d0f501&"
     },
     {
@@ -826,9 +886,12 @@
         "combatente",
         "Feywild",
         "protetor",
-        "coração-nobre"
+        "coração-nobre",
+        "herói",
+        "personagem",
+        "irmão-de-mel"
       ],
-      "summary": "Marro era um Satyr bruto e mal educado, mas de bom coração, que resolvia tudo à porrada. Apesar de ser incapaz de salvar a irmã Mel de um grupo de bandidos, nunca desistiu de enfrentar desafios. Reformou-se com Rank Ouro em Feywild, onde agora protege os inocentes.",
+      "summary": "Marro era um Satyr bruto e mal educado, mas com bom coração, que preferia resolver tudo à pancada. Apesar de não ter conseguido salvar a irmã Mel de um grupo de bandidos, nunca desistiu de enfrentar desafios. Reformou-se em Feywild com Rank Ouro, dedicando-se a proteger os inocentes.",
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1368826492015874169/MArro.jpg?ex=69af07c3&is=69adb643&hm=052a9203310f3d0ddca61c1b774efe306865193e958517dc2126fb91eef64f8c&"
     },
     {
@@ -844,9 +907,10 @@
         "melee",
         "fada",
         "pequena",
-        "espírito-indomável"
+        "espírito-indomável",
+        "espírito-guerreiro"
       ],
-      "summary": "Mel, também conhecida como Melga ou Melinha, é uma fada de pequeno tamanho mas grande espírito. Apesar da sua estatura reduzida, possui uma força de vontade e coragem notáveis.",
+      "summary": "Mel, também conhecida por Melga ou Melinha, é uma pequena fada com um grande espírito guerreiro. Apesar do seu tamanho reduzido, possui uma coragem e determinação notáveis.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1330832625480241244/Fairy_Barbarian.jpg?ex=69ae93f7&is=69ad4277&hm=22b7ad7950c609d0af5c1f1b111504253bb55b555a9200a933573a9073d40c70&"
     },
     {
@@ -863,9 +927,10 @@
         "místico",
         "mago",
         "familiar",
-        "cobra"
+        "cobra",
+        "mistério"
       ],
-      "summary": "Sssimon é um misterioso Yuan-ti acompanhado pela sua cobra familiar Sssiri. Munido de um livro macabro, este herói envolve-se em práticas arcanas e obscuras.",
+      "summary": "Sssimon é um Yuan-ti misterioso que viaja acompanhado pela sua cobra de estimação, Sssiri. Portador de um livro macabro, parece ser um praticante de magia antiga e arcana.",
       "image": null
     },
     {
@@ -895,9 +960,10 @@
         "carpinteiro",
         "aventureiro",
         "humano",
-        "guilda-de-ernesto-garza"
+        "guilda-de-ernesto-garza",
+        "prestável"
       ],
-      "summary": "Gideon Larderius é um carpinteiro simpático que se apresentou ao serviço da guilda de Aventureiros de Ernesto Garza. Um artesão dedicado, traz consigo habilidades de construção e reparação.",
+      "summary": "Gideon Larderius é um simpático carpinteiro que se apresentou ao serviço da guilda de Aventureiros de Ernesto Garza. Um artesão dedicado pronto para novas aventuras.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1338969844544045269/Gideon_Larderius.jpg?ex=69ae8497&is=69ad3317&hm=87d688d3a6691c6e25e6ccd3b6a53a2ee73f91c3d490eab148c964563c871286&"
     },
     {
@@ -917,9 +983,11 @@
         "aventureiro",
         "novo-membro",
         "revoltado",
-        "herói-caído"
+        "herói-caído",
+        "recém-chegado",
+        "guerreiro-divino"
       ],
-      "summary": "Lucci foi um paladino revoltado que deixou a sua marca no mundo de Spira antes de partir.",
+      "summary": "Lucci era um paladino revoltado que chegou ao fim de sua jornada. Seu legado permanece no Hall dos Mortos, lembrando os feitos daquele que questionou seus próprios caminhos.",
       "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1366727942843138058/Lucci.png?ex=69aea596&is=69ad5416&hm=1cde0655b1cc375946e291ac91ff91251336153cbf642f0aa782710fb6a839a7&"
     },
     {
@@ -937,7 +1005,7 @@
         "assobiador",
         "reformado"
       ],
-      "summary": "Arnaldo Bolota é um empresário e manáger reformado, conhecido também pelo seu talento como assobiador. Um personagem de perfil comercial e artístico.",
+      "summary": "Arnaldo Bolota é um empresário e manáger reformado, anteriormente conhecida pela sua carreira como assobiador. Agora dedica-se aos negócios e gestão.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1343251725020041236/Bolota.png?ex=69aeef27&is=69ad9da7&hm=8cdbf6f07c164cc57f2f82b83c3e395652558e7926361d14b4fc1963af5ad3c4&"
     },
     {
@@ -951,9 +1019,10 @@
         "charismatic",
         "performer",
         "extraordinário",
-        "trovador"
+        "trovador",
+        "músico"
       ],
-      "summary": "Brodo Faggins é um bardo extraordinário, conhecido pela sua destreza nas artes performativas e musicais. Um herói carismático e talentoso nas tradições bardas.",
+      "summary": "Brodo Faggins é um bardo extraordinário, conhecido pelo seu talento musical e carisma. Um herói dedicado à arte da performance e à magia das palavras.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1343693238451572786/Brodo_Faggins.jpg?ex=69ae9018&is=69ad3e98&hm=a69976732352855cc4d83471900e74de5bda1216e34a5421d1491271dbbabb63&"
     },
     {
@@ -973,9 +1042,12 @@
         "piromano",
         "explosivos",
         "pipocas",
-        "aventureiro"
+        "aventureiro",
+        "pirotécnico",
+        "excêntrico",
+        "Zoo de Maral"
       ],
-      "summary": "Bô Faísca era um goblin maníaco apaixonado por fogos de artifício, explosões e pipocas. Durante a sua breve carreira de aventureiro (3 aventuras entre março e maio de 2025), fez poucos amigos. Agora reforma-se no Zoo de Maral, onde pode dedicar-se plenamente aos seus hobbies favoritos.",
+      "summary": "Bô Faísca era um goblin excêntrico e maníaco apaixonado por fogos de artifício, explosões e pipocas. Durante a sua breve carreira de aventureiro (3 aventuras entre março e maio de 2025), pouco se soube sobre ele e fez poucos amigos. Reformou-se no Zoo de Maral, onde pode ser encontrado a fazer aquilo que mais gosta: pirotecnia e pipocas doces.",
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1369012563341475880/image.png?ex=69af0c4e&is=69adbace&hm=e3fbb6a1ff5ff945a7e87b98f44adbb22279f55c9921a7e5b6d1a0c9af6bb2ff&"
     },
     {
@@ -988,9 +1060,10 @@
         "bully",
         "character",
         "personagem-misterioso",
-        "herói"
+        "herói",
+        "personagem-jogável"
       ],
-      "summary": "Feio é um herói cujos detalhes ainda aguardam documentação completa.",
+      "summary": "Feio é um herói do mundo de Spira.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1346722979173761064/image-2.png?ex=69af09c3&is=69adb843&hm=bb89a3903b35a631cb8712dadae95f0325c0abb3e7e4d64b2b1ee0f3c0246df7&"
     },
     {
@@ -1006,7 +1079,7 @@
         "guerreiro",
         "aventureiro"
       ],
-      "summary": "Nak'Tuk é um herói thri-kreen, membro de uma raça insectoide inteligente. Pouco mais é conhecido sobre este personagem além da sua origem exótica.",
+      "summary": "Nak'Tuk é um herói thri-kreen, membro de uma raça insectoide caracterizada por múltiplos membros e natureza guerreira. Pouco mais é conhecido sobre este personagem no momento.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1357443499997532271/file-Wfyo7JEL7kGuesUm3NYhsN.webp?ex=69af25c6&is=69add446&hm=129c5226bcf3fedf66b6b9e823b9c7521062de052a048503c5089626db0b2fa1&"
     },
     {
@@ -1021,7 +1094,7 @@
         "personagem",
         "herói"
       ],
-      "summary": "Varak é um herói cujos detalhes ainda não foram completamente documentados.",
+      "summary": "Varak é um herói cujos detalhes permanecem a ser documentados.",
       "image": null
     },
     {
@@ -1035,9 +1108,12 @@
         "hero",
         "elfo",
         "mistério",
-        "enigmático"
+        "enigmático",
+        "personagem-mistério",
+        "nome-élfico",
+        "herói-desconhecido"
       ],
-      "summary": "Anwelion Orodruin é um herói cujos detalhes permanecem envoltos em mistério. O seu nome sugere ligações a tradições élficas ancestrais.",
+      "summary": "Anwelion Orodruin é um herói cujos detalhes permanecem por revelar.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1360235106651869305/e220704c490f51d4694a817b2c690ee0.png?ex=69aec1a9&is=69ad7029&hm=052f0d4a09ce05444a0db7da71c59cec0e73cfcc16bca0f541ed9cedb3cdf36e&"
     },
     {
@@ -1059,9 +1135,10 @@
         "new-hero",
         "spira",
         "personagem",
-        "herói"
+        "herói",
+        "aventureiro"
       ],
-      "summary": "Gök Otta é um herói de Spira. Pouco se sabe sobre este personagem além da sua apresentação inicial.",
+      "summary": "Gök Otta é um herói que se apresenta ao mundo de Spira.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1360645100522307745/med.png?ex=69aeedff&is=69ad9c7f&hm=b7b270b0a9dd55f289cad81e420bb0efe75ffdac12e4ee4e5cc30cf474bf3ca1&"
     },
     {
@@ -1092,12 +1169,12 @@
         "personagem-misterioso",
         "exótico"
       ],
-      "summary": "Azim Ö é um herói cujas origens e natureza permanecem enigmáticas. Pouco se sabe sobre este personagem além do seu nome único.",
+      "summary": "Azim Ö é um herói cujos detalhes permanecem a ser explorados. Pouco se sabe sobre este personagem para além do nome.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1372526207933091991/Azim1.jpg?ex=69aea5a4&is=69ad5424&hm=0d53cd7eb8e586300f643d9fd82165a1a7d6a48880759ebdd94d0cc775d1cc95&"
     },
     {
       "id": "zuko-calmaria-mabari",
-      "name": "Zuko, 'Calmaria' Mabari e Sir Quackson",
+      "name": "Zuko 'Calmaria' Mabari",
       "type": "other",
       "status": "active",
       "tags": [
@@ -1107,9 +1184,10 @@
         "adventurer",
         "companheiro-animal",
         "duo-heróico",
-        "aliado"
+        "aliado",
+        "Sir Quackson"
       ],
-      "summary": "Zuko, conhecido como 'Calmaria' Mabari, é um herói acompanhado pelo seu fiel companheiro Sir Quackson. Juntos, formam um duo inseparável na sua jornada.",
+      "summary": "Zuko 'Calmaria' Mabari é um herói acompanhado pelo seu fiel companheiro Sir Quackson. Pouco se sabe sobre as suas origens e capacidades específicas.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1373632691945340989/hq.png?ex=69aeb7a2&is=69ad6622&hm=f241c2842837d5a3cb24f5108c4b7996aa6bdf38234407b00c7e56da1786c43e&"
     },
     {
@@ -1125,9 +1203,10 @@
         "humanoid",
         "guerreiro",
         "cicatrizado",
-        "físico"
+        "físico",
+        "robusto"
       ],
-      "summary": "Um Goliath de estrutura menor que o comum, mas robusto e resistente. Apesar de não possuir as tatuagens e marcas características da sua raça, a sua descendência Goliath é evidente. As suas cicatrizes testemunham a sua capacidade de suportar punição física.",
+      "summary": "Zorak é um Goliath de estrutura mais pequena que o comum, mas com uma composição robusta que demonstra grande resistência física. Apesar de não apresentar as tatuagens e marcas características da sua raça, a sua descendência Goliath é perceptível à inspeção próxima. As suas cicatrizes atestam a sua capacidade para suportar punição física.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1375996586819190844/d0c73a6dcadb348b233b193a2a7d5703.jpg?ex=69aebf6f&is=69ad6def&hm=6339e20a09b64ebebe406bec86563db73cf197f463c35177cbd18b82e1c51561&"
     },
     {
@@ -1149,9 +1228,10 @@
         "misterioso",
         "Shadowman",
         "combate-ao-crime",
-        "Trand"
+        "Trand",
+        "dupla identidade"
       ],
-      "summary": "Pruce Paine era um aventureiro dedicado a prender criminosos sem recorrer à morte, actuando também sob o alter ego Shadowman. Com uma carreira de 15 de Junho a 24 de Agosto de 2025, completou 9 aventuras antes de se reformar. Retirou-se para a sua mansão em Trand, onde rumores sugerem que continua a combater o crime durante a noite como Shadowman.",
+      "summary": "Pruce Paine foi um aventureiro que se dedicou a prender criminosos através do seu alter ego Shadowman, recusando-se a matá-los. Aposentou-se na sua mansão em Trand após uma carreira de 9 aventuras. Rumores sugerem que Shadowman continua a combater o crime nas ruas de Trand durante a noite.",
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1409119861514440806/pruceman.png?ex=69ae9ea3&is=69ad4d23&hm=64e7b9288fb22cf3401058bbf64dbc1bfdfcd4e6934da2d651c38db5e8e19769&"
     },
     {
@@ -1167,9 +1247,10 @@
         "conde",
         "nobre",
         "vampiro",
-        "antagonista"
+        "antagonista",
+        "personagem-misterioso"
       ],
-      "summary": "Conde Erampvire D Yraid é uma figura de nobreza obscura, cuja natureza vampírica o marca como uma ameaça significativa. Um antagonista de poder considerável no mundo de Spira.",
+      "summary": "Conde Erampvire D Yraid é uma figura nobre e enigmática. Pouco se sabe sobre este personagem além do seu título e nome.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1383845670384828647/208b05cdeea79323523d0b7143063f8a.jpg?ex=69aef536&is=69ada3b6&hm=90a606dbd72351427a095cc7c8f47a5cf521179b90eecec50d07ccd8c9080a75&"
     },
     {
@@ -1195,9 +1276,16 @@
         "guardião",
         "mares",
         "trágico",
-        "ingenuidade"
+        "ingenuidade",
+        "montanha",
+        "mar",
+        "Guardião dos Mares",
+        "traído",
+        "combatente",
+        "defensor",
+        "herói-sacrificado"
       ],
-      "summary": "Sula foi um Guardião dos Mares que morreu traído e enganado pela sua própria ingenuidade. Pereceu lutando contra o Mal que se aproximava das profundezas.",
+      "summary": "Sula foi um Guardião dos Mares cuja ingenuidade o levou à traição e engano. Morreu lutando contra o Mal que se aproximava das profundezas, sacrificando-se na defesa dos oceanos.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1386420471569842236/Sula.jpg?ex=69af18ae&is=69adc72e&hm=4b33ba378ad9111325185b6a0529ae97c0e334a6516bb2776574b52078184c1d&"
     },
     {
@@ -1215,7 +1303,7 @@
         "apostador",
         "misterioso"
       ],
-      "summary": "Chien Langfei, conhecido pelo alcunha \"The Black Ace\", é um herói envolvido em apostas e jogos de azar. Pouco se sabe sobre o seu passado, mas a sua reputação precede-o nos círculos de risco e fortuna.",
+      "summary": "Chien Langfei, conhecido pelo cognome \"The Black Ace\", é um herói que vive das apostas e do risco. Sua natureza enigmática e confiante reflete-se no seu famoso lema \"Vai uma aposta?\".",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1386744734223171807/21313.jpg?ex=69aef52d&is=69ada3ad&hm=54b4fed7832b38b32aababf9bfa7cca9ed4b50c3eeb2202b73ae8bd145d7a1db&"
     },
     {
@@ -1232,9 +1320,10 @@
         "Freljord",
         "protetor",
         "guerreiro",
-        "coração-de-gelo"
+        "coração-de-gelo",
+        "força"
       ],
-      "summary": "Braum é um herói lendário de Freljord, conhecido como o Coração de Freljord. Uma figura de grande força e determinação, representa os valores de coragem e proteção do seu povo.",
+      "summary": "Braum é uma figura lendária de Freljord, conhecido como o Coração da região. É um protetor e símbolo de força e coragem, capaz de enfrentar os maiores desafios.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1390801651752767588/image.png?ex=69ae8e39&is=69ad3cb9&hm=09f55e834435aff58f990d61cd7628871035f11123abaac01d41827bd1f9dd0d&"
     },
     {
@@ -1249,9 +1338,10 @@
         "supernatural",
         "caçador de bruxas",
         "anomalias feéricas",
-        "investigador"
+        "investigador",
+        "fey"
       ],
-      "summary": "Thar Echo é um caçador de bruxas dedicado ao confronto de anomalias feéricas. Especializado na detecção e eliminação de ameaças sobrenaturais.",
+      "summary": "Thar Echo é um caçador de bruxas e outras anomalias feéricas. Dedica-se a investigar e combater manifestações sobrenaturais de natureza mágica.",
       "image": null
     },
     {
@@ -1277,9 +1367,11 @@
         "demónio",
         "contrato-infernal",
         "herói",
-        "guilda"
+        "guilda",
+        "contrato-demoníaco",
+        "fogo"
       ],
-      "summary": "Rukan foi um herói que lutou ao lado de Felkron e Braum contra um dragão devastador. Num derradeiro ato de desespero, invocou um contrato com o demónio Traaq, libertando uma tempestade de fogo que enfraqueceu a criatura e permitiu aos seus companheiros escaparem. Morreu congelado pelo frio final do dragão, sacrificando-se para salvar a guilda.",
+      "summary": "Rukan foi um corajoso membro da guilda que lutava ao lado de Felkron e Braum contra um dragão. Num último ato de desespero, recorreu a um contrato com o demónio Traaq, canalizando um poder imenso que gerou uma tempestade de fogo para enfraquecê-lo. Morreu congelado pelo frio final do dragão, sacrificando-se para dar oportunidade aos seus companheiros.",
       "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1465504330407743803/file_00000000bf4871f491136bca32ed271e.png?ex=69aebd84&is=69ad6c04&hm=892f77011e105d764d30bde3e4690f82311f43562188cf5ca476ce4400856bf1&"
     },
     {
@@ -1299,9 +1391,10 @@
         "aventureiro",
         "sorte",
         "magia",
-        "espíritos"
+        "espíritos",
+        "mágico"
       ],
-      "summary": "Lukyn Argyle é um elfo abençoado pela sorte, pela magia e pelos espíritos. Aventureiro em crescimento, ainda mantém uma natureza infantil e preguiçosa.",
+      "summary": "Lukyn Argyle é um elfo abençoado pela sorte, pela magia e pelos espíritos. Apesar das suas dádivas, é um aventureiro ainda muito infantil e preguiçoso em crescimento.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1394028821128155257/Lu.jpg?ex=69af1702&is=69adc582&hm=da6d930f79f2d3f5956a8365108789700b50dded81c7b2f58b44d83258dadc1f&"
     },
     {
@@ -1315,9 +1408,11 @@
         "unknown-class",
         "misterioso",
         "procurado",
-        "jovem"
+        "jovem",
+        "mistério",
+        "humano"
       ],
-      "summary": "Preston Argyle é um herói cujas origens e natureza exata permanecem envoltas em mistério. A sua frase característica sugere que procura alguém semelhante a si, possivelmente um parente ou alguém com quem partilha uma ligação especial.",
+      "summary": "Preston Argyle é um herói envolvido numa situação misteriosa, procurando por alguém que se lhe assemelha. A sua frase sugere uma ligação familiar ou pessoal significativa que ainda aguarda ser revelada.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1394386541291245629/image.png?ex=69af12a9&is=69adc129&hm=f5f20ab1bea7f82001fc93094d19b127e96c62a9b6ca521693f2f7a4ec25732f&"
     },
     {
@@ -1335,7 +1430,7 @@
         "esquecido",
         "escuridão"
       ],
-      "summary": "Um owlin treinado para proteger, rodeado pela escuridão. Esquecido pelo mundo, carrega o peso de sua missão solitária.",
+      "summary": "Um owlin treinado para proteger rodeado da escuridão. Um herói esquecido do mundo, envolvido em mistério e isolamento.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1398205064610447390/HuskV2_-_Spira.jpg?ex=69af1f30&is=69adcdb0&hm=82c15df76082bbb249351d4244fea9f151e13a942eb700bdc8895a9805ccbdfe&"
     },
     {
@@ -1351,9 +1446,10 @@
         "excêntrico",
         "louco",
         "misterioso",
-        "citações-filosóficas"
+        "citações-filosóficas",
+        "personagem-único"
       ],
-      "summary": "Leroy o Louco é uma figura enigmática conhecida por suas declarações surreais e aforismos peculiares. O mundo, segundo sua perspectiva única, é demasiado pequeno para as suas ambições culinária e existenciais.",
+      "summary": "Leroy o Louco é um personagem enigmático conhecido por suas afirmações peculiares e filosofia absurda. Pouco se sabe sobre sua verdadeira natureza, apenas que o mundo lhe parece demasiado pequeno para seus apetites.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1400139365652631663/image.png?ex=69aee866&is=69ad96e6&hm=f77252717ace8915b6a10bd2556b0db5331234bbcd1fbd87ae01b9a426589129&"
     },
     {
@@ -1377,10 +1473,17 @@
         "homem perdido",
         "redenção",
         "charlatão",
-        "vítima-das-circunstâncias"
+        "vítima-das-circunstâncias",
+        "sorte",
+        "mistério",
+        "personagem-trágico",
+        "viciado",
+        "anti-herói",
+        "homem-perdido",
+        "salvador-de-aldeias"
       ],
-      "summary": "Johny Cash, também conhecido como Johny Castillo, foi um homem consumido pelo vício e pela falta de sorte, nascido na riqueza mas acabando no fundo do mar. Apesar de sua vida marcada pelo jogo, fumo e drogas, há quem o recorde como um nobre carismático que salvou uma aldeia. Sua verdadeira natureza permanece entre as histórias contraditórias que deixou para trás.",
-      "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1479589959173410948/Johny_Cash.jpg?ex=69ae9147&is=69ad3fc7&hm=494c62cafa5840c973832bcdb3988243a9bc5537e2b392a76a40d2920df2a05b&"
+      "summary": "Johny Cash, também conhecido como Johny Castillo, foi um homem marcado pela sorte adversa que o perseguiu durante toda a vida. Nascido com riqueza, perdeu tudo nas cartas, apostas e na farinha mágica, tornando-se conhecido como um companheiro de jogo e cliente generoso nos bairros. Para alguns foi apenas um drogado perdido, mas para uma mulher foi um nobre charmoso que salvou uma aldeia, e para os filhos que nunca conheceu, permanecerá como um herói. Jaz no fundo do mar, deixando um legado ambíguo entre a redenção e a perdição.",
+      "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1479570890520924381/image.png?ex=69af2845&is=69add6c5&hm=d7d99881fa6938ef6eda0d6b7615afcb2ab172c27310146f9f3a78ed6ed91e5f&"
     },
     {
       "id": "nookar-thesul",
@@ -1410,9 +1513,11 @@
         "arcane",
         "mágico",
         "mistério",
-        "poder-arcano"
+        "poder-arcano",
+        "misterioso",
+        "spira"
       ],
-      "summary": "Felkron é um herói cujas capacidades envolvem magia, embora a natureza exacta dos seus poderes permaneça incerta. Pouco se sabe sobre as suas origens ou a verdadeira extensão das suas habilidades arcanas.",
+      "summary": "Um indivíduo com afinidades mágicas, cuja natureza exacta permanece pouco clara. Felkron parece possuir capacidades de origem mágica, embora os detalhes específicos da sua magia sejam ainda indefinidos.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1411091965252206724/27E31233-86CB-4264-ACE5-6FD9D88B27A6.png?ex=69ae8b0d&is=69ad398d&hm=183fb1962ee22db1fe13b95c22e476adb463c056302bd737a0fe122d24bdd529&"
     },
     {
@@ -1443,7 +1548,7 @@
         "admirador",
         "magia"
       ],
-      "summary": "Belo é um mago que idolatra o lendário Dragon-born Branco Balo, considerado por ele o maior mago de todos os tempos. Sua devoção pela figura icónica influencia sua busca por poder e conhecimento mágico.",
+      "summary": "Belo é um mago que idolatra o lendário Dragon-born Branco Balo, considerado por ele o mais grandioso mago de todos os tempos. Inspira-se nas façanhas do seu ídolo na sua jornada como praticante de magia.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1423634863948300338/image.png?ex=69aeb0c9&is=69ad5f49&hm=e1295d1f7ad68cd47608d18264d656dba00563aecdee5c5cc5d6ed70708e7706&"
     },
     {
@@ -1476,7 +1581,7 @@
         "Solenar",
         "seguidora"
       ],
-      "summary": "Rhainnis é uma mulher livre e seguidora de Solenar. Pouco se sabe sobre a sua história, mas a sua devoção é notável.",
+      "summary": "Rhainnis é uma mulher livre e seguidora de Solenar. Pouco mais se conhece sobre o seu passado e aspirações.",
       "image": null
     },
     {
@@ -1497,10 +1602,11 @@
         "hálito-ácido",
         "aventureiro",
         "sortudo",
-        "verde"
+        "verde",
+        "hálito-ofuscante"
       ],
-      "summary": "Oric é um pequeno kobold paladino que se tornou aventureiro por engano. Apesar das suas origens humildes e natureza nervosa, a sorte guiou-o pelo caminho da aventura e o curou ao longo do percurso.",
-      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1455275666307158026/portuguesebully._A_small_green_kobold_paladin_nervous_but_deter_72965062-49de-4604-bd78-5ecd6f65a9da.png?ex=69af1a14&is=69adc894&hm=a455f72bebe822f9b0ae0490e7e19145622924b8e9b5d1f8a89179483dd614cf&"
+      "summary": "Oric é um pequeno kobold paladino que se tornou aventureiro por engano. Apesar das circunstâncias improvável da sua jornada, a sorte acompanhou-o e moldou-o num herói resiliente.",
+      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1455275666307158026/portuguesebully._A_small_green_kobold_paladin_nervous_but_deter_72965062-49de-4604-bd78-5ecd6f65a9da.png?ex=69af1a14&is=69adc894&hm=a455f72bebe822f9b0ae0490e7e19145623dd614cf&"
     },
     {
       "id": "troht",
@@ -1516,8 +1622,8 @@
         "Talset",
         "grupo-dissolvido"
       ],
-      "summary": "Um anão que chegou a Spira vindo de Talset após a dissolução do seu grupo anterior. Notável pelo seu capucho azul.",
-      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1444241073256796170/a9e908a0-ada4-4149-914e-68ffee71c46d.png?ex=69ae8250&is=69ad30d0&hm=f71b8855efa9f7f17dc14a6c297de57bdcf24de4444b652c8d6ee7d618df962e&"
+      "summary": "Troht é um anão que veio de Talset após o seu grupo ter sido dissolvido. É notável pelo seu capucho azul.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1444241073256796170/a9e908a0-ada4-4149-914e-68ffee71c46d.png?ex=69af2b10&is=69add990&hm=024ebd5e9b37e1eb4450729d3d44232dc7c05c42807debb8e0c2d63f62b73307&"
     },
     {
       "id": "clara-grütze",
@@ -1549,9 +1655,11 @@
         "fada",
         "protetora",
         "floresta-encantada",
-        "coragem"
+        "coragem",
+        "protetor",
+        "altruísta"
       ],
-      "summary": "Florivia Pózinha é uma fada que acredita que nunca é tarde para proteger quem precisa. Habita uma floresta encantada e dedica-se à defesa dos mais vulneráveis.",
+      "summary": "Florivia Pózinha é uma fada que acredita nunca ser demasiado tarde para proteger quem precisa. Habita uma floresta encantada e dedica-se a ajudar aqueles que atravessam dificuldades.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1455825353078603817/portuguesebully._A_fat_fairy_flying_around_in_an_enchented_fore_ec8c362b-bb8b-4def-bb93-13e2098a2f40.png?ex=69af1fc4&is=69adce44&hm=3e16b6cf052c712f2ca8e1afdc811ad362f126fb83bda3425ec36a934f72b0b3&"
     },
     {
@@ -1565,9 +1673,10 @@
         "goliath",
         "defender",
         "protetor",
-        "força"
+        "força",
+        "guerreiro"
       ],
-      "summary": "Thundros é um goliath cuja filosofia de vida é usar a sua força para proteger aqueles que não a possuem. Um herói movido por princípios de justiça e defesa dos mais frágeis.",
+      "summary": "Thundros é um goliath que acredita que a força existe para proteger aqueles que não a possuem. Um herói movido por um código de honra e responsabilidade.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1460279442206232814/Goliath.png?ex=69aed935&is=69ad87b5&hm=932c071a69e440e33861f8653c4de83f699e8d07b6c57943a862eed4dba7367d&"
     },
     {
@@ -1584,14 +1693,16 @@
         "monge",
         "resolução de conflitos",
         "calma",
-        "força"
+        "força",
+        "resolução-de-problemas",
+        "combate"
       ],
-      "summary": "Kip Anu é um monge que se apresenta com um gesto ensaiado mas um pouco apressado. Tenta resolver problemas com calma, embora por vezes prefira soluções mais diretas. Promete não destruir nada importante — sem querer.",
+      "summary": "Kip Anu é um monge que prefere resolver problemas com calma e diplomacia, embora reconheça que por vezes recorre a métodos mais diretos. Caracteriza-se pelo seu humor autoirónico e pela promessa de tentar não causar destruição desnecessária.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1465799328432914456/Kip_Anu.png?ex=69af2781&is=69add601&hm=323c9c83ce23fd7ccbdea95e15cff3bf69583ab382cb11091be8c886224f74b0&"
     },
     {
       "id": "ronog",
-      "name": "Ronog",
+      "name": "Ronog, o Dragão Negro",
       "type": "warrior",
       "status": "retired",
       "tags": [
@@ -1602,9 +1713,11 @@
         "dragão negro",
         "montador de wyverns",
         "lenda da guilda",
-        "aventureiro"
+        "aventureiro",
+        "aventureiro lendário",
+        "reformado"
       ],
-      "summary": "Ronog, o Dragão Negro, foi proclamado como o aventureiro mais forte da guilda. Montador de wyverns lendário, aventurou-se durante exactamente 1 ano em nome de Ernesto Garza antes de se reformar a 26 de Novembro de 2024.",
+      "summary": "Ronog, o Dragão Negro, foi proclamado como o aventureiro mais forte da guilda. Montador de wyverns e lenda viva, aventurou-se em nome de Ernesto Garza durante exactamente um ano antes de se reformar a 26 de novembro de 2024.",
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1317306230716371005/Ronog.jpg?ex=69aecec7&is=69ad7d47&hm=3542aef4e143affe7b185ac17975c0d6d31bf8a6de8498f46cafcb18b11b540d&"
     },
     {
@@ -1620,9 +1733,12 @@
         "educadora",
         "mãe-adotiva",
         "empresária",
-        "Talset"
+        "Talset",
+        "professora",
+        "mãe",
+        "Falahar"
       ],
-      "summary": "Jane é uma mulher que se dedica a cuidar de uma escola e de Sara, sua filha adotiva. Apesar das dificuldades financeiras e de uma dívida com um patrono, encontrou felicidade ao lado de Brakk, formando uma família que acolhe crianças do orfanato de Talset e da comunidade de Falahar.",
+      "summary": "Jane é uma mulher dedicada que, juntamente com Brakk, cuida de uma escola no orfanato de Talset e da sua filha Sara. Apesar das dificuldades financeiras e de uma dívida com um patrono, encontrou a felicidade na vida familiar e no trabalho de educadora.",
       "image": null
     },
     {
@@ -1645,9 +1761,13 @@
         "casa",
         "órfã",
         "símbolo-de-esperança",
-        "música"
+        "música",
+        "construtora",
+        "professora",
+        "mestre-de-escola",
+        "sonhos"
       ],
-      "summary": "Sara é uma rapariga que beneficiou do apoio de uma escola de música criada pelos heróis em parceria com um orfanato local. Emocionada com o impacto positivo da iniciativa, ofereceu um desenho especial que se tornou símbolo da nova família e do lar que a instituição representa.",
+      "summary": "Sara é uma rapariga que encontrou abrigo e família numa escola de música. Emocionada com o impacto positivo da iniciativa, ofereceu um desenho especial que se tornou símbolo do novo lar repleto de música e sonhos.",
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1320444795273085000/file-98TQTSgg5QDMPvaW2ew7kY-1.webp?ex=69af050b&is=69adb38b&hm=c63e650e05a0be276e5848bffcce36ca28b62d7ff5fd08050c6779cc56a097e9&"
     },
     {
@@ -1694,9 +1814,12 @@
         "ferreiro",
         "irmão",
         "Moldler's Forge",
-        "perseverança"
+        "perseverança",
+        "irmãos-moldler",
+        "aldeia",
+        "forja"
       ],
-      "summary": "Clevius é um ferreiro que trabalha na Moldler's Forge, uma forja nas montanhas onde cria ferramentas e proteções. Após uma vida de aventuras ao lado de companheiros, decidiu estabelecer-se na aldeia e continuar o ofício com o seu irmão Melvius, construindo uma base sólida para a família.",
+      "summary": "Clevius é um ferreiro e artificer que trabalha na Moldler's Forge com o seu irmão Melvius. Após uma vida de aventuras, retirou-se para a aldeia onde cria ferramentas e proteções que salvam vidas. Simboliza a perseverança, o trabalho árduo e a união familiar.",
       "image": null
     },
     {
@@ -1727,9 +1850,11 @@
         "monster-hunter",
         "redeemed",
         "caçador-de-monstros",
-        "ouro"
+        "ouro",
+        "guerreiro",
+        "caçador de monstros"
       ],
-      "summary": "Zachiel é um Half-Orc Fighter/Barbarian que começou a sua aventura motivado pela vingança após ser expulso de casa, mas encontrou na guilda uma nova família que transformou o seu ódio em compaixão. Aposentou-se com rank de Ouro após 34 aventuras, dedicando-se agora à caça de monstros gigantes enquanto honra as amizades que cultivou.",
+      "summary": "Zachiel é um Half-Orc Fighter/Barbarian que começou sua carreira movido pela vingança após ser expulso de casa, mas encontrou uma nova família na guilda de aventureiros. Após 34 aventuras e uma transformação pessoal profunda, reformou-se com rank Ouro, dedicando-se agora à caça de monstros gigantes enquanto preserva as amizades feitas.",
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1359231012177187060/Zachiel.png?ex=69af0f06&is=69adbd86&hm=aba53ec86273dc572ac724b7fb2fdedb7bafe7bb09e64ddf8db87b5fcde967e2&"
     },
     {
@@ -1746,9 +1871,11 @@
         "curandeiro",
         "missionário",
         "Kunkare",
-        "refugiado"
+        "refugiado",
+        "refugiados",
+        "Garza"
       ],
-      "summary": "Amble é um curandeiro dedicado que se uniu à guilda de Garza movido pelo desejo de ajudar o próximo. Após a destruição de Asura, respondeu ao chamado para assistir os refugiados a estabelecer uma nova casa na vila dos elfos. Agora segue como missionário de Kunkare, viajando pelo continente para continuar a ajudar quem necessita.",
+      "summary": "Amble foi um curandeiro dedicado à ajuda do próximo, servindo na guilda de Garza durante 9 aventuras. Após a destruição de Asura, respondeu ao chamado para auxiliar os refugiados a estabelecerem uma nova casa junto aos elfos. Agora viaja pelo continente como missionário de Kunkare, continuando a sua missão de ajudar quem necessita.",
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1388657748035764375/sorgvar.jpg?ex=69aeaa8f&is=69ad590f&hm=2cb6390ada93d4fe0e1bf3aec56d8c24e412c93e804b3e5258e878b227cf85f0&"
     },
     {
@@ -1766,9 +1893,11 @@
         "azul",
         "vingança",
         "família Hardy",
-        "Greyford"
+        "Greyford",
+        "clone azul",
+        "liderança"
       ],
-      "summary": "Clone azul da verdadeira Jahira, nascida do acaso entre muitos outros clones planeados. Após enfrentar a traição e rejeição da família Hardy — incluindo o pai Jeff e o irmão Tom — destruiu toda a linhagem e agora busca recuperar o legado Hardy com fogo e fúria. Reformou-se em Greyford ao lado de Perrie Hardy, seu companheiro leal, com o objetivo de estabelecer um novo clã e frota baseados em honra, coragem e espírito pirata.",
+      "summary": "Um clone azul da verdadeira Jahira, nascida do acaso entre muitos outros clones planeados. Após enfrentar a traição da sua própria família, Jahira destruiu a linhagem Hardy e agora está determinada a recuperar o que lhe pertence por direito, estabelecendo-se em Greyford com Perrie, seu companheiro leal, para construir uma nova família baseada em honra, coragem e espírito pirata.",
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1443599769774850169/jahira-clone-sb.jpg?ex=69aed00d&is=69ad7e8d&hm=84ea28dbf35f09642445cb77a828c39fc7c7c7f0193d6353667905e36cd9ad00&"
     },
     {
@@ -1786,9 +1915,10 @@
         "pirata",
         "bebado",
         "Jahira",
-        "Greyford"
+        "Greyford",
+        "aventureiro"
       ],
-      "summary": "Perrie Pervail foi um druida pirata conhecido pela sua obsessão por Jahira e pelo seu gosto pela bebida. Após 21 aventuras entre maio e novembro de 2025, reformou-se numa gruta em Greyford, onde finalmente alcançou a vida que sempre desejou ao lado de Jahira.",
+      "summary": "Perrie Pervail foi um druida pirata que se aventurou durante 21 campanhas entre Maio e Novembro de 2025. Obcecado por Jahira, perseguiu-o através de várias aventuras até finalmente encontrar o seu lugar. Reformou-se numa gruta de Greyford com Jahira, conquistando por fim o que sempre desejou.",
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1443706604070637708/image.png?ex=69ae8acd&is=69ad394d&hm=1bcf780d0f71a19049f914e6fef7f0633f6fe196bde0302b6b6ae80840a7010a&"
     },
     {
@@ -1804,9 +1934,11 @@
         "feiticeiro",
         "louco",
         "jovem",
-        "aventureiro-aposentado"
+        "aventureiro-aposentado",
+        "excêntrico",
+        "aventureiro-iniciante"
       ],
-      "summary": "Luckyn é um feiticeiro excêntrico que se retirou da vida de aventureiro após 10 expedições entre julho de 2025 e fevereiro de 2026. Reconhecidamente imaturo e ainda muito novo para a vida de aventura, regressou à casa dos pais. Talvez um dia volte com novos planos.",
+      "summary": "Luckyn é um feiticeiro jovem e algo instável que teve uma breve carreira aventureira entre julho de 2025 e fevereiro de 2026, participando em 10 aventuras. Regressou a casa dos pais após reconhecer que ainda era demasiado inexperiente e imaturo para a vida de aventureiro.",
       "image": null
     },
     {
@@ -1838,10 +1970,14 @@
         "adventurer",
         "musician",
         "unpredictable",
-        "energetic"
+        "energetic",
+        "bardo",
+        "inesperado",
+        "eletrizante",
+        "lendário"
       ],
-      "summary": "Chakalaka was a bard who lived life with flair and spontaneity. He met his end in a manner as unexpected and electrifying as the way he lived, leaving behind a legacy of bold performances and untamed spirit.",
-      "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1299746215394545776/IMG_1220.jpg?ex=69ad8bfd&is=69ac3a7d&hm=69b7f37bb900d0b6b47341f3b222398cb6a98d6d53b51ec1777d2da78f59ffa8&"
+      "summary": "Chakalaka foi um bardo cuya vida foi tão vibrante e imprevista quanto sua morte. Faleceu de forma inesperada e eletrizante, deixando saudades em Lenton.",
+      "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1299746215394545776/IMG_1220.jpg?ex=69aedd7d&is=69ad8bfd&hm=d43145170b1e9e1cbef72068bc9f6a50a3aa724bcba513a50da66c05274aa98f&"
     },
     {
       "id": "melinha",
@@ -1858,10 +1994,12 @@
         "bárbara",
         "guerreira",
         "lendária",
-        "irmã-do-marro"
+        "irmã-do-marro",
+        "legenda",
+        "memória-viva"
       ],
-      "summary": "Conhecida como Melinha para uns e Melga para outros, foi uma guerreira cuya memória persiste através da lenda. Descansa em paz numa sepultura ornamentada, pronta para receber flores em sua homenagem. Diz-se que uma parte da sua chama ainda habita o coração do seu irmão Marro.",
-      "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1356725698139652147/Fairy_Barbarian-1.jpg?ex=69ae8385&is=69ad3205&hm=17b9295d36749741af1dc54aa66425e161fa44b7fa580c892a3a9014ce4a3508&"
+      "summary": "Conhecida também como Melga, foi uma heroína cuja chama perdurou para além da morte. Descansa numa sepultura respeitosamente mantida, e reza a lenda que uma parte do seu espírito reside no coração do seu irmão Marro.",
+      "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1356725698139652147/Fairy_Barbarian-1.jpg?ex=69af2c45&is=69addac5&hm=f8c076fd3da0080b53b1da463f3bfecf8380da9b7be2ef5156fe7804823ac588&"
     },
     {
       "id": "avo-ziva",
@@ -1877,9 +2015,10 @@
         "criminosa",
         "velha",
         "dragão",
-        "sorgvar"
+        "sorgvar",
+        "morta-pelo-dragão"
       ],
-      "summary": "Avó Ziva foi uma criminosa identificada em Talset, o Inferno do Sorgvar. Conhecida também por \"Madeira com caruncho\", pereceu de forma trágica — aparentemente devorada por um dragão.",
+      "summary": "Avó Ziva era uma criminosa velha identificada em Talset, O Inferno do Sorgvar. Pereceu nas garras de um dragão, um fim que muitos consideravam merecido para alguém com seu passado.",
       "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1356727160055791686/ziva_midjourney.png?ex=69ae84e1&is=69ad3361&hm=2165e69abb1f8fdcfa8ed1da257434a97535d50ed2ca7028eaaa183c4d6b641f&"
     },
     {
@@ -1892,9 +2031,10 @@
         "unknown-origin",
         "deceased",
         "personagem-misterioso",
-        "falecido"
+        "falecido",
+        "herói-desconhecido"
       ],
-      "summary": "Raziel é um herói cujo último nome permanece desconhecido. Pouco se sabe sobre este personagem, que já não caminha entre os vivos.",
+      "summary": "Raziel é um herói cujo último nome permanece desconhecido. Pouco se sabe sobre este personagem além do seu nome.",
       "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1383580123445465111/image.png?ex=69aea6a7&is=69ad5527&hm=b233f064f5dc2abba2caa98c176a4d5f55566af2c1063207fedf064e151c3cdf&"
     },
     {
@@ -1910,7 +2050,7 @@
         "Asura",
         "arcanista"
       ],
-      "summary": "Balo Rainshine foi um mago de Asura. Faleceu e agora repousa no Hall dos Mortos.",
+      "summary": "Balo Rainshine foi um mago de Asura. Pereceu durante as suas aventuras.",
       "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1390154073629528134/image.png?ex=69aed61e&is=69ad849e&hm=cb781307895fc9eaffbba94100f2302b16e065bcb28feb912b27ed394cf20b33&"
     },
     {
@@ -1924,9 +2064,10 @@
         "companion",
         "mabari",
         "companheiro-animal",
-        "falecido"
+        "falecido",
+        "guerreiro"
       ],
-      "summary": "Zuko Mabari foi um herói acompanhado pelo seu fiel companheiro Sir Quackson. Ambos deixaram uma marca na história de Spira antes de seu falecimento.",
+      "summary": "Zuko Mabari foi um herói acompanhado pelo seu fiel companheiro Sir Quackson. Ambos deixaram um legado memorável no mundo de Spira.",
       "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1406557013567078501/zuko-token.png?ex=69ae864c&is=69ad34cc&hm=a464656a698ca318ae87de481b05e45ff6dcd43c543a307302f2d029dfe193d1&"
     },
     {
@@ -1942,9 +2083,10 @@
         "family-driven",
         "valente",
         "martelo",
-        "sacrifício"
+        "sacrifício",
+        "família"
       ],
-      "summary": "Um Kenku que desejava ser valente e proteger a sua família. Morreu de forma desafiadora, enfrentando o seu destino com orgulho e coragem, apesar das perdas que sofreu no caminho.",
+      "summary": "Um Kenku que lutou com determinação apesar das perdas familiares no caminho. Morreu de forma rápida às mãos de um inimigo, mas não sem antes deixar um último grito de desafio e pedir aos companheiros que se mantivessem fortes.",
       "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1434983471507570710/portuguesebully.__93550bcb-8a66-4b91-b5a2-26ae4a3114c1.png?ex=69af1b80&is=69adca00&hm=0747bc8c9bb24166c712acb671cfeb3bdf0343ca85613d82d04377c22195293a&"
     },
     {
@@ -1961,9 +2103,11 @@
         "historiadora",
         "guardiã-do-passado",
         "método-directo",
-        "inteligência"
+        "inteligência",
+        "meticulosa",
+        "doutora"
       ],
-      "summary": "Dra. Ishkara Vermis é uma historiadora e guardiã da verdade histórica, dedicada a assegurar que o passado e o presente sejam registados com precisão para as gerações futuras. Disposta a empregar métodos mais ríspidos quando necessário para proteger a integridade da história.",
+      "summary": "Dra. Ishkara Vermis é uma erudita dedicada à preservação e precisão histórica. Apresenta-se como guardiã da verdade, determinada a garantir que passado e presente sejam registados correctamente. Disposta a empregar métodos mais rigorosos para defender a integridade histórica.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1479942685727920272/Dra._Ishkara_Vermis.jpg?ex=69ae8848&is=69ad36c8&hm=a9118fdc9c421679a4bac47c8a5ff69ea99e01dddf90722907870c585165fe23&"
     },
     {
@@ -1975,10 +2119,11 @@
         "xamã",
         "tribo-xhosa",
         "curandeiro-espiritual",
-        "líder-tribal"
+        "líder-tribal",
+        "xama"
       ],
-      "summary": "Xolani é o xamã da tribo Xhosa, guardião dos conhecimentos espirituais e tradições ancestrais. Serve como guia espiritual e curandeiro para o seu povo.",
-      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1176617344068501514/Xholani.png?ex=69ae820b&is=69ad308b&hm=d6d6596f81d1d3da23abc093de97317a3911efe75e064b91b06682ea8a1cb63d&"
+      "summary": "Xolani é o xama da tribo Xhosa, um líder espiritual e curandeiro que guia seu povo através da sabedoria ancestral e conexão com o mundo espiritual.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1176617344068501514/Xholani.png?ex=69af2acb&is=69add94b&hm=9c5483adf328a4508d111c2927fcf4b8c01ffd691d233d35c9cec18266464c82&"
     },
     {
       "id": "ze-pequeno",
@@ -1988,10 +2133,12 @@
       "tags": [
         "personagem",
         "herói",
-        "dedinho"
+        "dedinho",
+        "português",
+        "guerreiro-miúdo"
       ],
-      "summary": "Zé Pequeno é um herói conhecido pela sua característica marcante — o dedinho. Um personagem memorável e distinto no mundo de Spira.",
-      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1275447334477631579/Ze_dedo_mindinho.jpg?ex=69aecbe5&is=69ad7a65&hm=a231694b23d7721630745279d560f7c9bbe29a21eb9e2667a5a8f552dcc64cd7&"
+      "summary": "Zé Pequeno é um herói português conhecido pelo epíteto \"Dedinho\". Um personagem de pequena estatura mas grande personalidade, marca presença com atitude e disposição para o combate.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1275447334477631579/Ze_dedo_mindinho.jpg?ex=69aecbe5&is=69ad7a65&hm=a231694b23d7721630745279d560f7c9bbe29a21eb9e2667a5a8f552dcc64cd7"
     },
     {
       "id": "thorgan-o-inabalavel",
@@ -2003,9 +2150,10 @@
         "goliath",
         "força",
         "resistência",
-        "montanhas"
+        "montanhas",
+        "montanhês"
       ],
-      "summary": "Thorgan é um Paladino Goliath estóico, um muro de carne e aço forjado nas montanhas. Com grande força e a Resistência da Pedra, busca provar que a maior força de todas é simplesmente a capacidade de não cair.",
+      "summary": "Thorgan é um Paladino Goliath estóico, um muro de carne e aço forjado nas montanhas. Com a sua grande força e a Resistência da Pedra, ele busca provar que a maior força de todas é simplesmente a capacidade de não cair.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1439003407519060029/ChatGPT_Image_14_11_2025_18_54_41.png?ex=69ae921b&is=69ad409b&hm=812e63bf8a97906e4504dff6f7a8d585fa85566ce96cd04943575ace9496b901&"
     },
     {
@@ -2020,7 +2168,7 @@
         "titânio",
         "tribo"
       ],
-      "summary": "!Xolani é um jovem bugbear druida que se reformou com rank de Titânio após uma carreira de aventurero entre 21 de Novembro de 2023 e 18 de Janeiro de 2025. Forçado inicialmente a seguir um caminho que não era o seu, o destino revelou-se diferente, levando-o a fazer amigos especiais e aprender lições que carregará consigo para fazer prosperar a sua tribo.",
+      "summary": "!Xolani é um jovem bugbear que abraçou o caminho do druidismo, transformando um destino que lhe foi imposto numa vocação genuína. Durante a sua carreira de aventureiro, fez amigos especiais com quem aprendeu lições que levará consigo para sempre, visando a prosperidade da sua tribo. Reforma-se com rank de Titânio após uma jornada que o marcou profundamente.",
       "image": null
     },
     {
@@ -2039,16 +2187,17 @@
     },
     {
       "id": "azim",
-      "name": "Azim Ö",
+      "name": "Azim",
       "type": "ranger",
       "status": "deceased",
       "tags": [
         "arqueira",
         "halfling",
         "sacrifício",
-        "ranger"
+        "ranger",
+        "guerreiro"
       ],
-      "summary": "Azim Ö foi uma pequena arqueira que deu sua vida pelo seu companheiro Poopoo (Lupu). Sua morte foi um acto de sacrifício nobilitante.",
+      "summary": "Azim era uma pequena arqueira que deu sua vida por Poopoo (Lupu). Um herói cujo sacrifício final testou o valor da compaixão.",
       "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1408598438408360076/Azim1.jpg?ex=69aeb346&is=69ad61c6&hm=428eb553f74f18ddb0a8b95e2e47c9c39250bfcf59a2bf0842407a95c790838f&"
     },
     {
@@ -2058,10 +2207,68 @@
       "status": "deceased",
       "tags": [
         "desconhecido",
-        "hall-dos-mortos"
+        "hall-dos-mortos",
+        "falecido"
       ],
-      "summary": "Um herói cujo nome e história permanecem inscritos apenas numa lápide no Hall dos Mortos.",
+      "summary": "Um herói cujo nome e história permanecem inscritos apenas numa lápide, sem mais informações disponíveis.",
       "image": null
+    },
+    {
+      "id": "ser-brakk",
+      "name": "Ser Brakk",
+      "type": "warrior",
+      "status": "active",
+      "tags": [
+        "centauro",
+        "yanogu",
+        "guerreiro",
+        "grande",
+        "nobre"
+      ],
+      "summary": "Ser Brakk é um centauro yanogu de grandes proporções, medindo 4 metros de altura. Um guerreiro de estatura imponente e nobreza evidente.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1300052784007090247/Sorgvar.png?ex=69aea981&is=69ad5801&hm=64c5b33fa486312cf525f7d9ef942ad335529af5bc8f59faa67ae24ab1d456c7&"
+    },
+    {
+      "id": "clara-grutze",
+      "name": "Clara Grütze",
+      "type": "other",
+      "status": "active",
+      "tags": [
+        "mãe-da-guilda",
+        "personagem-importante",
+        "aliada"
+      ],
+      "summary": "Clara Grütze é a mãe da guilda, uma figura central e cuidadora dos seus membros. Pouco se sabe sobre o seu passado, mas o seu papel é fundamental na dinâmica do grupo.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1446978780198473920/23a46098-de9c-4dcc-9872-210ca4397d2b.jpg?ex=69ae94c0&is=69ad4340&hm=1c6d934475eee583b0c15791d960c97acfb7471cbe71e91bd4055426e5e2bcc5&"
+    },
+    {
+      "id": "melvius",
+      "name": "Melvius",
+      "type": "other",
+      "status": "retired",
+      "tags": [
+        "artificer",
+        "ferreiro",
+        "negociante",
+        "irmão de Clevius",
+        "Moldler's Forge"
+      ],
+      "summary": "Aprendiz de artificer e irmão de Clevius Moldler, Melvius reformou-se na aldeia natal da família nas montanhas. Agora gere a Moldler's Forge, uma forja onde magia e técnica se unem para criar armas, armaduras e itens mágicos, combinando o talento comercial com o carisma natural.",
+      "image": null
+    },
+    {
+      "id": "preston-a-ama-seca",
+      "name": "Preston - A ama-seca",
+      "type": "other",
+      "status": "retired",
+      "tags": [
+        "ama-seca",
+        "cuidador",
+        "contrato-real",
+        "corte-da-rainha"
+      ],
+      "summary": "Preston foi uma aventureira que serviu durante 13 meses com 12 aventuras registadas. Após cumprir o papel de cuidar do seu irmão, regressou à Corte da Rainha da Primavera para honrar o seu contrato com a Rainha.",
+      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1473832215828889814/image.png?ex=69aeb6f6&is=69ad6576&hm=67add8636ef4ce5efdbc4d0b3cfafa9797a6465af81e460b5a9ec669a0f1a82e&"
     }
   ]
 }
