@@ -1,17 +1,6 @@
 {
-  "lastUpdated": "2026-03-08T00:00:00Z",
+  "lastUpdated": "2026-03-08T20:18:19.129Z",
   "entries": [
-    {
-      "id": "deus-exemplo-maior",
-      "name": "Divindade Maior (Exemplo)",
-      "tier": "major",
-      "domain": "Criação e Equilíbrio",
-      "symbol": "☀️",
-      "alignment": "Neutro",
-      "tags": ["maior", "exemplo"],
-      "summary": "Uma divindade placeholder. Substitui com os deuses maiores reais de Spira.",
-      "image": null
-    },
     {
       "id": "deus-exemplo-menor",
       "name": "Divindade Menor (Exemplo)",
@@ -19,9 +8,268 @@
       "domain": "Sombras e Segredos",
       "symbol": "🌙",
       "alignment": "Neutro",
-      "tags": ["menor", "exemplo"],
+      "tags": [
+        "menor",
+        "exemplo"
+      ],
       "summary": "Uma divindade menor placeholder. Substitui com os deuses menores reais.",
       "image": null
+    },
+    {
+      "id": "buzug",
+      "name": "Buzug",
+      "tier": "maior",
+      "domain": "Vida, Fertilidade e Progresso",
+      "symbol": "Katta'Ra, a cidade do progresso",
+      "alignment": "Neutro",
+      "tags": [
+        "vida",
+        "fertilidade",
+        "progresso",
+        "titã",
+        "tecnologia",
+        "protetor"
+      ],
+      "summary": "Buzug é um titã primordial cordial com a humanidade, cuja verdadeira origem permanece misteriosa. Odiava o mundo primordial e dedicou-se a proteger as formas de vida inteligentes para acelerar o progresso do mundo. Diz-se que Katta'Ra, uma cidade de tecnologia sem igual, existe nas formas que cobrem o seu corpo colossal.",
+      "image": null
+    },
+    {
+      "id": "scutum",
+      "name": "Scutum",
+      "tier": "maior",
+      "domain": "Proteção, longevidade e natureza",
+      "symbol": "Tartaruga com carapaça em formato de escudo",
+      "alignment": "Caótico e Bom",
+      "tags": [
+        "proteção",
+        "natureza",
+        "longevidade",
+        "titã primordial",
+        "cleric",
+        "vida"
+      ],
+      "summary": "Um titã primordial que desde os primórdios protege todos os seres capazes de sentimentos, abençoando-os com vidas longas e corpos saudáveis. Recusando-se a proteger contra males ou maldições, Scutum concentra-se apenas em prevenir a morte, incentivando os seus seguidores a viverem plenamente e corajosamente. Refugiado em Feywild após irritar outros deuses ao curar soldados em batalha, agora age de forma indireta através dos seus devotos.",
+      "image": "https://cdn.discordapp.com/attachments/1173065628307959869/1173068207930740837/Scutum.png?ex=69aec7a7&is=69ad7627&hm=9f6acbac71a66449987209f79721c92391162dee27be658b079ab9fe2de1fccb&"
+    },
+    {
+      "id": "ramness",
+      "name": "Ramness",
+      "tier": "maior",
+      "domain": "Mares",
+      "symbol": "Um Barco",
+      "alignment": "Leal e Neutro",
+      "tags": [
+        "mares",
+        "pirataria",
+        "deusa",
+        "tempestades",
+        "proteção marítima",
+        "culto"
+      ],
+      "summary": "Ramness é a Deusa dos Mares, ascendida de uma pirata lendária que descobriu um monóculo artefacto que absorveu o poder de um titã primordial. Controla as rotas marítimas e oferece proteção aos navegadores que lhe fazem oferendas nos templos dos portos, em particular na Alcova do Rum. Os piratas celebram o \"mar bêbado\", um dia santo dedicado a derramar alcóol nos mares em agradecimento à sua proteção divina.",
+      "image": "https://cdn.discordapp.com/attachments/1173065628307959869/1173079716736016474/Ramness.png?ex=69aed25f&is=69ad80df&hm=e21037d116a451f25a2c4aa15cb1a13a81903dce546360993f31a449b2d80291&"
+    },
+    {
+      "id": "ojoo",
+      "name": "O'joo",
+      "tier": "maior",
+      "domain": "Caos e Arcana",
+      "symbol": "Cristais de magia concentrada",
+      "alignment": "Neutro",
+      "tags": [
+        "caos",
+        "arcana",
+        "magia",
+        "titã",
+        "poder primordial",
+        "aprisionado"
+      ],
+      "summary": "O'joo é uma entidade primordial de poder imensa, um titã cujo potencial era tão vasto que todos os outros titãs se uniram para lhe fazer frente durante a guerra que moldou o mundo actual. Diz-se que foi aprisionado num plano distante pelos seus pares, e toda a magia do mundo é tida como emanação do seu poder. Ocasionalmente, cristais imbuídos da sua essência mágica podem ser encontrados no mundo material.",
+      "image": "https://cdn.discordapp.com/attachments/1173065628307959869/1173080014368014429/Ojoo.jpg?ex=69aed2a6&is=69ad8126&hm=6fa470dd3c86e8d0cc936228992fc76831651fa851916328579386fb91a6cc2a&"
+    },
+    {
+      "id": "mystic-a-quarta",
+      "name": "Mystic, A Quarta",
+      "tier": "maior",
+      "domain": "Arcana, Magia, Tempo, Conhecimento",
+      "symbol": "Uma mão cheia de fios e 7 caminhos",
+      "alignment": "Leal e Neutro",
+      "tags": [
+        "magia",
+        "tempo",
+        "conhecimento",
+        "deusa",
+        "renascimento",
+        "omnisciente"
+      ],
+      "summary": "Deusa da Magia e do Conhecimento nascida do poder de O'joo, Mystic é uma entidade omnipresente capaz de ver passado, presente e futuro através dos 7 caminhos de cada destino. Após sua quarta morte ao proteger seu mestre contra um titã dos mares, seu renascimento descontrolado libertou uma onda de magia selvagem que alterou o continente e deu origem a Latifur como Deusa. Mystic busca desvendar os erros causados durante seu renascimento através de seus acólitos, enquanto manipula o tempo com conhecimento incomparável.",
+      "image": null
+    },
+    {
+      "id": "unknown-deity",
+      "name": "Divindade Desconhecida",
+      "tier": "menor",
+      "domain": "Desconhecido",
+      "symbol": null,
+      "alignment": null,
+      "tags": [],
+      "summary": "",
+      "image": "https://cdn.discordapp.com/attachments/1173065628307959869/1173080426210922546/Mystic.png?ex=69aed308&is=69ad8188&hm=846beac799a3432cb1d4005b5e66e4c23c7dc2b28622f3622c28c67963f7d0c9&"
+    },
+    {
+      "id": "lilia-rainha-das-sucubbis",
+      "name": "Lilia, Rainha das Sucubbis",
+      "tier": "outro",
+      "domain": "Ilusão, Sexo, Seca",
+      "symbol": "Triângulo cor de areia com uma palmeira com asas negras e fitas pretas",
+      "alignment": "Caótico e Malévolo",
+      "tags": [
+        "ilusão",
+        "sucubbis",
+        "deserto",
+        "outro-plano",
+        "almas-presas",
+        "sedução"
+      ],
+      "summary": "Lilia é uma entidade poderosa originária de outro plano de existência que habita nos desertos de Spira, onde mantém portais ligando o seu reino ao plano material. Através das ilusões de seus seguidores, atrai os desesperados e ingénuos, aprisionando e torturando as suas almas eternamente. Motivada pelo amor perdido por O'joo, Lilia luta desesperadamente para conseguir libertá-lo e recuperar a paz que um dia possuiu.",
+      "image": "https://cdn.discordapp.com/attachments/1173065628307959869/1173081300287103006/Lilia.png?ex=69aed3d8&is=69ad8258&hm=3c7f28d87389d79648e02e2b976f37444eb8fec2f4f6d5fbe92869acb9c1fb61&"
+    },
+    {
+      "id": "latifur",
+      "name": "Latifur",
+      "tier": "semideus",
+      "domain": "Lua, Escuridão, Ladinos, Segredos",
+      "symbol": "Lua no quarto crescente",
+      "alignment": "Caótico e Bom",
+      "tags": [
+        "lua",
+        "ladinos",
+        "segredos",
+        "proteção",
+        "roubo justificado",
+        "generosidade"
+      ],
+      "summary": "Latifur é uma deusa nascida de uma drow ladina que roubava para alimentar os pobres, elevada ao divino após um evento cataclísmico relacionado com a morte de Mystic. Protege aqueles que roubam sem malícia, tornando-se inimiga eterna de D. Franciesco de Russo. Os seus fiéis, principalmente ladinos, veneram-na através de rituais antes de seus crimes e oferecem proteção aos seguidores de Mystic e O'joo.",
+      "image": "https://cdn.discordapp.com/attachments/1173065628307959869/1173081875301011506/Latifur.png?ex=69aed461&is=69ad82e1&hm=820fe129c59d0d171075e243399fdeecc1f9f42f02f5d0bd9324be663984d156&"
+    },
+    {
+      "id": "kuncare",
+      "name": "Kuncare",
+      "tier": "maior",
+      "domain": "Redenção, Caridade, Proteção, Honestidade, Vida",
+      "symbol": "Uma galhada de veado",
+      "alignment": "Leal e Bom",
+      "tags": [
+        "cura",
+        "proteção",
+        "caridade",
+        "cleric",
+        "mártir",
+        "ascensão divina"
+      ],
+      "summary": "Kuncare é uma divindade maior que ascendeu à categoria de deus através da devoção popular e do poder da crença de seus seguidores. Originalmente uma criatura de espírito bondoso próxima a Scutum, suas capacidades curativas e protetoras tornaram-se tão essenciais que o povo o venerou enquanto Scutum se retirava para a Feywild. Seus sacerdotes são conhecidos como mártires e protetores nos campos de batalha, mantendo uma frente externa dedicada à cura sem violência, e atacá-los é considerado crime entre as nações.",
+      "image": "https://cdn.discordapp.com/attachments/1173065628307959869/1173082388872560680/Kuncare.jpg?ex=69aed4dc&is=69ad835c&hm=c4cb6c2bef39861fb58551ca862c2c2be543ce71b47c1183dc67debae09e310d&"
+    },
+    {
+      "id": "viltots-bog",
+      "name": "Viltots Bog",
+      "tier": "semideus",
+      "domain": "Sorte, Proteção, Caos",
+      "symbol": null,
+      "alignment": "Neutral",
+      "tags": [
+        "sorte",
+        "proteção",
+        "caos",
+        "heroísmo",
+        "sacrifício",
+        "guardião"
+      ],
+      "summary": "Viltots era um simples guarda de vila que, após sofrer uma tragédia devastadora quando seu lar foi atacado por goblins e bugbears, ascendeu a semidivindade através de actos de coragem e desespero. Seu culto é caracterizado pela natureza fluida e imprevisível, refletindo tanto a aleatoriedade da sorte como o poder protetor do caos. Revenerado por aqueles que enfrentam adversidades impossíveis e buscam proteção contra fados inescapáveis.",
+      "image": null
+    },
+    {
+      "id": "viltots",
+      "name": "Viltots",
+      "tier": "semideus",
+      "domain": "Os Fracos e Desprotegidos",
+      "symbol": "Machado partido",
+      "alignment": "Leal e Bom",
+      "tags": [
+        "destino",
+        "proteção",
+        "imortalidade",
+        "coincidência",
+        "herói relutante",
+        "justiça",
+        "morte",
+        "sacrifício",
+        "fado",
+        "martírio",
+        "tempestade",
+        "resignação",
+        "redenção",
+        "sorte",
+        "resistência",
+        "culto-popular",
+        "ascensão divina"
+      ],
+      "summary": "Viltots é um cavaleiro imortal que foi injustamente executado pela regência da cidade que defendera, evento que desencadeou uma rebelião e originou múltiplos cultos em sua honra. Elevado ao panteão pelo poder coletivo da crença das massas, tornou-se o deus dos fracos e desprotegidos, concedendo sorte aos seus seguidores nos seus esforços. A sua verdadeira natureza permanece misteriosa — se foi um simples homem com extraordinária resiliência ou se foi de facto abençoado pelos deuses é questão que cada crente interpreta à sua maneira.",
+      "image": "https://cdn.discordapp.com/attachments/1173065628307959869/1173083207403569262/Viltots_Bog.png?ex=69aed59f&is=69ad841f&hm=cd709793f3aabc76193d2a78f096424c6bbb6d89ffd52319d1e61720418b3292&"
+    },
+    {
+      "id": "d-franciesco-de-russo",
+      "name": "D. Franciesco de Russo",
+      "tier": "maior",
+      "domain": "Civilização e Refinamento",
+      "symbol": "Cartola",
+      "alignment": "Neutro",
+      "tags": [
+        "nobreza",
+        "luxo",
+        "soberba",
+        "refinamento",
+        "magia",
+        "deus-patrono"
+      ],
+      "summary": "D. Franciesco de Russo é o Deus da nobreza e da soberba, patrono de todos os nobres e senhor de tudo quanto é luxuoso e refinado. Seu símbolo sagrado é a cartola, usada por toda a nobreza que se preza, e diz-se que criou uma cartola mágica capaz de transformar criaturas hostis em campeões refinados e dóceis. É grande inimigo de Latifur, vendo nela uma ameaça à ordem nobiliárquica que representa.",
+      "image": "https://cdn.discordapp.com/attachments/1173065628307959869/1173083559175651438/D._Franciesco_de_Russo.jpg?ex=69aed5f3&is=69ad8473&hm=85d90645ea0d5a7ff836a1131ba80a4d0cdb386c67662b86e058130094be277c&"
+    },
+    {
+      "id": "musas-das-estacoes",
+      "name": "Musas das Estações",
+      "tier": "maior",
+      "domain": "Estações, Colheita, Tempestade",
+      "symbol": null,
+      "alignment": "Leal e Neutro",
+      "tags": [
+        "estações",
+        "colheita",
+        "tempestade",
+        "divindades-gémeas",
+        "agricultura",
+        "clima"
+      ],
+      "summary": "Um conjunto de quatro deusas menores que, quando unidas, formam um poder maior. Cada irmã governa uma estação — primavera, verão, outono e inverno — e juntas controlam o clima e a temperatura do mundo. Embora veneradas principalmente em zonas rurais por agricultores em busca de bom tempo, os seus desentendimentos causam desastres naturais devastadores como tsunamis, inundações e furacões.",
+      "image": "https://cdn.discordapp.com/attachments/1173065628307959869/1173083959916253184/Musas_das_estacoes.jpg?ex=69aed652&is=69ad84d2&hm=d1295b3b6eb23628b537a7c3f8a92bee83dcfa5094a63580935ccb3335243046&"
+    },
+    {
+      "id": "cervin",
+      "name": "Cervin",
+      "tier": "semideus",
+      "domain": "Celebrações e Liberdade",
+      "symbol": "Garrafa de vinho",
+      "alignment": "Caótico e Mau",
+      "tags": [
+        "celebração",
+        "liberdade",
+        "embriaguez",
+        "magia antiga",
+        "trickster",
+        "warlock patron"
+      ],
+      "summary": "Cervin é um semideus gnomo que ascendeu ao poder através de um acordo com uma entidade antiga e nefasta, conquistando a capacidade de amaldiçoar aldeias inteiras com danças e risos até à morte. Representa as celebrações desenfreadas e a liberdade sem limites, sendo venerado por bêbados e hedonistas que oferecem sacrifícios antes das festas para evitar a sua maldição. Seu culto revela-se na inversão da ordem social e na transformação perversa da alegria em instrumento de ruína.",
+      "image": "https://cdn.discordapp.com/attachments/1173065628307959869/1173084423726571580/Cervin.jpg?ex=69aed6c1&is=69ad8541&hm=a76384796a49c234fde8fbcbbf7c9cd018bc0d90e4f6a50145a1847222c113df&"
     }
   ]
 }
