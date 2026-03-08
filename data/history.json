@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-08T20:02:49.748Z",
+  "lastUpdated": "2026-03-08T20:17:03.732Z",
   "entries": [
     {
       "id": "terramoto-costa-talset",
@@ -12,9 +12,10 @@
         "costa",
         "evento-histórico"
       ],
-      "summary": "Evento geológico que afectou a costa de Talset, causando alterações significativas na geografia da região. O terramoto é referenciado em contexto de mudanças territoriais e impacto na paisagem.",
+      "summary": "Evento catastrófico que afectou a costa de Talset, causando alterações geográficas significativas na região. O terramoto deixou marcas duradouras na topografia e história da zona costeira.",
       "events": [
-        "Terramoto na costa de Talset causando alterações geográficas"
+        "Terramoto na costa de Talset causando alterações geográficas",
+        "Terramoto na costa de Talset"
       ],
       "image": "https://cdn.discordapp.com/attachments/1210761151890194573/1293362818539847712/Mapa_Mundi.jpg?ex=69aeb6bd&is=69ad653d&hm=da47b85ad65cc73715283bd0c349244831e063b627ab4fd683c21e2db109a8e5&"
     },
@@ -27,11 +28,17 @@
         "dragões",
         "regiões",
         "continente-gemeus",
-        "domínio-dragão"
+        "domínio-dragão",
+        "região",
+        "continentes-gemeus",
+        "poder-dracónico"
       ],
-      "summary": "Região geográfica sob o controlo do Dragão Castanho Merdarius. Localizada no continente de Gemeus, esta área representa uma zona de domínio dracónico no mapa oficial de Spira.",
-      "events": [],
-      "image": "https://cdn.discordapp.com/attachments/1210761151890194573/1345484708229681293/continentes_Gemeus_34.jpg?ex=69ae7d08&is=69ad2b88&hm=0b3a0a4d04b08c52087814e4546afa24f77298f0fd8917e7e3c7c9e78d9c4ea0&"
+      "summary": "Região geográfica sob o controlo do Dragão Castanho Merdarius. Representa um território mapeado nos Continentes Gémeos, refletindo a influência e domínio desta criatura de grande poder.",
+      "events": [
+        "Estabelecimento do domínio do Dragão Castanho Merdarius",
+        "Delimitação territorial nos Continentes Gémeos"
+      ],
+      "image": "https://cdn.discordapp.com/attachments/1210761151890194573/1345484708229681293/continentes_Gemeus_34.jpg?ex=69af25c8&is=69add448&hm=7534927054b93280e5ce231f312a82d4d2a054f8c20460b38a4cf49262f45aad&"
     },
     {
       "id": "continentes-gemeus",
@@ -41,9 +48,11 @@
         "cartografia",
         "continente",
         "geografia",
-        "mapa-oficial"
+        "mapa-oficial",
+        "continentes",
+        "geografia-mundial"
       ],
-      "summary": "Mapa oficial dos Continentes Gémeos de Spira, apresentando a divisão geográfica e territorial do mundo. Ilustração cartográfica que documenta as principais regiões e formações terrestres do cenário de campanha.",
+      "summary": "Mapa oficial que apresenta os dois continentes principais de Spira, a sua disposição geográfica e configuração territorial. Representa a estrutura geográfica contemporânea do mundo de campanha.",
       "events": [],
       "image": "https://media.discordapp.net/attachments/1174515009217376306/1420829421819920384/continentes_Gemeus_44.jpg?ex=68d6d203&is=68d58083&hm=d55a7b5dfbce040e055fb7007e953759c51de9894629affab72df45b4de2b1ef&=&format=webp&width=1280&height=960"
     },
@@ -56,9 +65,10 @@
         "titãs",
         "caos-e-magia",
         "catástrofe-mundial",
-        "mitologia"
+        "mitologia",
+        "deuses"
       ],
-      "summary": "O acontecimento mais marcante da história de Spira, onde os titãs primordiais se uniram para derrotar O'joo, o deus do Caos e da Magia. Mystic, seguidora de O'joo, pereceu defendendo seu mestre mas renasceu como deusa das artes arcanas. Apenas Buzug e Scutum sobreviveram, enquanto O'joo foi aprisionado num plano distante. O mundo devastado demorou muito tempo a recuperar-se.",
+      "summary": "O conflito mais marcante da história de Spira, onde os titãs primordiais se uniram para derrotar O'joo, o deus do Caos e da Magia. Mystic, seguidora de O'joo, pereceu mas renasceu como deusa das artes arcanas. Apenas Buzug e Scutum sobreviveram; O'joo foi aprisionado num plano distante e os restantes titãs pereceram. Seus poderes foram distribuídos entre novos deuses ou permanecem por descobrir.",
       "events": [
         "O'joo identificado como ameaça ao equilíbrio cósmico",
         "Coligação de todos os titãs primordiais contra O'joo",
@@ -67,29 +77,40 @@
         "Aprisionamento de O'joo num plano longínquo",
         "Morte da maioria dos titãs primordiais",
         "Distribuição dos poderes titânicos entre novos deuses",
-        "Reconstrução lenta do mundo devastado"
+        "Reconstrução lenta do mundo devastado",
+        "Levantamento dos titãs primordiais contra O'joo",
+        "Morte de Mystic e seu renascimento como deusa arcana",
+        "Morte dos titãs restantes",
+        "Distribuição dos poderes divinos entre novos deuses",
+        "Reconstrução e recomposição do mundo"
       ],
       "image": null
     },
     {
       "id": "contexto-atual-deuses-mundo",
       "name": "Contexto Atual dos Deuses e do Mundo",
-      "period": "Era Actual",
+      "period": "Era Atual",
       "tags": [
         "conflito-divino",
         "facções-deuses",
         "consequências-climáticas",
         "guildas-aventureiros",
-        "mundo-mortal"
+        "mundo-mortal",
+        "política-divina",
+        "conflito-deuses"
       ],
-      "summary": "O mundo vive um período de tensão entre duas facções de Deuses divididas sobre o aprisionamento de O'joo, causando consequências climáticas e instabilidade no mundo mortal. Os aventureiros, organizados em guildas como a Guilda de Aventureiros de Ernesto Garza em Talset, lidam com as repercussões destes conflitos divinos através de contratos e trabalhos.",
+      "summary": "Os Deuses encontram-se divididos em duas fações opostas quanto ao destino de O'joo, utilizando campeões mortais para resolver seus conflitos sem guerra aberta. As consequências desta divisão divina manifestam-se no mundo dos mortais através de perturbações climáticas causadas pelas musas das estações, gerando trabalho para guildas de aventureiros como a Guilda de Aventureiros de Ernesto Garza, localizada nos arredores de Talset.",
       "events": [
         "Divisão dos Deuses em duas facções rivais: Buzug, Scutum, Ramness, Kuncare e 2 musas das estações versus Mystic, Lilia, Latifur e 2 musas das estações",
         "Conflito sobre o aprisionamento ou libertação de O'joo",
         "Uso de campeões mortais como intermediários nos conflitos divinos",
         "Desentendimentos entre as musas das estações causando anomalias climáticas",
         "Fundação da Guilda de Aventureiros de Ernesto Garza nos arredores de Talset",
-        "Aumento de trabalhos e contratos para gildas de aventureiros devido às consequências do conflito"
+        "Aumento de trabalhos e contratos para gildas de aventureiros devido às consequências do conflito",
+        "Divisão dos Deuses em duas fações rivais",
+        "Conflito entre Buzug, Scutum, Ramness, Kuncare e Mystic, Lilia, Latifur",
+        "Fundação da Guilda de Aventureiros de Ernesto Garza em Talset",
+        "Aumento de trabalhos para guildas devido às consequências do conflito divino"
       ],
       "image": null
     }
