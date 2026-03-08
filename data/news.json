@@ -1,13 +1,1367 @@
 {
-  "lastUpdated": "2026-03-08T00:00:00Z",
+  "lastUpdated": "2026-03-08T20:02:50.402Z",
   "entries": [
     {
-      "id": "noticia-wiki-criada",
-      "name": "A Spira Wiki foi criada!",
-      "date": "2026-03-08",
-      "tags": ["anúncio"],
-      "summary": "A wiki de Spira foi criada para registar o lore, a história e as crónicas do nosso mundo de campanha.",
-      "content": "A Spira Wiki nasce para ser o registo vivo da nossa campanha. Aqui encontrarás heróis, inimigos, localizações, panteão e muito mais — tudo actualizado à medida que a história avança.",
+      "id": "fofocas-supremo-brenn-mortes-misteriosas",
+      "name": "Fofocas ao Minuto: Supremo Brenn em Alerta",
+      "date": null,
+      "tags": [
+        "política",
+        "intriga",
+        "morte",
+        "segurança",
+        "rumores"
+      ],
+      "summary": "Rumores apontam que o Supremo Brenn teme pela sua posição e reforçou a segurança pessoal com os Capuchinhos Azuis Elite, mercenários de elite. Sucessivas mortes misteriosas de críticos e adversários têm ocorrido na praça principal, com vítimas a sofrer explosões inexplicáveis na cabeça.",
+      "content": "Correm boatos nos círculos da fofoca que o Supremo Brenn anda inquieto com a sua liderança. Tendo em conta a sua preocupação, reforçou drasticamente a sua segurança pessoal com os Capuchinhos Azuis Elite, mercenários altamente qualificados e de custo considerável.\n\nNo entanto, enquanto o Supremo investe em protecção, sucessivas mortes de críticos, adversários e manifestantes têm assolado a população. Os testemunhos são perturbadores: as vítimas encontravam-se simplesmente a cumprir as suas vidas normais na praça principal quando, após um pequeno estrondo, as suas cabeças simplesmente explodem.\n\nO Supremo Brenn proclama que uma investigação está em curso, mas poucos acreditam na sua sinceridade, especialmente tendo em conta que a execução pública de Lady Mirinella não foi adiada nem suspensa. As suspeitas levantam-se: será o próprio Brenn responsável por estas mortes misteriosas? Ou algo mais sinistro ocorre nas sombras do poder?",
+      "image": null
+    },
+    {
+      "id": "suplemento-global-spira-ao-rubro",
+      "name": "Suplemento Global: Spira ao Rubro",
+      "date": null,
+      "tags": [
+        "desaparecimentos",
+        "crime",
+        "governo",
+        "Novasura",
+        "investigação"
+      ],
+      "summary": "Várias notícias agitam Spira: desaparecimentos em Cartacho, um crime brutal em Falahar, e a ascensão do novo governo de Novasura sob o comando do Lord Kain e da Lady Erufu, já marcado pela tragédia de um navio que naufragou.",
+      "content": "Spira encontra-se ao rubro com diversos acontecimentos preocupantes espalhados por todo o território.\n\nNos arredores de Trand intensificaram-se os desaparecimentos em aldeias rurais. Cartacho é particularmente afectada, com vários moradores desaparecidos. As autoridades locais prosseguem com as investigações, embora se estime que o processo demore considerável tempo, dado o grande investimento militar em curso devido às tensões entre Trand e Merinfor, bem como investigações já em marcha na própria cidade de Trand.\n\nO crime não cessa. Na aldeia de Falahar, um produtor de álcool foi encontrado esventrado. Ashton enviou autoridades para investigar o caso, mas até ao momento não existem informações fiáveis sobre as motivações do crime ou sobre qualquer suspeito.\n\nEm notícia mais política, Asura finalizou a incorporação da aldeia em formação nos seus arredores. Novasura agora é liderada pelo Lord Kain, enquanto a sua esposa Erufu assume a responsabilidade pela logística governamental. O casal fez a sua primeira aparição pública oficial lamentando profundamente o naufrágio de três navios de turistas que se dirigiam de Novasura para Yas'Afur. Não é fácil este início de governo.",
+      "image": null
+    },
+    {
+      "id": "queda-do-supremo-brenn-e-libertacao-de-merinfor",
+      "name": "Queda do Supremo Brenn: Merinfor Libertado sob Comando de Lady Mirinella",
+      "date": null,
+      "tags": [
+        "política",
+        "merinfor",
+        "doppleganger",
+        "aventureiros",
+        "kobolds"
+      ],
+      "summary": "O Supremo Brenn de Merinfor foi descoberto ser um Doppleganger, tendo sido encontradas as cabeças conservadas em sal do verdadeiro Lord Brenn, sua esposa e de um Kobold desconhecido em sua residência. Lady Mirinella assume o comando de Merinfor após a libertação da cidade, com apoio da guilda de aventureiros de Ernesto Garza e do Rei Ukka dos Kobolds.",
+      "content": "Merinfor celebra a queda do Supremo Brenn, que foi comprovado ser um Doppleganger que usurpou o poder na região. A descoberta chocante incluiu a localização de três caixas contendo as cabeças dos verdadeiros Lord Brenn, de sua esposa e de um Kobold escuro desconhecido, preservadas em sal. Suspeita-se que estas relíquias eram utilizadas para reforçar a memória de disfarce do impostor.\n\nA libertação de Merinfor custou vidas ilustres. Os Lords Kheg e Jorah, entre os mais notáveis da região, sacrificaram-se pela causa de Lady Mirinella e pela liberdade de Merinfor. Seus nomes ficarão perpetuados nos anais locais, e o novo Governo de Merinfor comprometeu-se a compensar as famílias dos heróis caídos.\n\nBoatos circulam sobre o envolvimento decisivo da guilda de aventureiros liderada por Ernesto Garza e do Rei Ukka, um monarca regional Kobold, na libertação da cidade. O novo Governo de Merinfor deverá recompensar estes aliados pelos seus actos heróicos.\n\nA população festeja nas ruas e aguarda a apresentação formal de Lady Mirinella como nova Governadora de Merinfor, esperando que as leis anteriores sejam revertidas e uma nova era tenha início.",
+      "image": null
+    },
+    {
+      "id": "assassinato-lady-mirinella-merinfor",
+      "name": "Lady Mirinella Assassinada — Sniper Mercenário Procurado",
+      "date": null,
+      "tags": [
+        "assassinato",
+        "política",
+        "Merinfor",
+        "mercenário",
+        "conspiração"
+      ],
+      "summary": "Lady Mirinella foi assassinada no dia da sua apresentação como nova governadora de Merinfor, vítima de um disparo que resultou na explosão da sua cabeça. As autoridades acreditam que o responsável é Vassil, um anão sniper mercenário de elite contratado pelo Supremo Brenn, cujo nome consta numa lista de alvos intitulada \"Em caso de falha\".",
+      "content": "Num dia de grande tragédia para Merinfor, Lady Mirinella foi assassinada quando se apresentava como nova governadora. O cenário da morte foi horroroso, com a sua cabeça a explodir, semelhante ao destino de outras vítimas anteriores.\n\nAs autoridades descobriram que o responsável pelos assassinatos em série — que visavam adversários, críticos e revoltos contra o Supremo Brenn — era um anão sniper de elite e mercenário contratado pelo próprio Brenn. O suspeito é Vassil, um mercenário terrível conhecido por sua determinação em completar todos os seus contratos, independentemente das circunstâncias.\n\nFoi descoberto um contrato detalhado que incluía uma lista denominada \"Em caso de falha\", na qual constam os nomes de vários lordes. O nome de Lady Mirinella estava riscado nessa lista, indicando que Vassil teria completado essa parte do trabalho.\n\nO Governo interino anunciou uma enorme recompensa pela captura de Vassil, que segundo as autoridades ainda não terá abandonado a cidade. A bandeira de Merinfor foi hasteada a meia haste em sinal de luto até à escolha de um novo governante.\n\nEstes acontecimentos marcam um período sangrento na história de Merinfor, embora alguns vejam nesta revolução um avanço para a democracia.",
+      "image": null
+    },
+    {
+      "id": "capuchinhos-azuis-desfeitos",
+      "name": "Bando dos Capuchinhos Azuis é desfeito",
+      "date": null,
+      "tags": [
+        "crime",
+        "anões",
+        "prisão",
+        "paz social",
+        "Merinfor"
+      ],
+      "summary": "Sem liderança, o bando dos Capuchinhos Azuis foi completamente desmantelado, com os principais cabecilhas presos e membros a regressarem às suas famílias. A notícia traz sinais de maior harmonia entre as diferentes raças em Merinfor.",
+      "content": "As fofoquices chegam quentes do Reino! Sem liderança, o bando de Capuchinhos Azuis foi desfeito por completo. Os principais cabecilhas encontram-se agora presos, enquanto muitos dos membros menores—especialmente anões—voltam para os braços das suas famílias. Este acontecimento marca um ponto de viragem na cidade de Merinfor, onde o racismo diminuiu consideravelmente e parece existir agora mais união entre anões e raças diferentes. A cidade abre-se para novos tempos: \"Merinfor está aberta, todos cabem que até aperta!\"",
+      "image": null
+    },
+    {
+      "id": "governo-interino-reverte-leis-de-supremo-brenn",
+      "name": "Governo Interino Reverte Leis de Supremo Brenn",
+      "date": null,
+      "tags": [
+        "política",
+        "Merinfor",
+        "reformas legais",
+        "governo interino",
+        "estabilidade"
+      ],
+      "summary": "O Governo interino de Merinfor reverteu todas as leis do Supremo Brenn, extinguiu o título de Supremo e aprovou novas leis de reforma social. Uma recompensa de até 100 peças de platina foi lançada pela captura de Vassil.",
+      "content": "Segundo o Jornal Regional de Merinfor, o Governo interino efectuou uma série de mudanças legislativas significativas. Foram revertidas todas as leis do anterior Supremo Brenn, incluindo o polémico Decreto-lei 6732 que autorizava que todos os anões tivessem direito a armas. O título de Supremo foi completamente extinto, passando todos os Lordes e Ladies a serem tratados em igualdade.\n\nO Governo interino aprovou ainda várias leis baseadas no trabalho de Lady Mirinella, designadamente a Lei de Mirinella (atribuição de terrenos da região para comunidades externas), a Lei de Kheg (punições severas para atitudes racistas) e a Lei de Jorah (reforço da segurança nas aldeias da região de Merinfor).\n\nAdicionalmente, o Governo interino de Merinfor lançou uma recompensa pela captura de Vassil: 100 peças de platina se entregue vivo, ou 80 peças de platina se morto.\n\nO novo ou nova Governante será anunciado nas próximas semanas. A população de Merinfor vive actualmente um período de alguma instabilidade e medo, mas também de esperança face às mudanças em curso.",
+      "image": null
+    },
+    {
+      "id": "lorde-potter-eleito-governador-de-merinfor",
+      "name": "Lorde Potter eleito governador de Merinfor",
+      "date": null,
+      "tags": [
+        "política",
+        "Merinfor",
+        "anões",
+        "governança",
+        "sucessão"
+      ],
+      "summary": "Lorde Potter, filho do falecido herói Lorde Jorah, foi eleito governador de Merinfor, tornando-se o anão mais jovem a ocupar este cargo com apenas 38 anos. A eleição é celebrada com esperança e confiança pela população de Merinfor.",
+      "content": "O Jornal de Merinfor anuncia com alegria a eleição de Lorde Potter para o cargo de governador de Merinfor. Potter é filho do lendário Lorde Jorah, que se sacrificou heroicamente para salvar Lady Mirinella da prisão, deixando um legado de coragem e honra.\n\nCom apenas 38 anos de idade, Lorde Potter estabelece um novo recorde ao ser o anão mais jovem de sempre a governar Merinfor. A população recebe a notícia com esperança renovada, confiando que a juventude e o carácter do novo governador guiarão Merinfor para um futuro próspero.\n\nA celebração da vitória é acompanhada pelo lema que resume o sentimento coletivo: \"Não importa a idade, importa a bondade!\" — reflexo da fé depositada em Potter para liderar com sabedoria e compaixão.",
+      "image": "https://cdn.discordapp.com/attachments/1222163134568202300/1281904914733469757/65ab32b5-3cee-1.webp?ex=69ae8efc&is=69ad3d7c&hm=c1df0a78a40118f26ff8c475b9a941644430e2da7902cf5e45abbbe8a8f30116&"
+    },
+    {
+      "id": "emboscadas-contra-orcs-e-gnolls",
+      "name": "Merinfor Intensifica Emboscadas contra Orcs e Gnolls",
+      "date": null,
+      "tags": [
+        "conflito",
+        "emboscada",
+        "Merinfor",
+        "tácticas militares",
+        "monstros"
+      ],
+      "summary": "Correm rumores de que os Super Orcs e Gnolls têm sofrido emboscadas coordenadas de esquadrões de anões e kobolds, possivelmente liderados por uma Minotaura. Merinfor parece ter encontrado a estratégia correcta para combater esta ameaça.",
+      "content": "Fofoquices ao minuto: Correm rumores que os Super Orcs e Gnolls têm sido emboscados por esquadrões de anões e kobolds. Em alguns casos, alega-se ter visto uma Minotaura a liderar as emboscadas. Merinfor parece ter finalmente encontrado a tácctica certa para lidar com a ameaça que representa a presença destes monstros. Como diz o ditado popular que circula pelas ruas: \"Se força bruta não funciona, usa mas é a tua cabeçona.\"",
+      "image": null
+    },
+    {
+      "id": "assassinio-de-nobre-em-trand",
+      "name": "Nobre Assassinado em Trand — Recompensa de 120 Peças de Platina",
+      "date": null,
+      "tags": [
+        "assassinato",
+        "mercenário",
+        "crime",
+        "recompensa",
+        "conflito-urbano"
+      ],
+      "summary": "Um notável nobre foi assassinado em Trand de forma brutal, com a cabeça a explodir em plena rua. As cidades de Merinfor e Trand uniram-se na oferta de uma recompensa de 120 peças de platina pela captura do mercenário suspeito de estar por trás do crime.",
+      "content": "Segundo o Correio da Noite de Trand, um notável nobre foi vítima de um assassinato espectacular em plena luz do dia, no meio da rua, quando a sua cabeça explodiu de forma inexplicável. Os relatos apontam para um mercenário que operava em Merinfor como o principal suspeito, sendo conhecido por manter contratos em Trand, onde o crime tem aumentado consideravelmente.\n\nDespite as tensões históricas entre as duas cidades, Merinfor e Trand decidiram unir-se numa ação conjunta, estabelecendo uma recompensa de 120 peças de platina pela captura do assassino. Esta oferta representa um esforço coordenado para pôr fim à onda de criminalidade que aterroriza as ruas de Trand.",
+      "image": null
+    },
+    {
+      "id": "governo-merinfor-agradece-operacao-conjunta",
+      "name": "Governo de Merinfor Agradece Operação Conjunta",
+      "date": null,
+      "tags": [
+        "política",
+        "Merinfor",
+        "Aldeia Asura",
+        "Guilda Ernesto Garza",
+        "liberdade"
+      ],
+      "summary": "O Governo de Merinfor emitiu uma nota oficial de agradecimento à Aldeia Asura e à Guilda de Aventureiros Ernesto Garza pela operação conjunta que resultou na reposição de um regime livre em Merinfor.",
+      "content": "De acordo com comunicados oficiais do Governo de Merinfor, foi emitida uma nota de agradecimento dirigida à Aldeia Asura e à Guilda de Aventureiros Ernesto Garza. Estas duas entidades conduziram uma operação conjunta que resultou com êxito na reposição de um regime livre no território de Merinfor. O comunicado expressa a gratidão do governo pelas ações tomadas por estes aliados na restauração da liberdade política da região.",
+      "image": null
+    },
+    {
+      "id": "outra-morte-em-trand",
+      "name": "Morte Misteriosa de Mercador em Trand",
+      "date": null,
+      "tags": [
+        "crime",
+        "morte",
+        "mercador",
+        "Trand",
+        "mistério"
+      ],
+      "summary": "Um mercador que praticava preços mais baixos que a concorrência foi encontrado morto em circunstâncias misteriosas em Trand. As buscas pelo suspeito Vassil continuam dificultadas pelas condições meteorológicas adversas.",
+      "content": "Segundo o Correio da Noite de Trand, mais um cadáver foi descoberto na cidade, desta vez a vítima é um mercador que se distinguia por oferecer preços significativamente mais baixos do que os seus concorrentes. As autoridades locais mantêm buscas activas pelo suspeito Vassil, mas os esforços de investigação encontram-se prejudicados pela tempestade que assola a região. A situação permanece tensa, e advertências circulam entre os habitantes, lembrando os perigos de sair à noite.",
+      "image": null
+    },
+    {
+      "id": "navio-monstro-devasta-frota-yas-afur",
+      "name": "Navio Monstro Devasta Pequena Frota Militar de Yas'Afur",
+      "date": null,
+      "tags": [
+        "conflito naval",
+        "monstros",
+        "Yas'Afur",
+        "militar",
+        "desastre"
+      ],
+      "summary": "Uma criatura marinha de proporções colossal atacou e destruiu uma pequena frota militar de Yas'Afur, causando perdas significativas. O incidente levanta questões sobre a segurança das rotas comerciais e militares em Spira.",
+      "content": "Segundo informações que circulam nos jornais de Spira, um navio monstro de dimensões descomunais atacou uma pequena frota militar de Yas'Afur, consumindo-a completamente. O incidente representa uma ameaça considerável aos navios que navegam nas águas territoriais da região e ressalta a presença de criaturas marinhas perigosas que desafiam o controlo militar convencional.",
+      "image": null
+    },
+    {
+      "id": "governador-yas-afur-tartaruga-gigante",
+      "name": "Governador de Yas'Afur Mobiliza Força Militar Contra Tartaruga Gigante",
+      "date": null,
+      "tags": [
+        "ameaça marítima",
+        "tartaruga gigante",
+        "comércio",
+        "militar",
+        "Yas'Afur"
+      ],
+      "summary": "O governador de Yas'Afur está a preparar uma operação militar para combater uma tartaruga gigante que tem destruído navios mercantes nas águas da região. O primeiro objectivo da força mobilizada será eliminar este monstro marinho que representa uma séria ameaça ao comércio local.",
+      "content": "De acordo com o Correio da Manhã de Yas'Afur, o governador da região iniciou preparativos para uma operação militar em resposta ao aumento de perigos marítimos que assolam as costas locais. Segundo relatos, o primeiro objectivo desta força militar será eliminar uma tartaruga gigante responsável pela destruição de vários barcos que transportam mercadorias preciosas. A população aguarda mais informações sobre o desenrolar desta operação estratégica.",
+      "image": null
+    },
+    {
+      "id": "recompensa-vassil-rebenta-cabecas",
+      "name": "Recompensa por Vassil atinge máximos históricos em Trand",
+      "date": null,
+      "tags": [
+        "recompensa",
+        "mercenários",
+        "Trand",
+        "caçadores de recompensas",
+        "conflito"
+      ],
+      "summary": "A recompensa pelo captura do mercenário Vassil, conhecido como \"O rebenta cabeças\", atingiu um máximo histórico de 150 peças de ouro. Os nobres de Trand aumentaram significativamente o montante, atraindo a atenção de caçadores de recompensas e veteranos.",
+      "content": "De acordo com o Correio da Noite de Trand, a recompensa pelo mercenário Vassil, apelidado \"O rebenta cabeças\", atingiu máximos históricos ao chegar aos 150 peças de ouro para quem o trazer morto. Os nobres da cidade decidiram contribuir conjuntamente para o montante total da recompensa, com indicações de que este valor poderá aumentar ainda mais nos próximos dias.\n\nA recompensa elevada já está a atrair atenção considerável de caçadores de recompensas, mercenários e veteranos pelo continente, que começam a ponderar se vale a pena correr o risco de procurar e enfrentar um alvo tão perigoso. Contudo, com uma recompensa tão substancial, espera-se que a competição seja feroz e que múltiplas cabeças rolem na luta pela captura de Vassil.",
+      "image": null
+    },
+    {
+      "id": "mortes-pirâmide-sanguinária-tural",
+      "name": "Trinta e Quatro Aventureiros Morrem na Pirâmide Sanguinária",
+      "date": null,
+      "tags": [
+        "pirâmide",
+        "tural",
+        "morte",
+        "exploração",
+        "magia negra"
+      ],
+      "summary": "Mais 34 aventureiros perderam a vida durante explorações na Pirâmide Sanguinária, localizada na região de Tural. Boatos alarmistas espalham-se pela região sobre uma entidade maléfica que habita o local.",
+      "content": "A Pirâmide Sanguinária, situada na região de Tural, continua a ceifar vidas entre os aventureiros que se arriscam a explorar as suas profundezas. Regista-se agora um total de 34 mortes em recentes expedições, levando a população local a especular sobre a natureza do perigo que ali espreita. Suspeita-se de que uma força verdadeiramente maléfica reside na pirâmide, alimentando as histórias assustadoras que se propagam por toda a região. Entre os boatos mais bizarros que circulam, conta-se o de um demónio que teria o hábito macabro de devorar os traseiros dos aventureiros desafortunados. Estas narrativas, ainda que grotescas, refletem o medo generalizado que a pirâmide inspira.",
+      "image": null
+    },
+    {
+      "id": "chuva-de-bolas-de-fogo-em-spira",
+      "name": "Chuva de Bolas de Fogo Assola Spira — Especulações e Caos Aumentam",
+      "date": null,
+      "tags": [
+        "catástrofe",
+        "fenómeno sobrenatural",
+        "culto",
+        "investigação",
+        "apocalipse"
+      ],
+      "summary": "Uma intensa chuva de bolas de fogo tem assolado a região de Spira, causando destruição generalizada e levantando questões sobre a sua origem. O fenómeno atraiu a atenção de aventureiros, um culto dedicado a O'joo e diversos grupos que especulam entre explicações divinas, mágicas ou naturais.",
+      "content": "Após a intensa chuva de bolas de fogo que atingiu a região, começam as especulações desenfreadas à volta deste fenómeno devastador. Os crentes afirmam que se trata da fúria dos Deuses manifestada contra o mundo dos mortais. Os mais medrosos murmuram que um feiticeiro de poder incomensurável terá desencadeado tal calamidade. Já os loucos — ou talvez os mais sábios — sugerem que se trataria de rochas que penetram a atmosfera de Spira e, ao friccionarem o ar a grande velocidade, aquecem-se intensamente, tornando-se brilhantes como bolas de fogo.\n\nIndependentemente da verdadeira origem, os efeitos sentir-se-ão por toda a região. Registam-se casos de casas destruídas e mortes causadas pelo impacto directo das bolas de fogo. Crateras isoladas aparecem um pouco por todo o lado, atraindo aventureiros e mercenários que investigam os locais e disputam o acesso aos mesmos. Particularmente preocupante é o comportamento do culto dedicado a O'joo, que começou a espalhar caos pela região, levando a cabo rituais obscuros, sacrifícios e orgias demoníacas.\n\nAs questões sobre se o fim do mundo está realmente a aproximar-se ganham cada vez mais adeptos, alimentando um clima de tensão e medo generalizado.",
+      "image": null
+    },
+    {
+      "id": "alambiques-e-cama-campanha-publicitaria",
+      "name": "Alambiques e Cama Conquista Clientela com Campanha Publicitária Inovadora",
+      "date": null,
+      "tags": [
+        "taberna",
+        "Ashton",
+        "publicidade",
+        "gastronomia",
+        "entretenimento"
+      ],
+      "summary": "A taberna Alambiques e Cama em Ashton, que enfrentava dificuldades após um incidente anterior, conseguiu revitalizar o negócio através de uma estratégia publicitária criativa. O proprietário Boris Oakmantle contratou um Bardo e uma equipa de publicidade para oferecer a primeira rodada aos clientes, atraindo multidões e gerando grande sucesso.",
+      "content": "A taberna Alambiques e Cama, localizada em Ashton, tem sido conhecida pelas suas dificuldades recentes. Desde um infeliz incidente ocorrido há alguns meses, o estabelecimento enfrentava sérias dificuldades em manter-se competitivo no mercado gastronómico, tendo mudado de proprietário várias vezes nesse período.\n\nContudo, há poucos dias, o mais recente taverneiro e proprietário, Boris Oakmantle, executou um golpe de génio publicitário. Contratou um Bardo e uma equipa de publicidade para oferecer a primeira rodada de bebidas gratuitamente aos primeiros clientes a entrarem no estabelecimento. A estratégia funcionou magnificamente: pessoas que se sentiam reticentes sobre o passado recente do local, mas atraídas pela promessa de álcool gratuito, começaram a afluir à taverna. Muitos ficaram para assistir à performance do Bardo e participar nas conversas animadas sobre as fofocas mais recentes, aproveitando também o álcool de qualidade razoável que o Alambiques oferece.\n\nO êxito foi tão notável que Boris Oakmantle planeia repetir esta ação publicitária todas as semanas em dias alternados, de forma a manter e expandir a clientela.",
+      "image": null
+    },
+    {
+      "id": "estatua-em-fogo-lupu-ashton",
+      "name": "Estátua em Chamas Avistada nas Estradas de Lupu e Ashton",
+      "date": null,
+      "tags": [
+        "fenómeno sobrenatural",
+        "alucinação colectiva",
+        "Lupu",
+        "Ashton",
+        "investigação"
+      ],
+      "summary": "Há cerca de uma semana, após uma chuva de bolas de fogo, foi avistada uma estátua em chamas a andar pelas estradas das regiões de Lupu e Ashton, acompanhada por um bando de fanáticos. Médicos locais atribuem o fenómeno a uma possível alucinação colectiva.",
+      "content": "Segundo relatos recentes do jornalista Strider X, há cerca de uma semana, na sequência de uma fantástica chuva de bolas de fogo que castigou a região, foi vista uma estátua em fogo a caminhar pelas estradas de Lupu e Ashton. O fenómeno estaria acompanhado por um bando de fanáticos que seguiam a misteriosa criatura. Os médicos e profissionais de saúde da região, perplexos com os múltiplos relatos, concluem que se trata de uma alucinação colectiva. O incidente permanece sob investigação, e as autoridades locais aconselham precaução aos viajantes que frequentam estas vias.",
+      "image": null
+    },
+    {
+      "id": "norton-na-beira-do-colapso",
+      "name": "Norton na Beira do Colapso — Princesa Herdeira Desaparecida",
+      "date": null,
+      "tags": [
+        "desaparecimento",
+        "Norton",
+        "governo",
+        "recompensa",
+        "expedição militar"
+      ],
+      "summary": "A princesa herdeira de Norton desapareceu durante uma expedição militar no Este de Spira, com suspeitas de encontro com algo desconhecido ou ataque de meteorito. O governo de Norton oferece recompensa por informações sobre o seu paradeiro.",
+      "content": "Mais um escândalo abala o leste de Spira. A princesa herdeira de Norton, membro importante do governo da região, desapareceu durante uma das suas expedições militares. As circunstâncias do desaparecimento permanecem obscuras, com suspeitas de que o esquadrão tenha encontrado algo que não deveria ter sido descoberto, ou que um meteorite tenha erradicado completamente a força sob seu comando. Até ao momento, não foram encontrados quaisquer rastros da princesa ou de sua comitiva.\n\nO governo de Norton confirmou oficialmente apenas que a princesa se encontra desaparecida e que esforços significativos estão em curso para localizá-la. Dada a gravidade da situação, foi lançada uma recompensa substancial por qualquer informação pertinente que conduza à sua localização. Apela-se ao povo de Spira para que mantenha atenção e vigilância, informando as autoridades de Norton sobre qualquer dado relevante.\n\nA organização StriderX anunciou o seu envolvimento na busca pela princesa, prometendo empenho extraordinário nas operações de recuperação.",
+      "image": null
+    },
+    {
+      "id": "trand-a-crescer",
+      "name": "Trand a Crescer com Novas Máquinas Policiais",
+      "date": null,
+      "tags": [
+        "polícia",
+        "tecnologia",
+        "crime",
+        "segurança urbana",
+        "controvérsia"
+      ],
+      "summary": "A polícia de Trand investiu na criação de máquinas automáticas para patrulhar as ruas e prevenir crimes de forma não violenta. A população mostra-se dividida quanto à implementação desta tecnologia.",
+      "content": "Perante os recentes ataques e mortes ocorridos em Trand, a polícia local iniciou um ambicioso projeto de investimento na criação de novas máquinas destinadas a auxiliar as forças de segurança de forma não violenta. Segundo o chefe da polícia, quando estas máquinas estiverem prontas para entrar em serviço, serão posicionadas em diversos pontos estratégicos da cidade e funcionarão de forma completamente automática. Não necessitando de descanso ou sono, estas máquinas patrulharão as ruas continuamente na tentativa de impedir crimes antes que estes aconteçam.\n\nNo entanto, a população de Trand encontra-se dividida quanto a esta iniciativa. Muitos cidadãos exprimem desconforto com a ideia de robôs policiais sem sentimentos ou pensamentos autónomos a vigiarem as ruas da cidade. Esta nova tecnologia tornou-se um tópico de grande controvérsia no seio da comunidade.\n\nSó o tempo dirá se estas máquinas se revelarão um sucesso na luta contra assassinatos e roubos, ou se apenas contribuirão para aumentar ainda mais o caos na cidade. Conforme reporta o Strider X, todos estes acontecimentos continuam a ser monitorizados de perto.",
+      "image": null
+    },
+    {
+      "id": "espies-guerrilhas-vassil",
+      "name": "Espiões & Guerrilhas",
+      "date": null,
+      "tags": [
+        "crime organizado",
+        "sabotagem",
+        "Vassil",
+        "Trand",
+        "explosivos"
+      ],
+      "summary": "O infame mercenário Vassil foi contratado pelo crime organizado para sabotar a produção de máquinas da polícia de Trand com explosivos. Apesar da tentativa, a fábrica continua em operação, mas dez guardas perderam a vida.",
+      "content": "As mais recentes novidades sobre as novas máquinas da polícia de Trand não caíram bem na comunidade do crime organizado. A prova disso é que o infame mercenário Vassil foi alegadamente contratado e usou explosivos numa tentativa de parar a produção da fábrica destas máquinas. Felizmente a explosão não fez estragos suficientes para parar a produção, mas dez guardas da fábrica foram encontrados com a cabeça rebentada. O incidente demonstra a crescente tensão entre o crime organizado e as autoridades de Trand, sugerindo que a produção de máquinas deverá ser intensificada como medida de segurança.",
+      "image": null
+    },
+    {
+      "id": "grande-espetaculo-de-yasafur-interrompido-por-ataque-terrorista",
+      "name": "Grande espetáculo de Yas'afur interrompido por ataque terrorista",
+      "date": null,
+      "tags": [
+        "espetáculo",
+        "terrorismo",
+        "bardos",
+        "Yas'afur",
+        "violência"
+      ],
+      "summary": "O espetáculo de Yas'afur foi interrompido por um ataque do bardo caído em desgraça Surdinos, que tentou atacar os juízes do evento. O rei das festas Almiro morreu dos ferimentos infligidos pelo atacante.",
+      "content": "O esperado espetáculo de Yas'afur foi abalado por um ataque terrorista perpetrado pelo bardo caído em desgraça Surdinos, que procurava vingança. Apesar das garantias das autoridades locais de que tal não sucederia, praticamente todos os grandes bardos do continente recusaram comparecer, temendo os rumores de um potencial ataque.\n\nEsta ausência resultou num evento dominado por bardos amadores e inscritos de última hora, que foram alvo de ridicularização do público. Porém, os bardos da Guilda de Ernesto Garza compensaram esta lacuna, oferecendo o espetáculo que o público esperava e recebendo grandes aclamações.\n\nO grande Chakalaka sagrou-se vencedor da noite, dividindo o primeiro lugar com Jane Hatefield num resultado inédito. Duque Alf de Argat e Sorgvar completaram o pódio em segundo e terceiro lugares, respectivamente.\n\nNo encerramento do evento, Surdinos concretizou os temores ao atacar e tentar perfurar os ouvidos dos juízes. Embora os bardos de Ernesto Garza tivessem conseguido evitar danos maiores, o rei das festas Almiro foi atacado e sucumbiu aos ferimentos infligidos pelo agressor.\n\nEm comunicado à imprensa, a organização afirmou que possuía informações fidedignas indicando que Surdinos não compareceria, pois não tinha tido conhecimento do evento.",
+      "image": null
+    },
+    {
+      "id": "vassil-morto-aventureiros-guilda-ernesto-garza",
+      "name": "Vassil é Capturado e Morto por Aventureiros de Ernesto Garza",
+      "date": null,
+      "tags": [
+        "aventureiros",
+        "guilda",
+        "recompensa",
+        "Trand",
+        "crime"
+      ],
+      "summary": "Aventureiros da guilda de Ernesto Garza conseguem capturar e matar Vassil, recebendo uma generosa recompensa. A guilda começa a ganhar notoriedade na região.",
+      "content": "Os aventureiros da guilda liderada por Ernesto Garza conseguiram um feito notável ao capturarem e eliminarem Vassil, um criminoso procurado. A recompensa generosa oferecida pela sua morte marca um passo significativo no reconhecimento e reputação da guilda na região de Trand.\n\nEm notícias relacionadas com a localidade, cinco corpos desfigurados foram encontrados na praia a oeste de Trand. Um desses corpos apresentava a peculiaridade de lhe faltarem três dedos numa mão, sugerindo que a vítima poderia ter sido carpinteiro. As autoridades procuram familiares destas vítimas para identificação e esclarecimento das circunstâncias das mortes.\n\nO General Difur faleceu subitamente num jardim de Trand, vítima de um ataque cardíaco. Rumores de má língua sugerem que o general se encontrava no jardim na companhia de amantes no momento da sua morte. O funeral será realizado no dia seguinte.\n\nAcresce ainda a preocupação crescente com o desaparecimento de humanoides de espécies não humanas, nomeadamente anões e elfos, na região. Suspeita-se fortemente da existência de uma rede de tráfico de humanoides operando em Trand e arredores.",
+      "image": null
+    },
+    {
+      "id": "lupu-fica-ainda-mais-merdosa",
+      "name": "Lupu fica ainda mais Merdosa",
+      "date": null,
+      "tags": [
+        "dragão",
+        "ocupação",
+        "Lupu",
+        "calamidade",
+        "refugiados"
+      ],
+      "summary": "A cidade de Lupu foi capturada pelo dragão castanho Merdarius, que saqueou os bens dos residentes e encheu a cidade com um odor insuportável. Muitos refugiados fugiram para zonas envolventes, enquanto soldados de armadura castanha impõem ordem na cidade ocupada.",
+      "content": "A já fria, feia e desinteressante cidade de Lupu tornou-se ainda mais miserável após ser capturada e \"adornada\" pelo dragão castanho chamado Merdarius. Os residentes foram obrigados a entregar todos os seus pertences — que já não eram muitos, dado que a zona era pobre — para enriquecer a horda do dragão.\n\nVários refugiados partiram para zonas envolventes, ficando apenas os mais resolutos e aqueles que perderam a capacidade de olfacto. Em entrevista a um dos refugiados, este afirmou que o cheiro era insuportável e indescritível. Este repórter pode confirmar a veracidade dessa declaração, dado que o entrevistado emanava um odor tão intenso que causou repugnância extrema.\n\nOutro refugiado contou que ainda tentou ficar e entregar as suas posses a Merdarius, mas viu tudo ser destruído e atirado para um monte de pertences completamente danificados. Também observou soldados de armadura castanha a impor ordem na cidade. No entanto, não conseguiu suportar a situação e acabou por fugir.\n\nPor mais difícil que seja a situação, StriderX informa.",
+      "image": null
+    },
+    {
+      "id": "queda-de-estrelas-talset",
+      "name": "Queda de Estrelas Causa Grandes Danos a Talset",
+      "date": null,
+      "tags": [
+        "desastre celestial",
+        "criaturas estranhas",
+        "Talset",
+        "aventureiros",
+        "reconstrução"
+      ],
+      "summary": "Uma enorme quantidade de criaturas estranhas caiu do céu sobre Talset, causando devastação generalizada. Aventureiros de várias guildas conseguiram eliminar as criaturas e magos regionais trabalham agora para cobrir as crateras deixadas pelo impacto.",
+      "content": "Há uns dias atrás, uma enorme quantidade de criaturas estranhas caiu do céu por cima de Talset, causando grandes danos à região. Graças aos esforços coordenados de aventureiros de várias guildas locais, as criaturas foram eliminadas com sucesso, evitando assim danos ainda maiores à população e infraestruturas.\n\nAs crateras gigantes deixadas pelo impacto das criaturas estão de momento a serem cobertas com a ajuda de magos da região, numa operação de reconstrução que se estende há vários dias. Embora as autoridades locais continuem a investigar exactamente o que provocou este evento catastrófico, foi relatado que desde este incidente a queda de meteoritos diminuiu drásticamente, sugerindo que o pior possa ter passado.\n\nApesar da gravidade da situação, a StriderX, empresa de comércio regional, garante que permanecerá operacional e não enfrentará dificuldades financeiras desta crise.",
+      "image": null
+    },
+    {
+      "id": "cusquices-de-talset",
+      "name": "Cusquices de Talset",
+      "date": null,
+      "tags": [
+        "entretenimento",
+        "intriga",
+        "mistério",
+        "crime",
+        "cidade"
+      ],
+      "summary": "Resumo semanal dos acontecimentos em Talset: Brakk torna-se novo campeão de braço de ferro, cidadãos relatam carteiras vazias após festa, e mistério no cemitério com campas abertas e criaturas estranhas.",
+      "content": "O resumo semanal de caos, intriga e diversão na cidade de Talset traz três histórias de destaque.\n\nPrimeiramente, Brakk, o imbatível, conquistou o título de Campeão do Braço de Ferro após um embate épico contra Jorge, o Campeão Invicto. Com uma força que parecia vir diretamente das profundezas do seu carácter, Brakk levou o prémio para casa, prometendo não partir mais mesas, apenas corações. \"Brakk campeão, Brakk ser\", comentou o novo ícone local enquanto recebia o seu prémio com um braço às costas.\n\nSegundamente, após uma noite de música, festa e mesas partidas, muitos cidadãos relataram que as suas carteiras estavam mais leves que uma pena. Permanece incerto se a culpa foi do álcool ou de um goblin sorrateiro que desapareceu no meio da confusão. Apostadores frustrados procuram explicações, e tudo o que resta é uma folha com símbolos incompreensíveis. Os aventureiros de Garza foram convocados para investigar o ocorrido.\n\nFinalmente, algo cheira mal em Talset. Moradores relataram campas abertas e criaturas estranhas vistas pelo cemitério. As autoridades locais decidiram interditar a área temporariamente, embora curiosos se mostrem mais rápidos do que os cartazes de aviso.",
+      "image": null
+    },
+    {
+      "id": "joaozinho-magnata-apostas",
+      "name": "Joãozinho: De Vendedor de Feijões a Magnata das Apostas!",
+      "date": null,
+      "tags": [
+        "apostas",
+        "riqueza",
+        "Talset",
+        "intriga",
+        "sorte"
+      ],
+      "summary": "Um rapaz simples que trocava vacas por feijões mágicos transformou-se numa noite numa figura abastada após ganhar uma fortuna na banca de apostas. A sua ascensão meteórica deixa a população a questionar se é mera sorte ou engenho estratégico.",
+      "content": "Joãozinho, um menino de feições simples conhecido por trocar vacas por feijões mágicos, tornou-se notícia após uma noite na banca de apostas de Talset. O rapaz saiu da festa com sacos de ouro suficientes para rivalizar com a riqueza de muitos lordes locais. Alguns atribuem a sua vitória à sorte pura, enquanto outros sussurram que Joãozinho é um mestre em probabilidade e estatística.\n\nA festa em Talset atraiu nomes importantes da nobreza. O Lorde Lionardo foi visto a apreciar os festejos na companhia do Juggy, enquanto a Divalva rondava a banca de jogos. Outros membros da nobreza observavam discretamente o torneio, e há boatos de que terão apostado, embora ninguém queira confirmar.\n\nMais a norte, em Braavos, a situação torna-se tensa. O banco aumentou os juros de 10 para 25%, provocando uma correria de devedores a tentar saldar as suas obrigações antes que a situação se agrave. Há quem veja nisto uma manobra estratégica dos banqueiros, enquanto outros ligam o aumento a acontecimentos recentes envolvendo criaturas aladas. A cidade fervilha de atividade, com a rua a fervilhar de gente desesperada a fugir das suas dívidas.\n\nComo StriderX afirmou: \"Quando as apostas falham, só resta correr!\"",
+      "image": null
+    },
+    {
+      "id": "revista-cientifica-de-talset",
+      "name": "Revista Científica de Talset",
+      "date": null,
+      "tags": [
+        "terremotos",
+        "dragões",
+        "fenómenos sobrenaturais",
+        "comércio marítimo",
+        "desastres naturais"
+      ],
+      "summary": "A Revista Científica de Talset relata o término dos tremores de terra em Merinfor, avistamentos de dragões negros na Cordilheira do Sopro e o impacto contínuo do Navio Vivo nas trocas comerciais de Spira.",
+      "content": "A edição mais recente da Revista Científica de Talset traz três reportagens de grande relevância para o mundo.\n\nNa região de Merinfor, os tremores de terra que aterrorizavam a população finalmente cessaram. Durante semanas, os cidadãos especularam sobre as causas dos sismos, atribuindo-os a intervenção divina ou ao ronronar de um Tarrasque gigantesco nas cavernas subterrâneas. O fim dos tremores trouxe alívio geral, especialmente após a população ter testemunhado uma colossal coluna de fogo no passado.\n\nNa Cordilheira do Sopro, observadores relatam avistamentos crescentes de dragões negros de pequeno e médio porte. Mais intrigante ainda é o relato de um grupo de curiosos que presenciou um clarão vermelho no céu durante o voo de um dragão. Segundo as testemunhas, criaturas aladas emergiram desse clarão e uma delas descarregou um raio contra o dragão. Após uma luta aérea feroz, a criatura caiu nas encostas da cordilheira. Quando os observadores chegaram ao local, o dragão havia desaparecido, mas a vegetação ao redor do ponto de impacto apresentava sinais visíveis de morte e destruição.\n\nNo oceano, o Navio Vivo mantém o seu domínio sobre as rotas marítimas de Spira. As dificuldades nas trocas comerciais agravaram-se, incapacitando os governos de controlar a inflação. Espera-se um aumento significativo de preços nos próximos tempos, particularmente nas mercadorias exóticas.",
+      "image": null
+    },
+    {
+      "id": "solidariedade-em-momentos-de-aperto",
+      "name": "Solidariedade em Momentos de Aperto",
+      "date": null,
+      "tags": [
+        "economia",
+        "inflação",
+        "comércio",
+        "acordos regionais",
+        "sul do continente"
+      ],
+      "summary": "Os líderes das cidades do sul do continente — Trand, Yas'fur, Merinfor, Maral, Ashton, Talset e Grayford — estabelecem um acordo global para conter a inflação de itens mágicos. A medida visa proteger os bens essenciais enquanto a situação política no norte e o afastamento das rotas comerciais encarecem todas as transacções.",
+      "content": "Apesar das diferenças históricas entre as várias cidades, a região sul do continente reconhece a necessidade de se manter unida em tempos de dificuldade. Os líderes de Trand, Yas'fur, Merinfor, Maral, Ashton, Talset e Grayford celebram um acordo global para não conter mais a inflação em itens mágicos, sendo esta a primeira de várias medidas concebidas para proteger os bens essenciais e mundanos.\n\nA situação política tensa no norte do continente, agravada pela distância das rotas comerciais com Tural e pelas dificuldades associadas ao Navio Vivo, têm prejudicado gravemente as importações e exportações de bens, tornando tudo significativamente mais caro. Em resposta, recompensas estão a ser distribuídas por toda a região para lidar com um conjunto de situações que visam mitigar os efeitos da inflação. As populações são instadas a permanecer atentas aos desenvolvimentos vindouros.",
+      "image": null
+    },
+    {
+      "id": "greve-de-estivadores-em-grayford-termina",
+      "name": "Greve de estivadores em Grayford termina",
+      "date": null,
+      "tags": [
+        "comércio",
+        "porto",
+        "Grayford",
+        "sindicato",
+        "aventureiros"
+      ],
+      "summary": "A greve dos estivadores em Grayford chegou ao fim após um grupo de aventureiros descobrir e eliminar criaturas que se alimentavam dos líquidos produzidos pelos trabalhadores. Com o fim da paralisação, o fluxo de mercadorias foi restabelecido, embora as taxas comerciais elevadas permaneçam em vigor.",
+      "content": "A greve dos estivadores em Grayford, uma das principais razões para a inflação dos preços dos produtos no continente de Gemeus, chegou finalmente ao fim. Um grupo de aventureiros descobriu que a morte de estivadores era causada pela presença de criaturas que se alimentavam dos líquidos produzidos pelos trabalhadores.\n\nXor Carregueiro, líder dos estivadores de Grayford, declarou à imprensa que os aventureiros chegaram ao porto com um pedido de trabalho, decidindo criar uma empresa de estivadores independente, contrariamente às regras do sindicato. Reconhecendo o perigo iminente, Carregueiro disponibilizou as chaves do armazém aos aventureiros, que conseguiram resolver o problema que afligia os trabalhadores. Carregueiro lamentou a ausência do aventureiro que havia solicitado trabalho inicialmente, apesar de lhe ter prometido uma posição.\n\nCom o fim da greve, os barcos de mercadorias foram finalmente descarregados, podendo retomar os seus perigosos e longos percursos, evitando os notórios barco de mimics e a tartaruga-dragão gigante que vagueiam pelos oceanos.\n\nO famoso capitão Barbosa expressa alguma frustração com o atraso causado por uma cantora que distraiu os seus marinheiros, perdendo a maré e atrasando a viagem em oito horas. Apesar do fluxo de mercadorias ter sido restabelecido, as taxas comerciais continuam em vigor. Os administradores locais afirmam que as taxas só serão levantadas quando todos os problemas de abastecimento forem resolvidos, descrevendo a situação como \"um sacrifício para todos\".",
+      "image": null
+    },
+    {
+      "id": "roubos-carregamentos-desaceleram-grincholim",
+      "name": "Roubos de carregamentos desaceleram, mas operação de Grincholim continua",
+      "date": null,
+      "tags": [
+        "crime",
+        "transportes",
+        "hobgoblins",
+        "segurança",
+        "comércio"
+      ],
+      "summary": "Os assaltos a carregamentos de doações perpetrados por hobgoblins diminuíram após a prisão de um dos líderes, que revelou ser Grincholim o mentor da operação. Entretanto, novas empresas de transportes surgem no mercado com propostas alternativas à StriderX.",
+      "content": "Os carregamentos transportados por empresas de transportes, particularmente a StriderX, continuam a ser atacados por hobgoblins, embora o número de assaltos tenha diminuído significativamente. Um dos líderes da operação foi capturado e entregue às autoridades de Talset, que através de interrogatório descobriram ser Grincholim o grande mentor por detrás de toda a operação criminosa.\n\nEm resposta ao cenário de insegurança nas rotas, surge a empresa Carregoças, liderada por Manuel Carregueiro, que iniciou operações em Trand após adquirir quatro novas carroças. Manuel declarou à imprensa: \"Descobri que estava a ser muito mal pago e tornar-me trabalhador independente vai render muito mais para mim e para os meus novos trabalhadores, que irão receber um ordenado justo, acima do valor de mercado, de 1 sp e 2 cp.\" A StriderX respondeu criticando a qualidade das carroças e a pontualidade das entregas da nova concorrente.",
+      "image": null
+    },
+    {
+      "id": "veiculo-aereo-mymy-captain",
+      "name": "Protótipos de Veículos Aéreos Contra MyMyC'aptain",
+      "date": null,
+      "tags": [
+        "magia",
+        "tecnologia",
+        "transporte aéreo",
+        "combate",
+        "guilda de magos"
+      ],
+      "summary": "A Guilda de Magos de Yas'Afur e Germain de Trand desenvolveram os primeiros protótipos de veículos de transporte e combate aéreo, que serão utilizados numa operação conjunta com uma frota marítima para eliminar a ameaça do MyMyC'aptain.",
+      "content": "Segundo a Techno Magic Magazine, uma operação conjunta entre a Guilda de Magos de Yas'Afur e Germain de Trand resultou na criação dos primeiros protótipos de veículos de transporte e combate aéreo. Estes notáveis veículos, capazes de voar, foram enviados juntamente com uma frota marítima para terminar de uma vez por todas a ameaça do MyMyC'aptain. Com esta inovação tecnológica e mágica, espera-se colocar fim a uma longa campanha militar que assolava a região.",
+      "image": null
+    },
+    {
+      "id": "aquecimento-em-lupu-descongela-mago-de-gelo",
+      "name": "Aquecimento em Lupu descongela mago de gelo",
+      "date": null,
+      "tags": [
+        "magia",
+        "Lupu",
+        "fenómeno climático",
+        "perigo público"
+      ],
+      "summary": "Um feiticeiro congelado há vários milénios foi descongelado devido ao aquecimento atmosférico que afecta Lupu. Desde então, o mago tem congelado famílias inocentes em honra aos tempos antigos.",
+      "content": "O aquecimento sentido em Lupu, gerado pelo ar merdal, provocou o degelo de um cubo de gelo que mantinha vivo um feiticeiro congelado há vários milénios. O antigo mago, agora descongelado e livre, iniciou uma campanha de terror contra os habitantes da região, congelando famílias desavisadas \"em honra aos velhos tempos\", como grita pelas ruas. As autoridades de Lupu enfrentam agora uma ameaça mágica inesperada, decorrente de circunstâncias climáticas aparentemente fora do seu controlo.",
+      "image": null
+    },
+    {
+      "id": "tecnomagia-sofre-primeira-derrota",
+      "name": "Tecnomagia sofre primeira derrota contra o MyMyC'aptain",
+      "date": null,
+      "tags": [
+        "tecnomagia",
+        "conflito",
+        "frota",
+        "monstruosidades",
+        "derrota"
+      ],
+      "summary": "Tecnomagia sofreu a sua primeira derrota significativa quando tentou destruir o MyMyC'aptain. A frota enviada perdeu veículos aéreos de combate e parte da frota marítima, forçando uma retirada estratégica perante criaturas monstruosas.",
+      "content": "De acordo com o Times of Trand, Tecnomagia enfrentou a sua primeira grande derrota. Os inovadores veículos aéreos de combate e transporte foram destruídos, juntamente com uma pequena porção da frota marítima que fora enviada com o objectivo de eliminar o MyMyC'aptain.\n\nO comandante da frota revelou que a melhor decisão foi efectuar uma retirada estratégica antes que a totalidade da frota fosse consumida pelas criaturas inimigas. Múltiplas pequenas embarcações monstruosas foram avistadas na região, chovendo monstruosidades com dentes de todos os lados.\n\nA situação parece ter-se deteriorado significativamente. Apesar da fama alcançada por Tecnomagia, o MyMyC'aptain continua a representar uma ameaça formidável que ultrapassa as capacidades militares apresentadas até ao momento.",
+      "image": null
+    },
+    {
+      "id": "quisquices-ao-minuto-em-talset",
+      "name": "Quisquices ao Minuto em Talset",
+      "date": null,
+      "tags": [
+        "fofocas",
+        "escândalo",
+        "mistério",
+        "talset",
+        "lordes"
+      ],
+      "summary": "Talset fervilha de rumores sobre a expansão da guilda de Lorde Divalva, o escândalo envolvendo Lorde Teófilo e a morte de dois guardas, além de mistérios assustadores nos esgotos da cidade que apontam para possível vampirismo.",
+      "content": "A cidade de Talset está repleta de fofocas das mais variadas. Lorde Divalva terá anunciado uma expansão da guilda, mas fontes indicam que o verdadeiro objectivo é a construção de um luxuoso quarto privado com banheira de mármore e vista para o pátio. Simultaneamente, a cidade está coberta de cartazes de procurados, deixando muitos a questionar a origem dos fundos para tanta impressão.\n\nLorde Teófilo encontra-se no centro de múltiplos escândalos. A sua prática de recrutar apenas mão-de-obra estrangeira tem atraído críticas sobre se tratar-se-á de bondade genuína ou exploração. Rumores chocantes apontam que foi visto de joelhos a pedir desculpas aos seus empregados, dividindo a opinião pública sobre a sua verdadeira natureza. O panorama agravou-se com a descoberta de dois guardas mortos; um deles supostamente tinha uma relação pessoal com o lorde, alimentando especulação sobre o que se passa verdadeiramente na mansão.\n\nOs mistérios intensificam-se nos esgotos de Talset, onde entupimentos alarmantes deixaram a população em pânico. Alguns moradores atribuem a culpa ao lendário Merdarius, enquanto outros apontam para um certo \"Joãozinho\". Vestígios estranhos descobertos sugerem atividades vampirescas, possivelmente ligadas ao cemitério abandonado junto à mansão. Devido ao pânico generalizado, o governo local reforçou a segurança e proibiu visitas ao cemitério, impedindo até os familiares de acederem. O mistério permanece por desvendar.",
+      "image": null
+    },
+    {
+      "id": "joaozinho-o-homem-do-momento",
+      "name": "Joãozinho, o Homem do Momento?!",
+      "date": null,
+      "tags": [
+        "negócios",
+        "inovação",
+        "Talset",
+        "empreendedorismo",
+        "curiosidades"
+      ],
+      "summary": "Joãozinho torna-se a figura mais controversa de Talset com uma série de empreendimentos inovadores e extravagantes. Da Belmira Editora ao repelente de lobos Re-pele-pele, passando por uma mansão de luxo para cavalos e até barcos construídos em terra, o empresário agita a cidade com ideias que dividem opiniões entre genialidade e excentricidade.",
+      "content": "Joãozinho conquistou o estatuto de homem do momento em Talset, transformando-se no tema de conversa obrigatório em tavernarias e salões da cidade. Lançou a Belmira Editora, uma casa editorial local que se dedica à procura de novos talentos literários, correndo já histórias de taberna em taberna sobre o seu interesse em obras ainda desconhecidas.\n\nCom a lança ao seu produto mais polémico: o Re-pele-pele, um repelente revolucionário contra lobos que promete afastar qualquer criatura com uma única aplicação. O slogan marca presença: \"Não há lobo que te pele com o Re-pele-pele!\" A população debate-se entre a confiança nesta inovação e o ceticismo face a promessas aparentemente demasiado ambiciosas.\n\nAo nível imobiliário, Joãozinho surpreendeu todos ao anunciar a construção de uma mansão de luxo exclusivamente dedicada a cavalos. A cidade inteira questiona-se se se trata de um acto de genialidade comercial ou de simples extravagância.\n\nEntre as suas outras empreitadas conta-se a comercialização de seguros contra roubo de prendas, respondendo ao fenómeno crescente dos \"ladrões festivos\" que têm agitado o mercado de inovações.\n\nPor fim, o seu mais recente e peculiar projecto: a construção de barcos em terra. Joãozinho adquiriu um lote central através de Ti Maria para estabelecer este negócio, que continua a ser alvo de zombaria entre os taberneiros locais, que questionam ironicamente quem navegaria numa embarcação estacionada no meio da praça.\n\nApesar das críticas, Joãozinho oferece um cupão de desconto de 50% no Re-pele-pele, consolidando a sua presença no mercado de Talset.",
+      "image": null
+    },
+    {
+      "id": "inauguracao-clinica-estetica-luz-elfica-trand",
+      "name": "Inauguração da Clínica Estética \"Luz Élfica\" em Trand Atrai Multidão",
+      "date": null,
+      "tags": [
+        "beleza",
+        "inovação",
+        "Trand",
+        "clínica estética",
+        "negócios"
+      ],
+      "summary": "Trand celebra a inauguração da clínica estética \"Luz Élfica\", propriedade de Ayra Silvéria, que promete revolucionar os cuidados de beleza na região com capacidades de reconstrução facial. O estabelecimento marca um novo passo na consolidação de Trand como líder econômico do continente.",
+      "content": "Na última noite de lua cheia, Trand, o principal centro econômico da região, celebrou a inauguração da clínica estética \"Luz Élfica\", um estabelecimento que já é considerado um marco na história da cidade. Graças ao talento excepcional da proprietária Ayra Silvéria, a clínica é capaz de reconstruir o rosto de uma pessoa, desde cicatrizes graves a simples acne, oferecendo soluções de beleza até ao momento inéditas. A inauguração da Luz Élfica marca um momento de inovação significativa para Trand, solidificando ainda mais a posição da cidade como líder econômico no continente. Com base na visão de Ayra e no impacto inicial demonstrado, a clínica promete redefinir os padrões de beleza e cuidado pessoal na região.",
+      "image": null
+    },
+    {
+      "id": "inflacao-regional-estabiliza-apos-destruicao-navio-monstruoso",
+      "name": "Inflação Regional Estabiliza-se Após Heroica Missão",
+      "date": null,
+      "tags": [
+        "economia",
+        "aventureiros",
+        "inflação",
+        "heróis",
+        "comércio"
+      ],
+      "summary": "A inflação regional deverá finalmente estabilizar assim que os vendedores escoarem os antigos stocks, graças à destruição de um navio monstruoso por uma missão de aventureiros da guilda de Ernesto Garza. Os heróis Raziel e Balo Rainshine pagaram um preço elevado pela vitória.",
+      "content": "A situação de inflação regional que tem afectado a economia vai finalmente estabilizar assim que os vendedores conseguirem escoar os antigos stocks. Segundo apurou o nosso jornal, a razão por trás deste evento foi uma missão de risco levada a cabo por aventureiros da conhecida guilda de Ernesto Garza, que com a ajuda de todos os Deuses conseguiram destruir um navio monstruoso de proporções assombrosas. Entre os bravos aventureiros destacaram-se os experientes e conhecidos Raziel e Balo Rainshine. No entanto, a vitória não foi isenta de custos pesados: Raziel ficou pálido, perdeu o cabelo e um dedo, enquanto Balo Rainshine sofreu traumas significativos, ficando incapaz de pronunciar a letra L. Em nome do jornal, expressamos a nossa mais sincera gratidão a estes corajosos aventureiros pelo seu sacrifício e dedicação.",
+      "image": null
+    },
+    {
+      "id": "desastre-baile-teofilo-talset",
+      "name": "As Calhandras de Talset: Desastre no Baile de Teófilo",
+      "date": null,
+      "tags": [
+        "escândalo",
+        "magia",
+        "fuga",
+        "baile",
+        "Talset"
+      ],
+      "summary": "O Baile de Lysara, organizado pelo Lorde Teófilo, terminou num caos absoluto quando a sua filha fugiu transformada em águia com um fazendeiro local. O evento deixou o lorde humilhado, endividado e à procura de vingança contra um misterioso indivíduo conhecido como \"O Padeiro\".",
+      "content": "As festividades do Baile de Lysara em Talset terminaram num escândalo de proporções épicas. Após uma noite repleta de desafios e humilhações, a filha do Lorde Teófilo conseguiu escapar da festa transformando-se numa águia ao lado de um fazendeiro local, ambos voando para longe e deixando o lorde furioso e os convidados em choque.\n\nO próprio Teófilo não saiu ileso da debacle. Múltiplas testemunhas avistaram o lorde ajoelhado pelas ruas de Talset, implorando pelo regresso da filha. Rumores sugerem que o senhor se encontra profundamente endividado, com a sua reputação a desmoronar-se tão rapidamente quanto os seus cofres vazios.\n\nEntre os demais desastres da noite, Sir Douvain, que era considerado o favorito para vencer a competição, viu-se obrigado a abandonar o baile com a honra gravemente comprometida. Particularmente humilhante, o seu nariz foi magicamente transformado numa batata. Testemunhas asseguram que o cavaleiro se retirou com uma jovem de reputação duvidosa, mas regressou poucos minutos depois roncando tão alto quanto os zangões do reino.\n\nNuma tentativa de encontrar um culpado, Teófilo aponta acusações para um misterioso indivíduo conhecido apenas como \"O Padeiro\", alegando que esta figura possui poderes mágicos capazes de transformar pessoas em águias. O lorde oferece uma recompensa de 100 peças de ouro a qualquer um que localize e traga \"O Padeiro\" à sua mansão para \"ajustes de contas\".\n\nAté o bardo Maloric, que animava os convidados com as suas melodias, não escapou ileso. Afirma ter sido ameaçado por um dos participantes do baile, que lhe apontou a própria guitarra e prometeu que seria o \"solo da sua vida\". Indignado, Maloric declarou que nunca mais actua para o Lorde Teófilo.\n\nPor fim, fontes próximas da mansão de Teófilo sugerem que o lorde está a preparar uma viagem a Trand sob o pretexto de \"tratar negócios\", embora muitos acreditem tratar-se meramente de uma tentativa de escapar à vergonha que agora o envolve.",
+      "image": null
+    },
+    {
+      "id": "harold-goldweave-assassinado",
+      "name": "Harold Goldweave assassinado por ativista das florestas de Talset",
+      "date": null,
+      "tags": [
+        "assassinato",
+        "política",
+        "druidas",
+        "comercio",
+        "intriga"
+      ],
+      "summary": "Harold Goldweave, empresário estimado, foi assassinado por um druida ativista das florestas de Talset em represália ao seu plano de expansão das plantações de linho. A morte foi seguida por um incêndio suspeito na sua mansão e uma rápida fusão empresarial envolvendo a sua viúva.",
+      "content": "Harold Goldweave foi assassinado ontem por um druida ativista das florestas de Talset. O empresário, muito amado pelo povo, tinha planeado uma expansão das suas plantações de linho, o que despertou a revolta numa comunidade de druidas. Um deles decidiu tomar medidas pelas próprias mãos, resultando na morte do mercador.\n\nApós a investigação criminal conduzida por um grupo de investigadores da Guilda de Ernesto Garza, houve um incêndio na mansão do falecido. Segundo o seu mordomo, a tragédia resultou na perda de muitos papéis e obras de arte de grande valor.\n\nElaine Goldweave, agora viúva, não tardou em ser consolada pelo antigo rival de Harold, Gerald Blacktorn, que lhe propôs casamento. Blacktorn declarou o filho de Elaine, Victor Goldweave, como novo herdeiro da empresa recém-formada Blackweaver, resultado da fusão das empresas Goldweaver e Blackthorner. Uma vizinha anónima afirmou à imprensa: \"Olhe, eu não sou de intrigas nem de contar coisas, mas eles já se andavam a comer antes.\"",
+      "image": null
+    },
+    {
+      "id": "atividade-vulcanica-cragwall",
+      "name": "Atividade Vulcânica nas Montanhas Perto de Cragwall",
+      "date": null,
+      "tags": [
+        "vulcanismo",
+        "desastres naturais",
+        "Cragwall",
+        "lava",
+        "fenómenos sobrenaturais"
+      ],
+      "summary": "As montanhas próximas a Cragwall sofreram uma intensa atividade vulcânica, com rios de lava a percorrerem os desfiladeiros. Embora o fenómeno tenha cessado rapidamente, a região permanece quente e perigosa, com lagos de lava a céu aberto a emergirem em vários locais.",
+      "content": "Uma súbita atividade vulcânica foi registada nas montanhas perto de Cragwall, provocando tremores significativos na região. Rios de lava escorreram pelos desfiladeiros durante o evento, causando devastação localizada. Felizmente, o fenómeno cessou quase tão rapidamente como começou, mas deixou um rasto de destruição. A região continua numa situação perigosa, mantendo temperaturas elevadas e mostrando sinais de instabilidade contínua. Foram documentados vários lagos de lava a céu aberto em diferentes pontos das montanhas, sugerindo que a atividade geológica não se extinguiu completamente.",
+      "image": null
+    },
+    {
+      "id": "talset-novidades-culturais-e-bondade-natalicia",
+      "name": "Talset — Novidades Culturais e Bondade Natalícia",
+      "date": null,
+      "tags": [
+        "cultura",
+        "comunidade",
+        "natal",
+        "educação",
+        "comércio"
+      ],
+      "summary": "Talset vive um período de transformação com a abertura da Escola de Música Brakk && Roll, enquanto a comunidade celebra gestos de bondade natalícia e mudanças significativas nos seus sectores tradicionais.",
+      "content": "A cidade portuária de Talset tem sido palco de diversas novidades que marcam o final do ano. A Escola de Música Brakk && Roll abriu recentemente as suas portas, trazendo o rock para a região. Miúdos vestidos de preto têm enchido as ruas com guitarras e baterias improvisadas, criando um contraste curioso com as luzes festivas do período natalício.\n\nOs aventureiros de Ernesto surpreenderam a população local ao distribuir moedas roubadas entre os cidadãos, num gesto de bondade que aqueceu os corações neste frio de Natal. Entretanto, o orfanato Seguro Joãozinho subscreveu um seguro contra roubo de prendas utilizando quase todas as doações recentes. Embora a sopa tenha ficado mais aguada do que nunca, o seguro funcionou e as crianças receberam os seus presentes — alguns com carvão extra.\n\nA esfera comercial também sofre transformações. O Capitão Zacarias, após vender a sua embarcação e encerrar uma carreira de cinco anos, preparar-se para a reforma. As suas palavras — \"Após esta breve carreira de 5 anos, já me rendeu a reforma, Zacarias se eu pescava tu comias\" — sugerem que Talset poderá enfrentar uma redução significativa de peixe nos mercados, uma vez que era o único comerciante de pesca na região. Porém, existe esperança: Talset dispõe agora de uma escola de pesca e novas embarcações, e o Capitão Zacarias considerou ministrar aulas durante a sua reforma.\n\nPor fim, Gui, o arqueólogo responsável pela Equipa de Arqueologia de Talset, continua a soltar frases enigmáticas sobre \"algo grande que está para vir\", mantendo a comunidade na expectativa — ainda que as suas palavras permaneçam, como sempre, de difícil interpretação.",
+      "image": null
+    },
+    {
+      "id": "falsetes-de-talset",
+      "name": "Falsetes de Talset",
+      "date": null,
+      "tags": [
+        "crime",
+        "talset",
+        "mistério",
+        "criminosos",
+        "rumores"
+      ],
+      "summary": "Rumores circulam em Talset sobre várias entidades criminosas operando na cidade. Depois da captura de \"O Taberneiro\", especula-se sobre a identidade de outros membros desta misteriosa organização.",
+      "content": "Segundo as más línguas de Talset, diversas entidades do crime andam a operar na cidade. Depois dos vários cartazes que procuravam \"O Padeiro\", circula agora a notícia de que \"O Taberneiro\" foi finalmente apanhado. Permanece a incerteza sobre se estas entidades trabalham juntas ou individualmente. A população questiona-se sobre quem será o próximo a ser identificado: \"O Carpinteiro\"? \"O Escrivão\"? \"O Curandeiro\"? \"O Teceleiro\"? \"O Chefe\"? As especulações multiplicam-se nas ruas da cidade.",
+      "image": "https://cdn.discordapp.com/attachments/1222163134568202300/1332292163660152902/image0.gif?ex=69ae9d44&is=69ad4bc4&hm=897633894706b9bae98e8361453970c754ddad625ba1a90b6645a3d98ce99db7&"
+    },
+    {
+      "id": "noticias-de-trand-desaparecimentos-e-misterios",
+      "name": "Notícias de Trand: Desaparecimentos, Monstros e Mistérios nos Esgotos",
+      "date": null,
+      "tags": [
+        "desaparecimento",
+        "crime",
+        "monstros",
+        "investigação",
+        "Trand"
+      ],
+      "summary": "A cidade de Trand enfrenta uma série de acontecimentos perturbadores: o encerramento da clínica de estética Luz Élfica após descoberta de corpos, o desaparecimento de sem-abrigos pelas ruas, e sons misteriosos provenientes dos esgotos que continuam a intrigar as autoridades.",
+      "content": "Trand vive dias de incerteza e preocupação. A clínica de estética Luz Élfica foi encerrada após intervenção de aventureiros que a polícia local se recusou identificar. Na cave da clínica foram descobertos diversos cadáveres, levantando suspeitas graves sobre as actividades ilícitas que ali ocorriam. A proprietária, Ayra Silvéria, principal suspeita do caso, encontra-se desaparecida. As autoridades especulam que a mulher possa estar morta.\n\nParalelamente, a cidade tem sido assolada por uma série de desaparecimentos. Sem-abrigos desaparecem das ruas noturnas sem deixar rasto. As causas permanecem obscuras: será um vigilante secreto? Militantes com agenda própria? Uma operação encoberta da polícia? Ou um monstro que espreita nas sombras? A polícia assegura que está a mobilizar todos os recursos disponíveis para investigar os desaparecimentos.\n\nAcresce ainda o mistério dos esgotos da cidade. Nos últimos dias, relatos de sons estranhos emanam das profundezas—murmúrios incoerentes e frases fragmentadas que desafiam explicação. Equipas de aventureiros foram enviadas para investigar mas regressaram de mãos vazias, sem descobrir a fonte dos sons. Contudo, os relatos persistem, alimentando o medo e a especulação entre os cidadãos de Trand.",
+      "image": null
+    },
+    {
+      "id": "noticias-de-talset",
+      "name": "Notícias de Talset",
+      "date": null,
+      "tags": [
+        "gangues",
+        "conflito",
+        "criminalidade",
+        "talset",
+        "mistério"
+      ],
+      "summary": "Talset vê-se assolada por actividade de gangues e crimes misteriosos. Confrontos entre gunas do Tony Boomes e Zé Garras, um Half Giant assassinado, inocência provada do dono da taverna do Joelho e um roubo na Guilda de Lorde Divalva mantêm a cidade em alerta.",
+      "content": "Notícias de Talset\n\nGangues em Talset?\nNão houve feridos num confronto de gangues envolvendo diversos gunas do Tony Boomes e Zé Garras, com excepção dos próprios combatentes. O motivo do confronto e a natureza das suas actividades permanecem desconhecidos.\n\nHalf Giant desarmado e decapitado\nAcredita-se que a vítima pertenceria a um dos gangs de gunas, embora a sua afiliação exacta seja incerta. O cadáver apresentava as mãos manchadas de sangue e marcas de cornos de carneiro nas extremidades.\n\nDono da taverna do Joelho ilibado de um homicídio em Falahar\nUma testemunha anónima apresentou provas irrefutáveis da inocência do Sr. Fraaq num caso de homicídio ocorrido em Falahar. A testemunha recusou-se a revelar mais pormenores sobre a sua identidade ou o teor das provas, deixando em aberto a questão da verdadeira identidade do assassino.\n\nGuilda de Lorde Divalva vandalizada\nA Guilda \"This is the Way\" foi alvo de vandalismo enquanto Lorde Divalva se encontrava ausente. Foram removidos vários objectos do escritório da líder, incluindo um livro de registos (ledger book) que Divalva pede encarecidamente que seja devolvido. Especula-se se os gunas terão estado envolvidos no incidente. Divalva não apresentou queixa formal, limitando-se a solicitar o retorno do ledger book.",
+      "image": null
+    },
+    {
+      "id": "entrevista-com-rapidon-heroi-improvavel-talset",
+      "name": "Entrevista com Rapidon: O Herói Improvável de Talset",
+      "date": null,
+      "tags": [
+        "magia",
+        "Talset",
+        "cemitério",
+        "Rapidon",
+        "Guilda"
+      ],
+      "summary": "O mago Rapidon, de Yas'afur, foi agraciado com um título honorário por Talset após resolver o problema de infestação no cemitério da cidade. Numa entrevista exclusiva, o mago revela-se modesto e perspicaz, sugerindo que o trabalho já estava praticamente feito quando chegou.",
+      "content": "Após o falhanço dos heróis da Guilda de Ernesto Garza em resolver os problemas do cemitério de Talset, foi necessária a intervenção de um verdadeiro especialista. O mago de Yas'afur, Rapidon, conhecido pelo seu brilhantismo e modéstia peculiar, foi agraciado com um título honorário pela cidade, após 'limpar' o cemitério de ossos e corpos estranhos.\n\nNuma entrevista após a cerimónia de honraria, Rapidon revelou uma perspectiva intrigante sobre os acontecimentos. Quando questionado sobre o fracasso anterior da Guilda de Ernesto Garza, o mago não hesitou em apontar que \"errar é humano\" e que \"falhar miseravelmente é um talento raro\". Contudo, reconheceu que sem a situação ter fugido do controlo, nunca teria sido necessária a sua intervenção.\n\nRegardando a resolução da infestação de esqueletos, Rapidon descreveu o processo como \"facílimo\", sugerindo de forma perspicaz que quase era como se alguém já não precisasse dos esqueletos quando ele chegou. O mago enfatizou que simplesmente apareceu e o cemitério ficou limpo, permitindo que os mortos fossem enterrados em paz.\n\nQuando confrontado sobre futuras ajudas a Talset, Rapidon manifestou disponibilidade, mas com moderação, receando criar uma dependência excessiva. Afinal, conforme afirmou, o resto do continente também necessita dos seus serviços extraordinários.",
+      "image": "https://cdn.discordapp.com/attachments/1222163134568202300/1338974999989456966/59c23af2f8b5537a531de0560bccf378.jpg?ex=69ae8964&is=69ad37e4&hm=59e413f66e2adeff0af0069b932904a01fb837d1dbeaa272ab21d9cf04ba6e33&"
+    },
+    {
+      "id": "escandalo-em-maral-rapidon-em-queda",
+      "name": "Escândalo em Maral: Rapidon em Queda!",
+      "date": null,
+      "tags": [
+        "escândalo",
+        "Rapidon",
+        "Maral",
+        "reputação",
+        "conspirações"
+      ],
+      "summary": "O mago Rapidon, outrora celebrado herói de Talset, vê-se envolvido num escândalo de grande envergadura em Maral após acusações de não pagar por serviços prestados e alegações de conspiração secreta com Merdarius. A Guilda de Magos e as autoridades locais iniciaram um inquérito formal sobre o caso.",
+      "content": "Maral está em alvoroço com o envolvimento do celebrado Rapidon, mago de Yas'afur e antigo herói de Talset, num turbilhão de acusações que mancham seriamente a sua reputação. Após tomar posse da Câmara Municipal de Maral como seu escritório pessoal, onde conduzia investigações com arrogância que desagradou à população local, o mago agora enfrenta alegações sem precedentes que abalaram a cidade.\n\nTrês mulheres – identificadas como Nádia, Joana e Sofia – vieram a público acusar Rapidon de não lhes pagar pelos serviços prestados. O confronto aconteceu em plena praça pública, onde as três o interpelaram frente a todos, exigindo pagamento, gritando insultos e expondo a sua suposta conduta abusiva. Testemunhas relatam que Rapidon tentou apaziguar a situação com promessas e moedas atiradas ao acaso enquanto murmurando desculpas, mas o estrago à sua imagem já estava feito. A cena rapidamente se propagou pela cidade, manchando ainda mais a reputação do mago.\n\nPara piorar a situação, uma carta anónima chegou às mãos de Lord Amaram contendo acusações ainda mais graves. O documento, de origem incerta, acusa Rapidon de conspirar secretamente com Merdarius, o inimigo que jurou combater publicamente. A carta levanta questões alarmantes sobre as verdadeiras intenções do mago e despertou interesse imediato da Guilda de Magos e das autoridades locais, que iniciaram um inquérito formal sobre o caso.",
+      "image": null
+    },
+    {
+      "id": "maral-e-guilda-de-magos-investigam-rapidon",
+      "name": "Maral e a Guilda de Magos Abrem Investigação Formal sobre Rapidon",
+      "date": null,
+      "tags": [
+        "investigação",
+        "magia",
+        "Maral",
+        "conflito social",
+        "Rapidon"
+      ],
+      "summary": "As autoridades de Maral e a Guilda de Magos abriram um inquérito formal sobre o mago Rapidon, face à pressão popular e suspeitas sobre os verdadeiros objectivos da sua presença na cidade. A população local questiona se as suas investigações sobre o deserto trazem algum benefício real para a região.",
+      "content": "Maral e a Guilda de Magos Abrem Investigação Formal\n\nFace à crescente pressão popular e às suspeitas levantadas, as autoridades de Maral abriram um inquérito formal sobre Rapidon. Os agricultores e mercadores, agora desconfiados dos forasteiros, questionam a verdadeira razão da presença do mago. Diz-se que veio estudar o deserto e procurar soluções, mas que solução é essa que não traz pão para as mesas, nem melhora as colheitas?\n\nCom o clima a aquecer, muitos já pedem que Rapidon seja expulso da cidade antes que cause mais problemas.\n\nO Povo Fala: Vitalis das Galinhas Pronuncia-se\n\nPara entender o impacto disto junto da população, falámos com Vitalis das Galinhas, uma das vozes mais antigas e respeitadas da região, que comentou sobre a situação: \"Os homens precisam é da terra! Terra boa pra plantar, pra criar bicho, pra fazer vida! Não dum mago metido a senhor doutor que quer procurar soluções do Norte numa areia seca. Mal...mal...é eles investigarem o galinheiro...isso sim!\"\n\nO Mistério Deepena\n\nA Guilda de Ernesto Garza e fontes em Feywild já demonstraram interesse em colaborar com as investigações. Enquanto isso, as notícias voam pelas ruas de Maral, e a população aguarda respostas sobre o que verdadeiramente esconde Rapidon.",
+      "image": null
+    },
+    {
+      "id": "pohr-thalis-hospitalizado-urgencia",
+      "name": "Pohr Thalis Hospitalizado de Urgência",
+      "date": null,
+      "tags": [
+        "magia",
+        "acidente",
+        "portais",
+        "Yas'Afur",
+        "Guilda de Magos"
+      ],
+      "summary": "O renomado escritor e mago Pohr Thalis sofreu um grave acidente durante pesquisa sobre transporte de matéria entre dimensões, perdendo parte do corpo. Foi curado pelo padre Jaafi no templo de Kuncare e encontra-se agora em recuperação na Guilda de Magos de Yas'Afur, recusando-se a revelar detalhes sobre o ocorrido.",
+      "content": "O famoso escritor e mago especialista em portais de transporte, Pohr Thalis, conhecido pelas suas aclamadas obras de ficção \"Pãortais\" e \"Atalhos Inter-Dimensionais\", sofreu um terrível acidente durante a sua contínua pesquisa sobre formas de transportar matéria entre diferentes locais.\n\nO mago foi encontrado no seu gabinete em condições críticas, tendo perdido uma parte significativa do seu corpo e encontrando-se em estado avançado de hemorragia. Imediatamente foi transportado para o templo de Kuncare em Yas'Afur, onde recebeu cuidados do padre Jaafi, que o curou dos seus ferimentos.\n\nAtualmente, Pohr Thalis encontra-se em recuperação sob os cuidados da Guilda de Magos de Yas'Afur. O investigador mantém-se recluso, negando visitas e recusando qualquer informação adicional sobre as circunstâncias do acidente que o vitimou.",
+      "image": "https://cdn.discordapp.com/attachments/1222163134568202300/1343322758536368261/IMG_0184.jpg?ex=69ae888f&is=69ad370f&hm=5ebde81d36bf0b363381fff58baecec23f834cf504b9097d17b8c58d026b78c3&"
+    },
+    {
+      "id": "gioquim-fornalha-reabre-padaria-em-dodat",
+      "name": "Gioquim Fornalha reabre Padaria em Dodat",
+      "date": null,
+      "tags": [
+        "padaria",
+        "culinária",
+        "negócio",
+        "Dodat",
+        "gastronomia"
+      ],
+      "summary": "O renomado mestre padeiro Gioquim Fornalha reabre uma padaria em Dodat, abandonando o sistema de entregas por portais que o tornou famoso. Inspirado por um jovem padeiro que participou num concurso de comida, Fornalha volta com novas receitas e um restaurante onde os clientes devem consumir presencialmente.",
+      "content": "Gioquim Fornalha, grande mestre da farinha e inventor da famosa Pãortalaria, decidiu reabrir uma padaria em Dodat após explorar o mundo e aprender novas formas de fazer massa. Em comunicado à imprensa, garantiu que não voltará a fazer entregas por portais.\n\nFornalha declarou estar inspirado por ver um jovem padeiro a tentar vencer um concurso de comida apenas com receitas de pão. Esta experiência o motivou a regressar e demonstrar ao mundo que pão é muito mais do que um acompanhamento. Com o seu novo estabelecimento, A Padaria de Gioquim, pretende criar pães de tal qualidade que os clientes desejarão queijo com o seu pão, e não apenas pão com queijo.\n\nOs repórteres da StriderX tiveram a oportunidade de provar as novas receitas em primeira mão e confirmam a excelência do trabalho do mestre padeiro, atribuindo uma classificação de 10 em 10 aos seus pães.",
+      "image": null
+    },
+    {
+      "id": "padre-encontrado-morto-talset",
+      "name": "Padre Encontrado Morto num Beco de Talset",
+      "date": null,
+      "tags": [
+        "crime",
+        "talset",
+        "corrupção",
+        "justiça popular"
+      ],
+      "summary": "O Padre Serafim foi encontrado morto num beco de Talset com uma vista vazada, vítima de um projétil pequeno não encontrado no local. A morte é amplamente celebrada pela população, que sabia das suas atividades criminosas contra crianças.",
+      "content": "O Padre Serafim foi descoberto morto num beco de Talset, vítima aparente de um pequeno projétil que não foi localizado no local do crime. A Igreja de Talset mantém silêncio oficial sobre o ocorrido. O padre recebeu um funeral à porta fechada, e muitos membros da comunidade já previam este desfecho, dado que era conhecimento público que Serafim aliciava crianças com as piores intenções. A população de Talset demonstra gratidão pelo desaparecimento do clérigo, considerando que \"há males que vêm por bem\".\n\nO crescimento de Talset trouxe prosperidade, mas também criminalidade crescente. A imigração impulsionou a cidade, porém gunas e gangues espalham-se pelos arredores como ratos num armazém abandonado. Crimes outrora raros tornaram-se comuns: furtos, extorsões e violência domina as ruas. A população lamenta-se de que os guardas apenas passam para mostrar a farda, desaparecendo quando realmente são necessários. Com os melhores elementos ao serviço dos nobres, os restantes limitam-se a patrulhas inúteis. Talset, outrora segura, começa agora a temer as próprias ruas, e a população exige mudanças urgentes.\n\nA Câmara de Talset procura ativamente um Comandante experiente capaz de restaurar a ordem. A posição oferece habitação e um gabinete no quartel, mas exige muito mais do que força bruta. O candidato ideal necessita de experiência militar, estratégia e um pulso firme para transformar a velha guarda relaxada num verdadeiro exército de protetores. Contudo, não basta ser duro: Talset precisa de um líder altruísta, capaz de motivar e treinar os guardas com justiça, evitando transformar a cidade num estado de opressão. Um líder que apenas imponha medo tornará-se parte do problema. Os interessados devem apresentar-se à Câmara de Talset para entrevistas. O futuro da cidade pode depender desta escolha.",
+      "image": null
+    },
+    {
+      "id": "reclamacao-capitao-alric-thorne-yas-afur",
+      "name": "Capitão Alric Thorne Faz Queixa Formal Contra Aventureiros nas Docas de Yas'Afur",
+      "date": null,
+      "tags": [
+        "comércio marítimo",
+        "piratas",
+        "conflito",
+        "aventureiros",
+        "Yas'Afur"
+      ],
+      "summary": "O veterano Capitão Alric Thorne apresentou uma reclamação formal nas docas de Yas'Afur contra um grupo de aventureiros que alegadamente causou tumulto durante uma viagem para Cragwall. Os aventureiros da Guilda de Ernesto Garza foram adicionados a uma lista negra local após o incidente.",
+      "content": "Yas'Afur assiste a mais um episódio de tensão no alto mar. Desta vez, o veterano Capitão Alric Thorne, conhecido por ter sobrevivido a inúmeras emboscadas piratas, fez uma queixa formal nas docas contra um grupo de aventureiros que alegadamente causou tumulto durante uma viagem para Cragwall.\n\nSegundo o próprio capitão, os aventureiros exigiram passagem gratuita e ameaçaram-no várias vezes, forçando-o a aceitar um acordo desfavorável. Quando um ataque pirata ocorreu no mar aberto, a sua tripulação infiltrada revelou-se aliada dos famosos Piratas Táticos sob a bandeira de Morganna \"Dama Tormenta\" Voss. Perante a situação, Alric fez o que qualquer capitão faria para salvaguardar as vidas a bordo: seguiu as ordens dos piratas e entregou metade da carga.\n\nNo entanto, em vez de reconhecerem a gravidade da situação, os aventureiros limitaram-se a chantagens e recusaram-se a colaborar, com um deles insistindo que deveria ser reembolsado pelo custo da viagem. \"Nenhuma carga vale mais do que uma vida\", afirma o Capitão Alric, indignado com o comportamento do grupo.\n\nFace aos acontecimentos, os aventureiros da Guilda de Ernesto Garza foram adicionados a uma lista negra nas docas de Yas'Afur. O Capitão Alric declara: \"Nem por 60 moedas de ouro os levo para o outro lado. Que sirva de aviso aos outros capitães.\"",
+      "image": null
+    },
+    {
+      "id": "frescas-de-talset",
+      "name": "Frescas de Talset",
+      "date": null,
+      "tags": [
+        "homicídio",
+        "contrabando",
+        "baile",
+        "negócios",
+        "Talset"
+      ],
+      "summary": "Talset vive dias agitados com o homicídio do contrabandista Joras Humas nas docas, um misterioso baile de máscaras na mansão restaurada e a expansão contínua do património do jovem empresário Joãozinho.",
+      "content": "As notícias de Talset trazem movimentos importantes na cidade. Joras Humas, conhecido contrabandista que alegadamente vendia imigrantes ao Lord Teófilo, foi encontrado morto nas docas de Talset. O cenário do crime indica que o homicídio ocorreu na noite anterior, com sinais de luta intensa e sangue espalhado por toda a área. As evidências sugerem que o assassino foi forçado a fugir precipitadamente após confronto acalorado. As autoridades locais investigam, mas sem grande empenho, considerando o acto quase um favor prestado.\n\nNa mansão antiga de Talset, um misterioso e influente proprietário restaurou o imóvel e realizou um grande baile de máscaras que reuniu quase toda a nobreza e personalidades da cidade. Rumores afirmam que Joãozinho ganhou 2000 peças de ouro numa aposta envolvendo um rato, enquanto más línguas sugerem que o evento foi marcado por comportamentos ainda mais escancarados.\n\nEntretanto, o jovem empresário Joãozinho continua a expandir o seu património através de decisões de investimento pouco ortodoxas, adquirindo dois terrenos desprezados pelos outros no leilão municipal. A sua trajectória de sucesso nos negócios impressiona observadores que se questionam sobre até onde este jovem ambicioso chegará.",
+      "image": null
+    },
+    {
+      "id": "escandalo-lorde-teofilo-morto-bruxas-demonios",
+      "name": "Escândalo! Lorde Teófilo morto por estar metido com bruxas e demónios",
+      "date": null,
+      "tags": [
+        "escândalo",
+        "morte",
+        "bruxaria",
+        "dividas",
+        "aventureiros"
+      ],
+      "summary": "Lorde Teófilo foi morto pelos aventureiros de Ernesto Garza após se envolver com bruxas e demónios para contornar as suas dívidas. A sua viúva Paulinha vendeu a quinta a Lorde Divalva, o maior credor, e conseguiu anular o casamento por justa causa.",
+      "content": "As matinais de Talset revelam um escândalo de proporções assombrosas na quinta de Lorde Teófilo. O nobre sucumbiu às mãos dos aventureiros de Ernesto Garza depois de se envolver num negócio obscuro com bruxas e demónios, na tentativa desesperada de fugir às suas avultadas dívidas.\n\nSegundo testemunhas, Lorde Teófilo estava endividado até ao pescoço e perdeu completamente a cabeça, recorrendo aos serviços de uma bruxa demoníaca que encantou todos os seus trabalhadores. Um dos trabalhadores da quinta, ainda traumatizado pelos eventos, confessou repetidamente: \"Trabalho feliz é uma mentira!\"\n\nDocumentos descobertos no escritório de Teófilo provam que o nobre havia planeado assassinar Lorde Divalva para não ter de pagar a sua dívida. Os trabalhadores e a viúva Paulinha testemunharam todos os eventos macabros que ocorreram na propriedade.\n\nPaulinha, a recente viuva, conseguiu anular o seu casamento com Teófilo por justa causa. Numa ação estratégica, negociou e vendeu a quinta a Lorde Divalva, que era o maior credor do defunto. Apesar do luto, Paulinha afirma estar de peito erguido e pronta a seguir em frente com a sua vida.",
+      "image": null
+    },
+    {
+      "id": "feiticeiro-de-gelo-rouba-gema-magica-em-lupu",
+      "name": "Feiticeiro de Gelo rouba Gema de Kagal em Lupu",
+      "date": null,
+      "tags": [
+        "roubo",
+        "magia",
+        "Lupu",
+        "recompensa",
+        "crime"
+      ],
+      "summary": "Um feiticeiro de gelo invadiu Lupu e roubou a valiosa Gema de Kagal de um vendedor, deixando a praça congelada. Lorde Merdarius oferece uma grande recompensa pela recuperação da gema ou informações sobre o paradeiro do criminoso conhecido como Ledochu.",
+      "content": "Um feiticeiro de gelo conseguiu entrar em Lupu sem despertar a atenção dos guardas, utilizando um passe de visitante falsificado ou legítimo. Uma vez dentro da cidade, atacou um vendedor de gemas mágicas e roubou-lhe a famosa Gema de Kagal, deixando a praça completamente congelada e diversos cidadãos imobilizados pelo frio extremo.\n\nQuando Lorde Merdarius chegou ao local para prestar auxílio, o malfeitor já havia desaparecido. O senhor demonstrou a sua magnanimidade ao usar uma das suas famosas descargas quentinhas para descongelar os cidadãos afetados, permitindo a sua rápida recuperação.\n\nAo descobrir não apenas que a Gema de Kagal tinha sido roubada, mas também que estava a ser vendida na praça pública, Lorde Merdarius entrou em fúria. Confirmou que a gema possui um valor de mercado superior a 1.000 peças de ouro e detém poderes mágicos significativos. O vendedor foi imediatamente encarcerado nos calabouços da prisão sob o castelo.\n\nLorde Merdarius agora oferece uma generosa recompensa pelo retorno da gema perdida e concede uma rara audiência a qualquer indivíduo que apresente informações verdadeiras sobre o paradeiro da Gema de Kagal ou sobre o feiticeiro criminoso conhecido como Ledochu.",
+      "image": null
+    },
+    {
+      "id": "rapidon-morto-guilda-magos-investigacao",
+      "name": "Rapidon Morto! Guilda de Magos Intensifica Investigação",
+      "date": null,
+      "tags": [
+        "assassinato",
+        "magia",
+        "mistério",
+        "Yas'afur",
+        "crime"
+      ],
+      "summary": "Rapidon, o mago controverso de Yas'afur que aguardava julgamento, foi encontrado morto nos seus aposentos com um único golpe preciso no pescoço. A Guilda de Magos intensifica a investigação para desvendar se foi assassinato profissional, vingança ou algo ainda mais obscuro.",
+      "content": "O inesperado aconteceu. Rapidon, o controverso mago de Yas'afur que aguardava julgamento após os escândalos recentes, foi encontrado morto nos seus aposentos. Sem sinais de luta. Sem vestígios de magia. Apenas um único golpe limpo no pescoço, preciso e letal.\n\nA Guilda de Magos foi apanhada de surpresa e agora vê-se forçada a lidar com mais perguntas do que respostas. Os primeiros relatos apontam para um crime discreto e profissional. Não houve gritos. Não houve resistência. O corpo de Rapidon foi encontrado deitado no chão frio, com uma pequena poça de sangue ao redor do pescoço.\n\nOs pertences do mago estão agora sob investigação, na esperança de encontrar pistas sobre possíveis inimigos ou motivações ocultas. As suspeitas apontam para vários cenários: seriam as prostitutas que o acusaram? Algum político influente que o queria fora do caminho? Ou, pior ainda, será que Rapidon descobriu algo que não devia?\n\nEm comunicado, a Guilda de Magos expressou o seu pesar pela morte de um dos seus membros: \"Embora envolto em controvérsias nos últimos tempos, Rapidon foi um grande estudioso e um dos magos mais promissores da nossa geração. A sua morte é uma grande perda, e não descansaremos até descobrir a verdade.\"\n\nA segurança da Guilda também está sob escrutínio. Como foi possível alguém entrar nos aposentos de Rapidon e assassiná-lo sem deixar rasto? A Guilda de Magos organizará um funeral em homenagem a Rapidon, convidando amigos e aliados a prestarem as suas condolências. Enquanto isso, os sussurros correm pelas ruas sobre o que sabia Rapidon e quem o quis silenciar.",
+      "image": null
+    },
+    {
+      "id": "surdinus-detido-greve-limpadores",
+      "name": "Surdinus Finalmente Detido; Greve na Guilda dos Limpadores",
+      "date": null,
+      "tags": [
+        "aventureiros",
+        "conflito",
+        "guilda",
+        "Yas'afur",
+        "protesto"
+      ],
+      "summary": "Surdinus foi finalmente derrotado por aventureiros da guilda de Ernesto Garza, após tentar cometer um massacre no Grande Festival de Bardos de Yas'afur. A morte de um membro da Guilda dos Limpadores de Aventuras, ocasionada por um mimic deixado vivo no teatro, desencadeou uma greve de protesto contra os aventureiros.",
+      "content": "Após ser impedido de cometer um massacre durante o Grande Festival de Bardos de Yas'afur e sobreviver a uma tentativa de assassinato, Surdinus foi finalmente derrotado por aventureiros da guilda de Ernesto Garza.\n\nContudo, a vitória não vem sem consequências. Um membro da Guilda dos Limpadores de Aventuras foi tragicamente morto por um mimic que permanecia vivo no teatro de Yas'afur. Em resposta, o restante da guilda recusa-se a continuar os trabalhos até que o local seja completamente limpo dos mimics remanescentes.\n\nVassarelos Baldão, líder da guilda, expressou publicamente o descontentamento: \"Sempre que há merda, é por causa desses aventureiros da guilda de Ernesto Garza. Eles deixam corpos para trás sem nada para a gente botar no bolso, e há uns que nem cadáveres deixam! Agora começaram a deixar monstros vivos? É incrível! Eles que limpem essa merda, porque nós não vamos limpar.\"\n\nResta saber quanto tempo durará esta greve.",
+      "image": null
+    },
+    {
+      "id": "assassino-infiltrado-palacio-merdarius",
+      "name": "Assassino infiltra-se no Palácio de Merdarius em Lupu",
+      "date": null,
+      "tags": [
+        "segurança",
+        "palácio",
+        "Merdarius",
+        "espionagem",
+        "purga"
+      ],
+      "summary": "Um espião ou assassino conseguiu infiltrar-se no quarto real do lord Merdarius em Lupu, sendo eliminado pelo próprio lord. Em resposta, Merdarius reforçou significativamente a segurança do palácio e criou uma guarda pessoal de elite denominada os Merdinas.",
+      "content": "Um espião ou assassino conseguiu infiltrar-se com sucesso no quarto real do lord Merdarius em Lupu. Felizmente, o lord Merdarius tratou do assunto pessoalmente, consumindo o infiltrador.\n\nEm resposta a este incidente de segurança, lord Merdarius mandou reforçar imediatamente a segurança do palácio, procedendo a uma purga entre o staff. Quatro elementos foram executados até à morte durante este processo. Merdarius criou uma guarda pessoal de elite conhecida como os Merdinas, que descobriu uma passagem secreta aberta perto das antigas minas de carvão, a qual foi posteriormente selada.\n\nAo tomar conhecimento das consequências da purga, lord Merdarius pediu desculpas às famílias dos purgados, oferecendo 15 moedas de ouro a cada uma como compensação pelo incidente.",
+      "image": null
+    },
+    {
+      "id": "museu-de-talset-assaltado-ovo-magico-desaparecido",
+      "name": "Museu de Talset assaltado: Ovo mágico desaparecido",
+      "date": null,
+      "tags": [
+        "crime",
+        "roubo",
+        "mistério",
+        "investigação",
+        "museu"
+      ],
+      "summary": "O Museu de Talset foi assaltado e um ovo mágico foi roubado. As autoridades investigam o caso, com o carpinteiro Gideon como principal suspeito.",
+      "content": "Segundo Gui, proprietário do Museu de Talset, o estabelecimento foi vítima de roubo na noite passada. O objecto desaparecido é um ovo mágico de grande valor, que estava guardado no escritório privado de Gui.\n\nAs autoridades iniciaram uma investigação imediata. Até ao momento, os indícios apontam para um carpinteiro de nome Gideon, que foi a última pessoa a ter acesso ao escritório de Gui antes do desaparecimento do ovo.\n\nNo local do crime foram encontradas ball bearings espalhadas pelo chão, que causaram a queda de Gui. O proprietário do museu sofreu uma lesão na cabeça e permaneceu inconsciente durante aproximadamente uma hora após o incidente.\n\nO detetive Jack Monroe, responsável pelo caso, oferece uma recompensa generosa a quem fornecer informações que levem à recuperação do ovo mágico.",
+      "image": null
+    },
+    {
+      "id": "contrabandistas-fogem-de-trand",
+      "name": "Contrabandistas fogem de Trand",
+      "date": null,
+      "tags": [
+        "contrabando",
+        "crime",
+        "Trand",
+        "procurados",
+        "autoridades"
+      ],
+      "summary": "Uma caravana clandestina foi intercetada em Trand pela Guarda local e aventureiros da Guilda de Ernesto Garza, mas os contrabandistas conseguiram escapar durante uma mudança de turnos. Dois mercadores procurados, conhecidos como os \"Mais Ricas\", têm agora cartazes de procurado espalhados pela cidade.",
+      "content": "O Capitão da Guarda de Trand conseguiu parar uma caravana clandestina que transportava dois mercadores procurados na cidade por falsificação de documentos e furto de propriedades. No local, encontravam-se também aventureiros da Guilda de Ernesto Garza, igualmente empenhados em apanhar os contrabandistas.\n\nOs suspeitos, conhecidos como os \"Mais Ricas\", eram familiares com as rendondesas e durante meses conseguiram evadir-se às autoridades locais. Contudo, durante uma mudança de turnos, aproveitaram a oportunidade para escapar novamente.\n\nA Guarda de Trand emitiu cartazes de procurado pela cidade:\n- Truta \"Mais Ricas\", o cabeçalha: 250 PO de recompensa\n- Ta Calade \"Mais Ricas\", o irmão: 150 PO de recompensa",
+      "image": null
+    },
+    {
+      "id": "dono-taverna-mercado-yas-afur-morre-acidente",
+      "name": "Proprietário da Taverna \"O Mercado\" em Yas'afur Falece em Acidente Misterioso",
+      "date": null,
+      "tags": [
+        "morte",
+        "mistério",
+        "yas'afur",
+        "magia",
+        "ressurreição"
+      ],
+      "summary": "Mercário, dono da taverna \"O Mercado\" em Yas'afur, morreu ao sofrer uma queda de uma cadeira que partiu, resultando numa fractura fatal do pescoço. O padre Jaafi conseguiu ressuscitá-lo milagrosamente.",
+      "content": "Mercário, proprietário da famosa taverna \"O Mercado\" em Yas'afur, faleceu em circunstâncias estranhas e misteriosas. O incidente ocorreu quando o comerciante se sentou numa cadeira que cedeu abruptamente, quebrando uma das suas pernas. A queda resultou numa fractura fatal do pescoço, sendo ainda mais intrigante o facto de ter sido relatado um corte limpo e preciso na sua garganta — detalhes que levantam questões sobre a natureza verdadeira do acidente. Felizmente, o padre Jaafi conseguiu intervir a tempo e, graças aos seus poderes divinos, trouxe Mercário de volta ao mundo dos vivos, restaurando-o à vida.",
+      "image": null
+    },
+    {
+      "id": "dragao-negro-adulto-avistado-merinfor",
+      "name": "Dragão Negro Adulto Avistado nas Montanhas de Merinfor — Dez Mortos Confirmados",
+      "date": null,
+      "tags": [
+        "dragões",
+        "catástrofe",
+        "Merinfor",
+        "perigo",
+        "monstros"
+      ],
+      "summary": "Um dragão negro adulto foi avistado emergindo das montanhas de Merinfor, causando destruição generalizada e pelo menos dez mortes. Múltiplas testemunhas relatam um comportamento desengonçado e descontrolado do creature, que escorria ácido e destruía tudo à sua passagem.",
+      "content": "Múltiplas testemunhas na região de Merinfor e viajantes das estradas perto das montanhas avistaram um dragão negro adulto desajeitado mas perigoso, que deixou um rasto de destruição devastadora.\n\nUm aldeão que vivia nas montanhas de Merinfor relata ter visto o dragão sobrevoar a sua aldeia, libertando ácido por todo o lado. A região ficou escurecida por uma neblina verde tóxica. O homem conseguiu esconder-se numa mina, mas quando saiu para procurar o seu vizinho Jaquim, encontrou a casa deste completamente carbonizada pelo ácido, com toda a família dentro.\n\nUm aventureiro da guilda This is the Way, que se encontrava a escalar as montanhas com a sua equipa, descreveu um encontro traumático. O dragão surgiu do interior das montanhas com um voo errático e descontrolado, batendo contra várias encostas. Quando se aproximou da montanha onde estavam, o creature as esmagou contra a rocha. O aventureiro sentia o tremor da montanha e gotas de ácido nas suas costas. Todos os seus companheiros foram mortos neste encontro.\n\nViajantes que viajavam pelas estradas de Talset para Ashton também testemunharam o evento, confirmando que o dragão apresentava comportamento errático, voava descontrolado batendo contra as montanhas enquanto escorria ácido por todo lado, antes de regressar para o interior das serras.\n\nAs grandes cidades do continente Gemeus estão profundamente preocupadas. Tem havido múltiplos avistamentos de dragões diversos — Fatalis, Merdarius e outras criaturas sem nome identificado. As autoridades questionam-se: de onde vieram estes dragões? Estariam adormecidos há séculos? Representam uma ameaça existencial para a soberania das cidades do continente?",
+      "image": "https://cdn.discordapp.com/attachments/1222163134568202300/1371947020813733959/Black__White_Classic_Christmas_Newsletter.jpg?ex=69ae847b&is=69ad32fb&hm=41344575ba3d7f0f176c6f729d3d2bc33ae3888399cf43462afc19492ef6ded1&"
+    },
+    {
+      "id": "ataque-polvos-controladores-gemeus",
+      "name": "Polvos Controladores de Mentes Atacam nos Mares de Gemeus",
+      "date": null,
+      "tags": [
+        "mares",
+        "ameaça",
+        "polvos",
+        "magia",
+        "aventureiros"
+      ],
+      "summary": "A Guilda de Limpadores de Aventuras foi atacada por polvos que controlam a mente nos mares de Gemeus. A tripulação dos Marganlhães identificou o problema e coordenou aventureiros para resolvê-lo, recebendo recompensas pela sua ação.",
+      "content": "Uma grave ameaça surgiu nos mares de Gemeus quando a Guilda de Limpadores de Aventuras foi atacada por polvos possuidores de capacidades de controlo mental. O navio ficou sem dar sinais de vida durante vários dias até que a tripulação do navio dos Marganlhães descobriu o incidente. Foram os Marganlhães quem identificou a situação, sinalizou o perigo e indicou a um grupo de aventureiros casuais onde e como resolver o problema. Graças aos seus esforços coordenados, a ameaça foi neutralizada.\n\nA Guilda de Limpadores de Aventuras expressou a sua gratidão tanto aos Marganlhães como aos aventureiros envolvidos, tendo recompensado ambas as partes generosamente.\n\nO mago lendário Guilles Durant, que tinha permanecido desaparecido e é membro ausente da Guilda de Magos, aproveitou para criticar duramente a Guilda por não ter investigado as consequências do desaparecimento do MyMyC'aptain. Este era um predador natural destas ameaças e a sua perda deixa um vazio significativo. Durant alerta que muito trabalho ainda falta ser realizado e que outras ameaças do fundo do mar poderão surgir num futuro próximo.\n\nPerante estas preocupações, Yas'Afur e Cragwall contrataram navios mercenários para patrulhar os mares enquanto a situação é analisada e estudada. A notícia foi trazida pela StriderXe.",
+      "image": null
+    },
+    {
+      "id": "noticias-da-regiao-talset",
+      "name": "Noticias da Região: Incêndios, Gnolls e Brincadeiras",
+      "date": null,
+      "tags": [
+        "culto",
+        "incêndios",
+        "gnolls",
+        "talset",
+        "segurança"
+      ],
+      "summary": "A região de Talset enfrenta uma onda de incêndios perpetrados por um culto de incendiários, com mais um ataque registado na floresta do Prado da Lua. Simultaneamente, avistamentos de Gnolls aumentam na mesma zona, deixando a população local armada e inquieta.",
+      "content": "Noticias da região trazem situações preocupantes e curiosidades locais.\n\nOs incêndios continuam a assolar a região de Talset, com o culto de incendiários a prosseguir com os seus ataques. Foi registado mais um incêndio devastador na floresta do Prado da Lua, resultando na morte de 8 indivíduos e 5 animais. Os corpos carbonizados dos indivíduos foram encontrados com foices na mão, levando as autoridades a concluir que as vítimas eram agricultores da região.\n\nNuma nota mais ligeira, uma nova brincadeira de crianças tornou-se viral em Yas'Afur. A diversão consiste em gritar \"Moisés a vassouras\", rir-se e fugir. A origem desta brincadeira permanece desconhecida.\n\nPor fim, avistamentos de Gnolls na floresta do Prado da Lua têm-se tornado mais frequentes, gerando grande inquietação entre a população local. Os habitantes da região estão a armar-se com tochas e ancinhos, preparando-se para possíveis confrontos.",
+      "image": null
+    },
+    {
+      "id": "trand-sobressaltada-avistamentos-criminosos",
+      "name": "Trand Sobressaltada com Avistamentos de Criminosos",
+      "date": null,
+      "tags": [
+        "crime",
+        "segurança",
+        "Trand",
+        "criminosos",
+        "autoridades"
+      ],
+      "summary": "O perigoso assassino Romálio foi avistado em Trand na companhia de Jotta Fino e de um indivíduo misterioso, gerando preocupação entre a população local. As autoridades chegaram tarde demais ao local do avistamento na taverna A Jeca.",
+      "content": "A cidade de Trand encontra-se em alerta após o avistamento de três indivíduos suspeitos na taverna A Jeca. O perigoso assassino Romálio foi visto acompanhado pelo burlão profissional Jotta Fino e por um terceiro individuo anónimo cujas características físicas despertaram atenção — tinha a cara em carne viva e osso. Clientes da taberna comunicaram imediatamente o avistamento às autoridades locais, mas estas chegaram ao local demasiado tarde para intercepção. A população de Trand encontra-se receosa quanto às possíveis consequências desta parceria de criminosos para a estabilidade e segurança da cidade.",
+      "image": null
+    },
+    {
+      "id": "ameaca-crescente-em-talset",
+      "name": "Alerta: Ameaça Crescente na Região de Talset",
+      "date": null,
+      "tags": [
+        "desastres",
+        "mistério",
+        "Talset",
+        "criação de gado",
+        "fenómenos sobrenaturais"
+      ],
+      "summary": "A região de Talset enfrenta uma ameaça crescente caracterizada pelo desaparecimento de caravanas, morte de gado e fenómenos climáticos anómalos. Testemunhas relatam avistamentos de criaturas estranhas e manifestações de energia desconhecida.",
+      "content": "A região de Talset está sob alerta devido a uma crescente ameaça que afecta múltiplos aspectos da vida local. As caravanas, especialmente as provenientes do sul, deixaram de chegar ao destino, interrompendo acordos comerciais estabelecidos.\n\nRelatos alarmantes chegam da zona rural, onde criadores de gado denunciam o desaparecimento e morte de suas reses. Várias vacas foram encontradas \"carbonizadas\" ou simplesmente desaparecidas, com testemunhas jurando terem visto uma delas a voar pelo ar.\n\nOs moradores locais também reportam fenómenos perturbadores. Um pastor cego da área afirma ter ouvido \"o som de um trovão… mas o céu estava limpo\". Uma criança testemunhou o que descreve como \"uma serpente gigante no céu com olhos brilhantes\".\n\nAs condições climáticas apresentam alterações significativas. Apesar das temperaturas elevadas destes últimos dias, registam-se apagões breves, fenómenos de energia estática intensa e vibração de objectos metálicos. O mar encontra-se igualmente instável, sugerindo perturbações de larga escala.",
+      "image": null
+    },
+    {
+      "id": "alquimista-assassinado-em-trand",
+      "name": "Alquimista assassinado em Trand",
+      "date": null,
+      "tags": [
+        "assassínio",
+        "alquimia",
+        "Trand",
+        "crime",
+        "veneno"
+      ],
+      "summary": "O renomado alquimista Vergif, especialista na produção de venenos, foi encontrado morto à facada em Trand. A guarda da cidade recebeu uma carta anónima denunciando um possível suspeito, deixando a população em pânico.",
+      "content": "O famoso alquimista Vergif, especializado na produção de venenos, foi assassinado à facada em circunstâncias ainda por esclarecer. A guarda de Trand afirma ter recebido uma carta anónima a denunciar um possível suspeito pela morte do alquimista, embora a investigação se encontre ainda em curso.\n\nA população de Trand está em profundo choque com o acontecimento. Vergif era o principal fornecedor de veneno para combate aos roedores que infestam a região, e desde a sua morte, a população de ratos tem vindo a crescer de forma alarmante. Os cidadãos agora enfrentam dificuldades em encontrar uma alternativa viável para controlar a praga de roedores que aterroriza os celeiros e habitações da cidade.",
+      "image": null
+    },
+    {
+      "id": "heroi-de-merinfor-e-yasafur-caiu-em-combate",
+      "name": "Herói de Merinfor e Yas'afur Caiu em Combate",
+      "date": null,
+      "tags": [
+        "morte",
+        "herói",
+        "guilda",
+        "Raziel",
+        "luto"
+      ],
+      "summary": "Raziel, um dos maiores heróis do continente e membro da guilda de Ernesto Garza, faleceu em combate pela liberdade. O seu legado inclui a salvação de Merinfor de uma infiltração de doppelgängers e a destruição de um navio mimic que aterrorizava os mares.",
+      "content": "De acordo com uma carta anónima recebida na redação, Raziel, um dos maiores heróis deste continente e membro da guilda de Ernesto Garza, morreu numa batalha pela liberdade do nosso mundo. Os detalhes da sua morte permanecem ainda desconhecidos, mas a comunidade lamenta a perda deste grande protetor, cujos feitos o tornaram lendário.\n\nRaziel ficou imortalizado na memória dos povos de Merinfor e Yas'afur por ter salvo Merinfor de uma perigosa infiltração de doppelgängers e por ter restabelecido a paz nos mares ao destruir um navio mimic que representava uma ameaça constante. O seu corpo receberá honras de herói durante o enterro que ocorrerá na guilda de Ernesto Garza.\n\nA comunidade Striderx é chamada a fazer luto pela sua memória, mas mantendo viva a chama da luta que Raziel defendeu até ao fim.",
+      "image": null
+    },
+    {
+      "id": "gigantes-invadem-great-forest",
+      "name": "Gigantes Invadem a Great Forest — Vila de Asura Devastada",
+      "date": null,
+      "tags": [
+        "desastre",
+        "Great Forest",
+        "gigantes",
+        "invasão",
+        "Asura"
+      ],
+      "summary": "Um fenómeno estranho assolou a Great Forest nos últimos dias, com o surgimento de imensos gigantes que devastaram a região. A vila de Asura foi completamente destruída, e as equipas de resgate não encontraram sobreviventes até ao momento.",
+      "content": "De acordo com as informações obtidas, um fenómeno estranho assolou a Great Forest nos últimos dias. Aparentemente surgiram imensos gigantes na floresta, causando uma invasão de proporções cataclísmicas. Esta calamidade não poupou ninguém — fauna, flora e população sofreram as consequências devastadoras do ataque.\n\nA vila de Asura não sobreviveu a este assalto. As equipas de resgate estão à procura de sobreviventes, mas até ao momento sem qualquer sucesso. Não foram encontrados Elfos, Drows, Erufu ou Moebius entre os destroços. As autoridades aguardam por mais atualizações nos próximos dias enquanto os esforços de salvamento continuam.",
+      "image": null
+    },
+    {
+      "id": "epidemia-continente-gemeus",
+      "name": "Epidemia Misteriosa Atinge o Continente Gemeus",
+      "date": null,
+      "tags": [
+        "doença",
+        "epidemia",
+        "saúde pública",
+        "Gemeus",
+        "crise"
+      ],
+      "summary": "Uma doença desconhecida está a propagar-se pelo continente Gemeus, causando febre, tosse compulsiva e morte em casos graves. Suspeita-se que a infecção tenha origem num barco proveniente de Cragwall.",
+      "content": "Uma epidemia de proporções alarmantes afeta actualmente o continente Gemeus. A doença manifesta-se através de febre persistente e uma tosse compulsiva debilitante, que leva à perda de apetite e de peso, podendo culminar na morte dos infectados.\n\nOs mais ilustres médicos e curandeiros do continente uniram-se num esforço conjunto para investigar possíveis tratamentos e compreender melhor a natureza deste mal desconhecido. As autoridades suspeitam que a doença foi trazida à costa por um barco originário de Cragwall, cujos passageiros estariam infetados aquando da sua chegada.",
+      "image": null
+    },
+    {
+      "id": "guilda-ernesto-garza-sob-investigacao-talset",
+      "name": "Guilda de Ernesto Garza sob investigação — As últimas de Talset",
+      "date": null,
+      "tags": [
+        "guilda",
+        "conflito",
+        "corrupção",
+        "segurança pública",
+        "Talset"
+      ],
+      "summary": "A Guilda de Ernesto Garza enfrenta crescentes acusações de abuso de poder e corrupção em Talset. Múltiplos relatos denunciam invasões de propriedades, roubo de mercadorias, agressão a civis e negligência que resultou na morte de dois membros da guarda.",
+      "content": "A Guilda de Ernesto Garza tornou-se alvo de investigação em Talset, com múltiplas acusações de abuso de autoridade e conduta criminosa.\n\nAuglus, um feiticeiro que se mudou para Talset com o objectivo de cultivar frutas frescas e exóticas, relata ter sido expulso de casa, roubado e drogado pelos aventureiros da guilda. Furioso, promete vingança caso os membros apareçam em Yas'Afur.\n\nRogério, o padeiro conhecido por empregar indiscriminadamente e proteger os negócios locais, denuncia duas invasões à sua padaria. Os aventureiros teriam assaltado os seus trabalhadores e impedido a construção de habitações no bairro de lata. Rogério acusa a guilda de ganância e covardia, comparando-os aos Capuchinhos Azuis e descrevendo-os como um «cancro para a sociedade». Alega ainda que a presença da guilda trouxe custos financeiros que forçarão cortes salariais na comunidade.\n\nO incidente mais grave envolve dois jovens membros da guarda — os Capuchinhos Azuis — que desapareceram durante a sua ronda. Um trabalhador do padeiro testemunhou dois ursos a devorarem os guardas, alegando ter visto dois membros da Guilda de Ernesto presentes no local sem intervir. O testemunho foi dado anonimamente, com o trabalhador a expressar preocupação pelos riscos que a guilda representa para as famílias da comunidade.\n\nEm resposta, o Comandante da guarda confirmou a morte dos dois jovens e introduziu duas novas leis: a Lei 2308-01, que proíbe circular na cidade com animais sem trela, e a Lei 2308-02, que autoriza a guarda a inspecionar qualquer animal e certificar a sua obediência.",
+      "image": null
+    },
+    {
+      "id": "tensoes-entre-talset-e-nyavembre",
+      "name": "Morte de Membro da Guila Intensifica Tensões entre Talset e Nyavembre",
+      "date": null,
+      "tags": [
+        "conflito diplomático",
+        "morte",
+        "investigação",
+        "Talset",
+        "Nyavembre"
+      ],
+      "summary": "A morte de um cidadão de Nyavembre, membro da guila, gerou tensões diplomáticas entre Talset e Nyavembre. O Governador Lionardo de Talset iniciou uma investigação prioritária sobre o incidente.",
+      "content": "Uma carta alarmante foi recebida relatando a morte de um membro da guila que era cidadão de Nyavembre. Os Nyavembreanos exigem respostas sobre as circunstâncias do incidente. O Governador de Talset, Lionardo, confirmou que já contactou Ernesto e ordenou que o assunto seja tratado como prioridade máxima. A investigação encontra-se em andamento e espera-se que possa esclarecer as causas da morte e prevenir um agravamento das relações diplomáticas entre as duas cidades.",
+      "image": null
+    },
+    {
+      "id": "aventureiros-garza-presos-talset",
+      "name": "Três Aventureiros de Ernesto Garza Presos em Talset",
+      "date": null,
+      "tags": [
+        "conflito",
+        "autoridades",
+        "aventureiros",
+        "desordem",
+        "Talset"
+      ],
+      "summary": "Três aventureiros da guilda de Ernesto Garza foram detidos em Talset após ameaçarem as autoridades e ferirem gravemente um dos Capuchinhos Azuis. O líder da guilda pagou uma multa de 155 GP para evitar consequências maiores.",
+      "content": "Segundo relatos de testemunhas em Talset, três aventureiros filiados à guilda de Ernesto Garza foram multados e presos após incidente grave envolvendo as autoridades locais. Os aventureiros teriam ameaçado os representantes da lei e um deles feriu gravemente um membro dos Capuchinhos Azuis. Quando se recusaram a colaborar com as autoridades e a pagar as multas impostas, o líder da guilda de Ernesto Garza interveio imediatamente, pagando uma multa que ascendeu aos 155 GP. Os três aventureiros encontram-se actualmente detidos na esquadra local por desordem, ameaças contra a autoridade e agressão. Relata-se que no caminho para a esquadra espancaram três bug-bears. As autoridades de Talset advertem a população sobre o comportamento perigoso destes indivíduos.",
+      "image": null
+    },
+    {
+      "id": "alerta-talset-patrulha-capuchinhos-azuis",
+      "name": "Alerta em Talset: Patrulha de Capuchinhos Azuis Desaparecida",
+      "date": null,
+      "tags": [
+        "desaparecimento",
+        "Talset",
+        "Capuchinhos Azuis",
+        "segurança",
+        "mar bravo"
+      ],
+      "summary": "Uma patrulha de Capuchinhos Azuis desapareceu a sudeste de Talset, levantando preocupações sobre a segurança da região. As autoridades aconselham os locais a manter distância da área devido às condições climáticas instáveis e ao mar agitado.",
+      "content": "As autoridades de Talset lançam um alerta urgente: uma patrulha de Capuchinhos Azuis desapareceu a sudeste da cidade. Os residentes são instados a manter distância da zona afectada. As condições meteorológicas na região mostram-se instáveis e o mar encontra-se particularmente bravo, dificultando eventuais operações de busca e resgate. Permaneça atento a futuras informações.",
+      "image": null
+    },
+    {
+      "id": "padre-jaa-fi-abdica-e-gerepetias-assume-lideranca",
+      "name": "Padre Jaa'fi abdica e Gerepetias assume liderança da Igreja de Yas'afur",
+      "date": null,
+      "tags": [
+        "religião",
+        "Igreja de Yas'afur",
+        "liderança",
+        "mudança",
+        "controvérsia"
+      ],
+      "summary": "O Padre Jaa'fi abdicou do cargo na Igreja de Yas'afur e exilou-se para lugar desconhecido, deixando o cargo nas mãos de Gerepetias, anteriormente clérigo. Contudo, a primeira missa do novo líder foi marcada por nervosismo e dificuldades em dominar as escrituras.",
+      "content": "O Padre Jaa'fi, líder da Igreja de Yas'afur, abdicou do seu cargo e exilou-se para um local incerto, deixando atrás de si vários rumores sobre as razões da sua partida. A sua saída criou um vazio na liderança religiosa que foi preencha por Gerepetias, até então um dos clérigos da instituição.\n\nGerepetias apresentou-se ao público com um discurso conciliador, focado no futuro e na aproximação da Igreja junto do povo, prometendo uma nova era para a instituição religiosa. No entanto, a sua primeira missa como líder não correspondeu às expectativas. O novo padre mostrou-se visivelmente nervoso durante a cerimónia, revelando dificuldades em dominar as escrituras de memória e demorando vários minutos a localizar as páginas corretas nos textos sagrados, situação que levantou questões sobre a sua preparação para o cargo.",
+      "image": null
+    },
+    {
+      "id": "misterio-de-joao-guilds-contratadas",
+      "name": "Mistério do João: Guilds Contratadas em Toda a Spira",
+      "date": null,
+      "tags": [
+        "mistério",
+        "guilds",
+        "procura",
+        "recompensa",
+        "investigação"
+      ],
+      "summary": "Rumores apontam que várias Guilds foram contratadas em toda a Spira com a única missão de localizar um indivíduo chamado João. A StriderX oferece recompensas generosas em ouro por informações ou oportunidades de entrevista sobre este misterioso personagem.",
+      "content": "Corre o boato por toda a Spira de que múltiplas Guilds foram contratadas na sua totalidade com uma única e específica missão: encontrar uma pessoa de nome João. A verdadeira identidade e importância deste indivíduo permanecem envoltas em mistério. Especula-se se será um grande herói que algum mestre do Mal procura eliminar, ou talvez mais um destes auto-intitulados tiranos que têm surgido nos últimos meses e que alguém de boa vontade deseja neutralizar. A StriderX, entidade por trás desta campanha de procura, demonstra interesse genuíno em obter informações sobre o tal João, oferecendo recompensas substanciais em peso de ouro para quem consiga fornecer pistas valiosas ou facilitar uma entrevista com o alvo.",
+      "image": null
+    },
+    {
+      "id": "tarado-em-talset",
+      "name": "Tarado em Talset",
+      "date": null,
+      "tags": [
+        "crime",
+        "roubo",
+        "Talset",
+        "bugbears",
+        "segurança pública"
+      ],
+      "summary": "Um suspeito de grande compleição, pele azul e aparência peluda assaltou a casa da dona Lutécia em Talset, roubando-lhe roupa interior. As autoridades locais estão em busca do criminoso.",
+      "content": "A respeitadíssima dona Lutécia apanhou um grande susto ao descobrir que um tarado lhe entrou em casa. Segundo o seu relato indignado, tratava-se de um indivíduo grande, alto, de pele azul e meio peludo, que conseguiu entrar na habitação enquanto ela tomava banho. Após cometer o roubo, o suspeito fugiu pela janela, tendo levado consigo roupa interior da vítima.\n\nAs autoridades de Talset já se encontram na procura do responsável. Toninho, o Capuchinho Azul, manifestou a sua indignação perante o incidente, denunciando a onda de assaltos perpetrados por bugbears na região. Os Capuchinhos Azuis comprometeram-se a intensificar a procura e prometem que o criminoso não sairá ileso desta situação.\n\nA população é exortada a reportar qualquer informação relevante aos Capuchinhos Azuis.",
+      "image": null
+    },
+    {
+      "id": "al-bilau-preso",
+      "name": "Farmacêutico Al-Bilau Preso por Crimes em Trand",
+      "date": null,
+      "tags": [
+        "crime",
+        "assassinato",
+        "magia negra",
+        "aventureiros",
+        "Trand"
+      ],
+      "summary": "O farmacêutico Al-Bilau de Trand foi preso após descoberta de seu envolvimento no desaparecimento e assassinato de mais de trinta pessoas. Aventureiros da guilda de Ernesto Garza, contratados por Pruce Payne, conseguiram desmantelar a operação criminosa.",
+      "content": "O farmacêutico Al-Bilau, residente na cidade de Trand, foi preso pelas autoridades após investigação que revelou seu envolvimento no desaparecimento e assassinato de mais de trinta pessoas. De acordo com os relatos oficiais, Al-Bilau procurava um corpo adequado para um seu companheiro que, durante uma tentativa fracassada de transformação em lich, converteu-se numa criatura feita de sangue.\n\nUm grupo de aventureiros pertencente à guilda de Ernesto Garza, contratado por Pruce Payne, realizou investigações que levaram à descoberta dos crimes. Graças à sua intervenção, foi possível impedir novos assassinatos e prender o culpado.",
+      "image": null
+    },
+    {
+      "id": "sport-lupu-e-merdarius-derrotados-talsetense",
+      "name": "Sport Lupu e Merdarius derrotados por 3–0 pelo Talsetense",
+      "date": null,
+      "tags": [
+        "desporto",
+        "competição",
+        "expansão",
+        "Talsetense",
+        "Lupu"
+      ],
+      "summary": "O Talsetense venceu de forma convincente o Sport Lupu e Merdarius por 3–0 em encontro disputado em Lupu, deixando o lorde local irritado. O sucesso do evento e o interesse despertado em outras cidades sugerem que este novo jogo está prestes a expandir-se por toda Spira.",
+      "content": "O Talsetense deslocou-se até Lupu para enfrentar a equipa local, conquistando uma vitória convincente por 3–0 perante o lorde da cidade. A derrota deixou o senhor local particularmente irritado, especialmente por ter perdido uma aposta com Joãozinho, o criador do jogo.\n\nApesar do resultado negativo para os anfitriões, o evento foi amplamente considerado um sucesso. Vários convidados provenientes de outras cidades assistiram ao encontro e demonstraram interesse em formar equipas nas suas próprias regiões.\n\nCorrem rumores de que o lorde Monticorvo, em colaboração com Pruce Payne, está a organizar a formação de uma equipa em Trand. Há também relatos sobre treinos de captação de jogadores no Cartaxo.\n\nTudo indica que este novo desporto está prestes a espalhar-se por toda Spira. Joãozinho, o seu criador, fala até na possibilidade de estabelecer uma liga oficial que possa enquadrar a expansão do jogo.",
+      "image": null
+    },
+    {
+      "id": "capuchinhos-azuis-eliminam-kenkus-talset",
+      "name": "Capuchinhos Azuis eliminam grupo de Kenkus perigosos perto de Talset",
+      "date": null,
+      "tags": [
+        "segurança",
+        "Talset",
+        "Capuchinhos Azuis",
+        "Kenkus",
+        "conflito"
+      ],
+      "summary": "Os Capuchinhos Azuis eliminaram um grupo de Kenkus perigosos que planeava ataques contra Talset. O capitão Arnaldo revelou que os criminosos tinham preparado um ataque devastador envolvendo um owlbear treinado e doenças para eliminar humanoides.",
+      "content": "Segundo relatório do capitão Arnaldo dos Capuchinhos Azuis, um grupo de Kenkus perigosos foi eliminado perto de Talset. Os criminosos vinham roubando os habitantes de Talset e, quando investigados, descobriu-se que tinham planos muito mais sinistros: espalhavam terror e um deles havia treinado um owlbear, preparando um ataque que utilizaria doenças para eliminar humanoides sem penas.\n\nO capitão conseguiu enfrentar os Kenkus a tempo de impedir o ataque. Contudo, a operação não foi isenta de controvérsia: Arnaldo admitiu com lágrimas nos olhos que dois Kenkus foram mortos desnecessariamente quando estavam dispostos a render-se, tendo sido enganado por um Kenku que falava durante o confronto.",
+      "image": null
+    },
+    {
+      "id": "arnaldo-tira-licenca-sabatica",
+      "name": "Arnaldo tira licença sabática após ter sido apanhado a comer um Firbolg",
+      "date": null,
+      "tags": [
+        "escândalo",
+        "capitão arnaldo",
+        "conduta",
+        "política"
+      ],
+      "summary": "O Capitão Arnaldo anunciou afastar-se temporariamente das suas funções após ter sido apanhado a torturar e consumir partes do corpo de um prisioneiro Firbolg. Rumores sugerem que o militar deseja experimentar outras raças que considera \"detestáveis\".",
+      "content": "O Capitão Arnaldo anunciou afastar-se temporariamente das suas funções após ter sido apanhado a torturar e a comer partes do corpo de um prisioneiro Firbolg. Segundo testemunhas, o militar teria previamente consumido um kenku que falava e desejaria experimentar outras raças que considera \"detestáveis que falavam\", começando pelo Firbolg em questão. Os capuchinhos azuis da região aparentam chamar indiscriminadamente a todas as raças maiores \"bugbears\".\n\nAdicionalmente, uma pequenina capelinha dedicada a Solenar abriu em Lupu. Contudo, a inauguração do novo templo foi pouco concorrida, uma vez que praticamente ninguém no local conhece ou venera este deus. A capelinha permaneceu praticamente vazia durante a sua abertura.",
+      "image": null
+    },
+    {
+      "id": "escandalo-em-talset-combates-ilegais",
+      "name": "Escândalo em Talset — Combates Ilegais com Minorias Expostos",
+      "date": null,
+      "tags": [
+        "corrupção",
+        "combates ilegais",
+        "prisões",
+        "racismo",
+        "Talset"
+      ],
+      "summary": "A Guilda de Aventureiros de Ernesto Garza expõe um esquema ilegal de combates e apostas envolvendo prisioneiros de raças minoritárias, orquestrado pelo responsável pela segurança de Talset, Bhadhar Hunthus. As acusações incluem falsificação de relatórios, encobrimento de mortes, corrupção e ligações a organizações racistas.",
+      "content": "Um grande escândalo abala a cidade de Talset após a Guilda de Aventureiros de Ernesto Garza apresentar provas irrefutáveis de um vasto esquema de corrupção e abuso de poder. O principal acusado é Bhadhar Hunthus, responsável pela segurança de Talset.\n\nAs acusações incluem: falsificação de crimes e relatórios de segurança; encobrimento de agressões e homicídios de prisioneiros com manipulação de registos de entrada e saída da prisão; um esquema ilegal de combates e apostas; corrupção passiva envolvendo membros da nobreza local; e incitação ao racismo, incluindo idolatria pelos Capuchinhos Azuis, uma organização racista.\n\nSegundo as investigações, os combates ilegais eram realizados em antigos esgotos de Talset, especificamente numa das maiores fossas da cidade. Os combatentes eram prisioneiros de raças minoritárias, muitos dos quais presos por delitos menores ou completamente infundados. Os \"acidentes\" que frequentemente resultavam em morte ou ferimentos graves entre a população carcerária eram na verdade consequências directas destes combates forçados.",
+      "image": null
+    },
+    {
+      "id": "governador-lionardo-em-apuros",
+      "name": "Governador Lionardo sob escrutínio após escândalo de segurança",
+      "date": null,
+      "tags": [
+        "política",
+        "corrupção",
+        "segurança",
+        "Talset",
+        "capuchinhos azuis"
+      ],
+      "summary": "O Governador Lionardo enfrenta acusações de negligência após a contratação do ex-capuchinho azul Bhadhar Hunthus para a segurança de Talset, que se revelou estar envolvido num esquema de reativação da antiga organização. A fuga de Hunthus e seus aliados deixa a cidade numa situação de incerteza e insegurança.",
+      "content": "O Governador Lionardo tornou-se alvo de críticas após ser identificado como o principal responsável pela contratação do ex-capuchinho azul Bhadhar Hunthus para gerir a segurança da cidade. Acusado de negligência, Lionardo viu vários nobres próximos serem presos por corrupção ativa e apoio ao movimento secreto de Hunthus visando reativar os antigos capuchinhos azuis.\n\nEm resposta, Lionardo afirmou desconhecer a verdadeira natureza de Hunthus e prometeu melhorar a situação. O Governador também anunciou que colocará o combate ao racismo estruturado como prioridade na sua agenda. Contudo, a classe alta de Talset encontra-se dividida: alguns exigem a sua demissão imediata, enquanto outros argumentam que seria extremamente difícil detectar tal conspiração.\n\nCom o colapso do sistema de segurança, a população teme pelo aumento da criminalidade. Lionardo assegurou que centralizará a liderança da segurança num capitão da guarda de confiança, cujo nome será revelado brevemente.\n\nBhadhar Hunthus e os seus mais próximos colaboradores desapareceram. Antes da fuga, suspeita-se que se despiram das fardas e perpetraram um homicídio brutal contra um orc anão, deixando o corpo vestido de capuchinho azul exposto na fonte da praça central — um acto de mensagem cujo significado permanece obscuro.\n\nAdicionalmente, dez por cento da classe trabalhadora de Talset apresentou-se ausente do trabalho, todos com sinais visíveis de conflito corporal. Contudo, não há registos de qualquer distúrbio ou ruído durante a noite anterior nas ruas da cidade.",
+      "image": null
+    },
+    {
+      "id": "piratas-hardy-saqueiam-greyford",
+      "name": "Piratas Hardy saqueiam Greyford",
+      "date": null,
+      "tags": [
+        "piratas",
+        "saque",
+        "comércio",
+        "Greyford",
+        "conflito"
+      ],
+      "summary": "O infame pirata Jeff Hardy e os seus filhos realizaram uma investida surpresa em Greyford, saqueando vários barcos de comerciantes. As autoridades locais acreditam que os piratas se encontram escondidos numa das cavernas da região, mas carecem de recursos para os expulsar.",
+      "content": "O famoso pirata Jeff Hardy e os seus filhos realizaram uma investida surpresa em Greyford, saqueando vários barcos de comerciantes que não esperavam encontrar piratas nestas águas. As autoridades locais afirmam que eles se encontram escondidos algures numa das cavernas da região, mas ainda não dispõem de recursos suficientes para expulsar estes piratas lendários das imediações.",
+      "image": null
+    },
+    {
+      "id": "pirata-hardy-morto-mares-greyford-seguros",
+      "name": "Pirata Hardy morto, mares em Greyford seguros",
+      "date": null,
+      "tags": [
+        "piratas",
+        "conflito",
+        "mares",
+        "Greyford",
+        "aventureiros"
+      ],
+      "summary": "Aventureiros da Guilda de Ernesto Garza derrotaram o temível pirata capitão Jeff Hardy e a sua tripulação, que aterrorizavam os mares próximos de Greyford. A sua posição foi rapidamente ocupada por Morganna \"Garra Sangrenta\" Voss, nova líder da alcova do rum.",
+      "content": "A segurança dos mares em torno de Greyford foi restaurada com a morte do capitão Jeff Hardy e da sua tripulação, eliminados por aventureiros da Guilda de Ernesto Garza. A notícia gerou celebrações generalizadas nos portos da região, aliviados pelo fim do reinado de terror do pirata.\n\nNo entanto, a vitória pode ser de curta duração. Fontes confirmam que Morganna \"Garra Sangrenta\" Voss ocupou imediatamente a posição de Hardy como a maior ameaça aos mares, assumindo a liderança da alcova do rum. Os portos que respiravam de alívio agora enfrentam um novo desafio, pois a rival de Hardy promete ser igualmente perigosa.",
+      "image": null
+    },
+    {
+      "id": "guilda-de-magos-yas-afur-alerta-maximo",
+      "name": "Guilda de Magos de Yas'Afur em Estado de Alerta Máximo",
+      "date": null,
+      "tags": [
+        "magia",
+        "roubo",
+        "guilda",
+        "traição arcana",
+        "procurado"
+      ],
+      "summary": "A Guilda de Magos de Yas'Afur declarou estado de alerta total após a violação do Cofre das Relíquias durante a noite. O mago Sevrin Del'Mar, suspeito de ter enfeitiçado um membro sénior da Guilda, desapareceu com várias Centelhas de O'Joo e artefactos mágicos de elevado grau.",
+      "content": "Yas'Afur acordou sob um manto de tensão e medo arcano. A Guilda de Magos de Yas'Afur declarou estado de alerta total, encerrou imediatamente todos os portais de acesso à Torre Central e sujeitou qualquer viagem mágica a autorização expressa do Conselho Arcano.\n\nSegundo fontes internas que pediram anonimato, o Cofre das Relíquias foi violado durante a noite. Os relatos indicam que um mago de elevado poder enfeitiçou um membro sénior da Guilda, obtendo acesso direto às Câmaras Seladas. A operação foi descrita como cirúrgica e meticulosamente planeada.\n\nOs itens desaparecidos incluem várias Centelhas de O'Joo, artefactos mágicos de grau elevado e registos antigos de contenção planar.\n\nA Guilda procura urgentemente informação sobre o paradeiro de Sevrin Del'Mar, considerado extremamente perigoso e desaparecido após o incidente. O caso torna-se ainda mais alarmante com a descoberta de que Sevrin se fez passar pelo falecido Grande Mago Rapidon, utilizando magia avançada de disfarce e manipulação mental — magias pelas quais Rapidon não era conhecido. A Guilda advertiu que Sevrin não hesitará em matar para alcançar os seus objectivos.\n\nOs especialistas arcanos não descartam uma ligação entre o Culto da Fome, o roubo das Centelhas de O'Joo e tentativas de invocação demoníaca em larga escala. O nome \"O Devorador\" começou a circular em murmúrios, embora a Guilda se recuse a confirmar oficialmente qualquer conexão.\n\nA Guilda oferece recompensa até 10.000 GP por informação sobre Sevrin Del'Mar ou movimentos suspeitos perto da Guilda. Apenas aventureiros experientes são encorajados a responder.",
+      "image": "https://cdn.discordapp.com/attachments/1222163134568202300/1444034998406484220/Servin_Procurado.png?ex=69af13e4&is=69adc264&hm=d31cad2262414929c6916270743ce351bf6207a0d3cec3976258785cec69cdf6&"
+    },
+    {
+      "id": "zona-nao-magica-recupera-magia",
+      "name": "Zona Não Mágica Interdita Volta ao Normal e Habitantes Recuperam Memórias",
+      "date": null,
+      "tags": [
+        "magia",
+        "memória",
+        "continente distante",
+        "mistério",
+        "aventureiros"
+      ],
+      "summary": "A zona não mágica do outro continente recuperou a magia e os seus habitantes conseguem agora aceder às suas verdadeiras memórias. Uma torre destruída na zona central é suspeita de ser responsável pela interdição mágica e pela implantação de falsas memórias.",
+      "content": "Finalmente a zona não mágica do outro continente voltou ao normal, recuperando completamente a magia e fazendo com que as pessoas recuperassem as suas memórias verdadeiras. As causas exactas do fim da interdição mágica permanecem desconhecidas. Relatos de guardas locais mencionam que um grupo de aventureiros foi visto a entrar na zona não mágica há cerca de uma semana, mas ninguém os viu sair da região.\n\nUma torre localizada na zona central encontra-se completamente destruída, e suspeita-se que esta estrutura continha um artefato que impedia a manifestação de magia e criava falsas memórias de um mundo alternativo impossível, repleto de coisas peculiares como comboios, figuras religiosas, continentes chamados Americas e outras entidades estranhas.\n\nOs habitantes locais estão profundamente confusos, afirmando ter vivido duas vidas completamente distintas em simultâneo. Foi constituído um grupo de apoio comunitário para ajudar os afectados a discernir qual é a sua verdadeira vida e para facilitar a troca dos seus objectos estranhos — papéis com números e efígies de rostos desconhecidos — por ouro e itens de utilidade prática e reconhecível.",
+      "image": null
+    },
+    {
+      "id": "caos-nas-rotas-maritimas-em-yasafur",
+      "name": "Caos nas rotas marítimas em Yas'afur",
+      "date": null,
+      "tags": [
+        "monstro",
+        "marítimo",
+        "comércio",
+        "perigo",
+        "Yas'afur"
+      ],
+      "summary": "Uma criatura monstruosa conhecida como Tortuzombrex — uma tartaruga dragão zombie com duas cabeças, uma delas de T-Rex — tem atacado embarcações nas rotas marítimas de Yas'afur. Os capitães estão a desviar-se da região, provocando uma diminuição significativa no fluxo de mercadorias.",
+      "content": "Um terror emerge nas águas de Yas'afur. Os marinheiros locais reportam ataques de uma criatura nunca antes vista: uma tartaruga dragão zombie dotada de duas cabeças, uma das quais com traços de um T-Rex de proporções devastadoras. Os capitães mercantes, aterrorizados, têm optado por rotas mais longas e perigosas para evitar a região afectada.\n\nA consequência é imediata e prejudicial para a economia local. Yas'afur enfrenta uma escassez grave de mercadorias, vendo o seu fluxo comercial reduzido drasticamente. Os marinheiros locais já atribuem um nome ao monstro: Tortuzombrex, um presságio sinistro que paira sobre as rotas marítimas.",
+      "image": null
+    },
+    {
+      "id": "herois-defendem-talset-de-dragao-azul",
+      "name": "Heróis Defendem Talset de Dragão Azul!",
+      "date": null,
+      "tags": [
+        "dragão",
+        "aventureiros",
+        "Talset",
+        "combate",
+        "herói",
+        "heroísmo"
+      ],
+      "summary": "Um dragão azul atacou um navio mercante junto a Talset, causando destruição e morte. Os aventureiros Alfy e Lenton, da Guilda de Ernesto Garza, intercederam rapidamente com o apoio de dois companheiros, evitando uma tragédia maior.",
+      "content": "Talset acordou em pânico quando um dragão azul atacou um navio mercante que foi dar à costa, deixando destruição e morte no seu rasto. A rápida intervenção de Alfy e Lenton, aventureiros de renome da Guilda de Ernesto Garza, evitou uma tragédia maior.\n\nTestemunhas descreveram o combate como \"ensurdecedor\", com trovões a rasgar os céus e relâmpagos a cair do nada. Dois outros aventureiros, identificados apenas como \"ajudantes da guilda\", também participaram no confronto, embora os seus nomes permaneçam esquecidos nos relatos.\n\nA Câmara de Talset, sob a liderança de Lionardo e com a contribuição do novo lorde local Alvan, agradeceu publicamente aos heróis. O organismo municipal anunciou ainda o seu apoio a uma futura expedição às ilhas para investigar a origem da ameaça.\n\nA cidade celebra o feito com festividades: crianças correm pelas ruas gritando \"Eu sou o Alfy!\" e \"Sou o Lenton!\", ferreiros vendem espadas de madeira \"mata-dragões\", e as tabernas já servem o novo prato da moda, o \"Ensopado Azul (não confirmado)\". A empresa StriderX, por sua vez, aproveita para anunciar entregas mais rápidas que um dragão... desde que ele não esteja de mau humor.",
+      "image": null
+    },
+    {
+      "id": "incendiario-em-fuga-talset",
+      "name": "Incendiário em Fuga",
+      "date": null,
+      "tags": [
+        "incêndio",
+        "crime",
+        "investigação",
+        "Talset",
+        "mistério"
+      ],
+      "summary": "A cidade de Talset foi devastada por um incêndio há poucas semanas, e recentemente um incêndio florestal deflagrou na estrada para Ashton. As autoridades investigam se ambos os incidentes estão ligados a um piromaníaco em fuga.",
+      "content": "Notícias alarmantes chegam de Talset, onde a cidade enfrentou uma catástrofe de fogo há pouco mais de semanas. Durante plena luz do dia, um incêndio deflagrou num pequeno covil de bandidos e rapidamente se propagou, consumindo metade da cidade. As autoridades locais assumiram inicialmente tratar-se de um acidente.\n\nContudo, desenvolvimento recente acende suspeitas. Há poucos dias, um incêndio florestal de causas desconhecidas deflagrou na estrada entre Talset e Ashton. A polícia voltou a classificar o incidente como acidental, resultado de uma fogueira mal preparada. Porém, a coincidência de dois incêndios em tão pouco tempo e proximidade geográfica levanta questões perturbadoras.\n\nAs autoridades de Talset continuam a investigar a possibilidade de um nexo comum entre ambos os incidentes. A comunidade local teme estar perante a ação de um piromaníaco em liberdade. As notícias de Talset comprometem-se a acompanhar este caso de perto e desvendar a identidade do possível culpado.",
+      "image": "https://cdn.discordapp.com/attachments/1222163134568202300/1468373896204914753/Black_Vintage_Breaking_News_Birthday_Invitation.png?ex=69aea201&is=69ad5081&hm=fa78bb4917e25e737ef938994a0e7751795dd13922ad24f72bba5f972c5649bd&"
+    },
+    {
+      "id": "beholder-no-farol-costeiro",
+      "name": "Aviso de Perigo: Possível Beholder no Farol Costeiro",
+      "date": null,
+      "tags": [
+        "criatura",
+        "perigo",
+        "farol",
+        "aviso",
+        "segurança"
+      ],
+      "summary": "A organização StriderX recebeu um aviso anónimo sobre a possível presença de um Beholder no farol costeiro. Sinais de alerta foram já colocados no local, e recomenda-se aos viajantes que evitem a aproximação até nova informação.",
+      "content": "A StriderX recebeu um aviso anónimo sobre a possível presença de um Beholder no farol costeiro. Respondendo à ameaça potencial, foram imediatamente colocados sinais de alerta no local para avisar qualquer pessoa do perigo iminente. A organização aconselha todos os viajantes e curiosos a não se aproximarem do farol até que se obtenha mais informação sobre a situação. StriderX mantém-se vigilante e atenta à evolução dos acontecimentos.",
       "image": null
     }
   ]
