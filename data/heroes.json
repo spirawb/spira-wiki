@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T20:24:58.526Z",
+  "lastUpdated": "2026-03-08T20:02:48.757Z",
   "entries": [
     {
       "id": "hamil-laena",
@@ -1580,6 +1580,21 @@
       ],
       "summary": "Arnaldo was a courageous Kenku warrior who fought fiercely to protect his family and uphold his honor. Facing overwhelming odds, he chose a defiant death rather than surrender, his final moments a mix of rage, pride, and the weight of sacrifices made along his journey.",
       "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1434983471507570710/portuguesebully.__93550bcb-8a66-4b91-b5a2-26ae4a3114c1.png?ex=69adca00&is=69ac7880&hm=d90975087390d69e16451f35cd4eff20417e8b4c424ffb4cf3a1e4e3d7920271"
+    },
+    {
+      "id": "dra-ishkara-vermis",
+      "name": "Dra. Ishkara Vermis",
+      "type": "mage",
+      "status": "active",
+      "tags": [
+        "erudita",
+        "investigadora",
+        "maga",
+        "preservadora-da-história",
+        "determinada"
+      ],
+      "summary": "A Dra. Ishkara Vermis é uma erudita dedicada a garantir que a história seja contada com precisão e rigor. Apresenta-se ao serviço disposta a recorrer a métodos mais severos para proteger a verdade dos tempos passados e presentes.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1479942685727920272/Dra._Ishkara_Vermis.jpg?ex=69ae8848&is=69ad36c8&hm=a9118fdc9c421679a4bac47c8a5ff69ea99e01dddf90722907870c585165fe23&"
     }
   ]
 }
