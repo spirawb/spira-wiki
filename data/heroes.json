@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-09T01:34:30.785Z",
+  "lastUpdated": "2026-03-09T01:42:52.944Z",
   "entries": [
     {
       "id": "hamil-laena",
@@ -1012,15 +1012,6 @@
       ],
       "summary": "Anwelion Orodruin é um herói cujos detalhes permanecem por revelar.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1360235106651869305/e220704c490f51d4694a817b2c690ee0.png?ex=69aec1a9&is=69ad7029&hm=052f0d4a09ce05444a0db7da71c59cec0e73cfcc16bca0f541ed9cedb3cdf36e&"
-    },
-    {
-      "id": "unknown-hero",
-      "name": "Unknown Hero",
-      "type": "other",
-      "status": "deceased",
-      "tags": [],
-      "summary": "",
-      "image": null
     },
     {
       "id": "gok-otta",
