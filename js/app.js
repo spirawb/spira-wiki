@@ -132,8 +132,9 @@ function renderHistory(entries, container) {
     return;
   }
   container.innerHTML = entries.map(entry => {
-    const tags = entry.tags?.length
-      ? `<div class="tags">${entry.tags.map(t => `<span class="tag" data-tag="${t}">${t}</span>`).join('')}</div>`
+    // Keep data-tag spans hidden for search filtering but don't display them
+    const hiddenTags = entry.tags?.length
+      ? `<span hidden>${entry.tags.map(t => `<span data-tag="${t}"></span>`).join('')}</span>`
       : '';
     const events = entry.events?.length
       ? `<ul class="era-events">${entry.events.map(ev => `<li>${ev}</li>`).join('')}</ul>`
@@ -144,7 +145,7 @@ function renderHistory(entries, container) {
         <div class="era-period">${entry.period || '???'}</div>
         <div class="era-body">
           <h3>${entry.name}</h3>
-          ${tags}
+          ${hiddenTags}
           <p>${entry.summary || ''}</p>
           ${events}
         </div>
