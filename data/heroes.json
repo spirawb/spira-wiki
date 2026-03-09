@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-09T01:07:03.924Z",
+  "lastUpdated": "2026-03-09T01:07:05.599Z",
   "entries": [
     {
       "id": "hamil-laena",
@@ -1599,21 +1599,6 @@
       ],
       "summary": "Ronog, o Dragão Negro, foi proclamado como o aventureiro mais forte da guilda. Montador de wyverns e lenda viva, aventurou-se em nome de Ernesto Garza durante exactamente um ano antes de se reformar a 26 de novembro de 2024.",
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1317306230716371005/Ronog.jpg?ex=69aecec7&is=69ad7d47&hm=3542aef4e143affe7b185ac17975c0d6d31bf8a6de8498f46cafcb18b11b540d&"
-    },
-    {
-      "id": "unnamed-music-teacher",
-      "name": "Unnamed Music Teacher",
-      "type": "bard",
-      "status": "retired",
-      "tags": [
-        "bard",
-        "teacher",
-        "community",
-        "music",
-        "mentor"
-      ],
-      "summary": "Uma professora de música compassiva que fundou uma escola de música e estabeleceu uma parceria com o orfanato local. Através de patrocínios comunitários e dedicação pessoal, criou um espaço acolhedor para órfãos como Sara, estabelecendo uma instituição próspera dedicada à música e aos sonhos.",
-      "image": null
     },
     {
       "id": "zachiel",
