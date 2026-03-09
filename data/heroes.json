@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-08T20:38:25.286Z",
+  "lastUpdated": "2026-03-09T00:04:27.105Z",
   "entries": [
     {
       "id": "hamil-laena",
@@ -325,9 +325,17 @@
         "inovador",
         "família",
         "aventureiro",
-        "personagem-jogador"
+        "personagem-jogador",
+        "craftsman",
+        "family-oriented",
+        "humble",
+        "irmão",
+        "Moldler's Forge",
+        "perseverança",
+        "irmãos-moldler",
+        "aldeia"
       ],
-      "summary": "Clevius Moldler é um gnomo simpático e artificer armoreiro, mestre da forja que se destacou por ser um dos poucos a conseguir forjar equipamento na Forja do Underdark e sobreviver para contar a sua história. Iniciou a sua jornada a 22 de maio de 2024 e reformou-se a 18 de janeiro de 2025 com Rank Ouro.",
+      "summary": "Clevius Moldler é um gnomo simpático e artificer armoreiro que, após uma notável carreira de aventuras culminada com a façanha de forjar equipamento na Forja do Underdark e sobreviver para contar a sua história, retirou-se para a aldeia onde trabalha na Moldler's Forge ao lado do seu irmão Melvius, criando ferramentas e proteções que salvam vidas. A sua jornada, que durou desde maio de 2024 até à sua reforma com Rank Ouro em janeiro de 2025, personifica a perseverança, o trabalho árduo e a devoção à união familiar.",
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1330194061541376141/gnome4.jpg?ex=69aee442&is=69ad92c2&hm=76a4ac5f3cc30619666642bf57e1ab42023fb16e15ec165fa9e1a11757076660&"
     },
     {
@@ -602,9 +610,20 @@
         "distorção-sonora",
         "heavy-metal",
         "música",
-        "a-bastarda"
+        "a-bastarda",
+        "adventurer",
+        "property-owner",
+        "guardian",
+        "settlement-founder",
+        "educadora",
+        "mãe-adotiva",
+        "empresária",
+        "Talset",
+        "professora",
+        "mãe",
+        "Falahar"
       ],
-      "summary": "Jane Hatefield, conhecida como \"a Bastarda\", juntou-se à guilda motivada pela paixão do rock e heavy metal, com o objetivo de ganhar dinheiro para a sua escola de rock e adoptar a sua pequena amiga Sara. Fez um pacto com uma entidade mítica da música que lhe concedeu poderes de distorção sonora. Durante a sua jornada forjou uma grande amizade com Brakk e reencontrou o seu amigo de orfanato Zé, fortalecendo a cumplicidade entre eles.",
+      "summary": "Jane Hatefield é uma mulher dedicada que transformou a sua paixão pela música em poder, utilizando os dons de distorção sonora conquistados através de um pacto com uma entidade mítica para financiar o seu sonho de criar uma escola de rock em Talset. Após anos de aventuras ao lado de Brakk e do reencontrado Zé, consolidou as relações que moldaram a sua vida e finalmente conquistou a estabilidade para acolher Sara como filha, realizando assim o verdadeiro propósito que sempre a moveu.",
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1320443750044008499/da8cde032b7ba5b98e01435ba56d5085.jpg?ex=69af0412&is=69adb292&hm=78dcab48c58710297ccff8eefd5c24bf727d8bba56b8aa8d4731c611012c6cb8&"
     },
     {
@@ -638,45 +657,6 @@
       ],
       "summary": "Ob Nixilis foi uma divindade adorada por seus súbditos que eventualmente abandonou a guilda em busca de novos devotos e do paradeiro de Lilia. Seu legado marcou-se por tragédia e mistério, deixando para trás um culto disperso e evidências de atrocidades contra seus próprios seguidores. Rumores sugerem avistamentos de uma estátua falante e andante em Maral.",
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1338969271958503464/Warforged_sorcerer.jpg?ex=69af2ccf&is=69addb4f&hm=04eed937e530db0e8a9b2711dc874873166616da00bdc22035b8e75375080e8e&"
-    },
-    {
-      "id": "zachiel-the-banished",
-      "name": "Zachiel the Banished",
-      "type": "other",
-      "status": "active",
-      "tags": [
-        "banished",
-        "mysterious",
-        "outcast",
-        "banido",
-        "mistério",
-        "personagem-notável",
-        "exilado",
-        "misterioso",
-        "personagem-principal"
-      ],
-      "summary": "Zachiel the Banished é um herói envolvido em circunstâncias de exílio. Pouco se sabe sobre a sua verdadeira natureza e origem, aguardando mais detalhes para uma caracterização completa.",
-      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1295495304983875604/Zachiel.jpg?ex=69ae8fc5&is=69ad3e45&hm=0792f78a43b3a68ad1f1e526dcfe4d853760ca4bf675802485fe41a0aa7a5f92&"
-    },
-    {
-      "id": "chakalaka-o-mordaz",
-      "name": "Chakalaka, O Mordaz",
-      "type": "other",
-      "status": "active",
-      "tags": [
-        "bard",
-        "trickster",
-        "sharp-tongue",
-        "humor",
-        "personagem-misterioso",
-        "título-épico",
-        "spira",
-        "misterioso",
-        "épico",
-        "personagem-único"
-      ],
-      "summary": "Chakalaka, O Mordaz, é um herói cujo nome evoca uma personalidade afiada e incisiva. Pouco se sabe sobre o seu passado, mas a alcunha sugere alguém conhecido pela sua língua afiada ou comentários mordazes.",
-      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1297603532786241576/IMG_1220.jpg?ex=69aefaf6&is=69ada976&hm=72ac125eb57e0fc3f566efe590c84e4bedfb072dc32d079758736465a13c35e4&"
     },
     {
       "id": "sorgvar",
@@ -722,9 +702,10 @@
         "grande-tamanho",
         "amigável",
         "romântico",
-        "amizade"
+        "amizade",
+        "grande"
       ],
-      "summary": "Brakk era um centauro Yanogu, um grande guerreiro e um amigo querido que conquistou o coração de Jane e Sara. Reformou-se no dia 22 de dezembro, escolhendo a amizade acima dos seus objectivos iniciais, provando que os laços que criou falavam mais alto.",
+      "summary": "Brakk é um centauro yanogu de grandes proporções, medindo 4 metros de altura, um guerreiro de estatura imponente e nobreza evidente que ao longo da sua carreira conquistou o coração de Jane e Sara, tornando-se um amigo querido. No dia 22 de dezembro, reformou-se voluntariamente, provando que os laços de amizade que criou falavam mais alto do que qualquer objetivo de combate.",
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1320339221529100329/IMG_1303.jpg?ex=69aea2b9&is=69ad5139&hm=5b1f4b31bf64d855191bcda8eeaf5e4b90dd65e4b61ac4bbd51fec63fcf47e7e&"
     },
     {
@@ -834,26 +815,6 @@
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1386416970458726580/Lepain_Dessages.jpg?ex=69af156c&is=69adc3ec&hm=b581545cd5d21a7fa32eed67ece79a90c1bf04ec016611143ad699cd16fe10ad&"
     },
     {
-      "id": "avo-ziva-felpuda",
-      "name": "Avó Ziva \"Felpuda\"",
-      "type": "other",
-      "status": "active",
-      "tags": [
-        "grandmother",
-        "adventurer",
-        "cat-lover",
-        "guild-member",
-        "aventureira",
-        "guilda",
-        "carismática",
-        "amiga-dos-animais",
-        "avó",
-        "felina"
-      ],
-      "summary": "Avó Ziva \"Felpuda\" é uma aventureira que se juntou à Guilda. Conhecida pelo seu apreço pelos gatos e pela sua determinação em viajar e explorar o mundo.",
-      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1320478706254348298/IMG_1714.jpg?ex=69af24a0&is=69add320&hm=4fc860050b525c0d7119954364662e4b2612c32110e22696c11ce7cd14d0f501&"
-    },
-    {
       "id": "amble-annseea",
       "name": "Amble Annseea",
       "type": "cleric",
@@ -893,25 +854,6 @@
       ],
       "summary": "Marro era um Satyr bruto e mal educado, mas com bom coração, que preferia resolver tudo à pancada. Apesar de não ter conseguido salvar a irmã Mel de um grupo de bandidos, nunca desistiu de enfrentar desafios. Reformou-se em Feywild com Rank Ouro, dedicando-se a proteger os inocentes.",
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1368826492015874169/MArro.jpg?ex=69af07c3&is=69adb643&hm=052a9203310f3d0ddca61c1b774efe306865193e958517dc2126fb91eef64f8c&"
-    },
-    {
-      "id": "mel",
-      "name": "Mel",
-      "type": "warrior",
-      "status": "active",
-      "tags": [
-        "barbarian",
-        "fairy",
-        "small",
-        "spirited",
-        "melee",
-        "fada",
-        "pequena",
-        "espírito-indomável",
-        "espírito-guerreiro"
-      ],
-      "summary": "Mel, também conhecida por Melga ou Melinha, é uma pequena fada com um grande espírito guerreiro. Apesar do seu tamanho reduzido, possui uma coragem e determinação notáveis.",
-      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1330832625480241244/Fairy_Barbarian.jpg?ex=69ae93f7&is=69ad4277&hm=22b7ad7950c609d0af5c1f1b111504253bb55b555a9200a933573a9073d40c70&"
     },
     {
       "id": "sssimon",
@@ -1155,42 +1097,6 @@
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1368827203529216082/perrieavatar2.png?ex=69adb6ec&is=69ac656c&hm=ae0ba56b63e7e7c988412766224d8a0dbab269ecac2e90c2ae8f05f49f2764c3&"
     },
     {
-      "id": "azim-o",
-      "name": "Azim Ö",
-      "type": "ranger",
-      "status": "deceased",
-      "tags": [
-        "mysterious",
-        "spira",
-        "archer",
-        "ranger",
-        "sacrificial",
-        "brave",
-        "personagem-misterioso",
-        "exótico"
-      ],
-      "summary": "Azim Ö é um herói cujos detalhes permanecem a ser explorados. Pouco se sabe sobre este personagem para além do nome.",
-      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1372526207933091991/Azim1.jpg?ex=69aea5a4&is=69ad5424&hm=0d53cd7eb8e586300f643d9fd82165a1a7d6a48880759ebdd94d0cc775d1cc95&"
-    },
-    {
-      "id": "zuko-calmaria-mabari",
-      "name": "Zuko 'Calmaria' Mabari",
-      "type": "other",
-      "status": "active",
-      "tags": [
-        "mabari",
-        "companion",
-        "loyal",
-        "adventurer",
-        "companheiro-animal",
-        "duo-heróico",
-        "aliado",
-        "Sir Quackson"
-      ],
-      "summary": "Zuko 'Calmaria' Mabari é um herói acompanhado pelo seu fiel companheiro Sir Quackson. Pouco se sabe sobre as suas origens e capacidades específicas.",
-      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1373632691945340989/hq.png?ex=69aeb7a2&is=69ad6622&hm=f241c2842837d5a3cb24f5108c4b7996aa6bdf38234407b00c7e56da1786c43e&"
-    },
-    {
       "id": "zorak",
       "name": "Zorak",
       "type": "warrior",
@@ -1401,7 +1307,7 @@
       "id": "preston-argyle",
       "name": "Preston Argyle",
       "type": "other",
-      "status": "active",
+      "status": "retired",
       "tags": [
         "mysterious",
         "searching",
@@ -1410,9 +1316,13 @@
         "procurado",
         "jovem",
         "mistério",
-        "humano"
+        "humano",
+        "ama-seca",
+        "cuidador",
+        "contrato-real",
+        "corte-da-rainha"
       ],
-      "summary": "Preston Argyle é um herói envolvido numa situação misteriosa, procurando por alguém que se lhe assemelha. A sua frase sugere uma ligação familiar ou pessoal significativa que ainda aguarda ser revelada.",
+      "summary": "Preston Argyle é uma aventureira que se lançou numa jornada envolvida em mistério, impelida pela busca de alguém que lhe era próximo — uma ligação familiar que a definiria durante toda a carreira. Após cumprir treze meses repletos de perigosas aventuras e honrar o compromisso de cuidar do seu irmão, regressou finalmente à Corte da Rainha da Primavera para dar termo ao seu contrato e encerrar a sua vida como heroína.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1394386541291245629/image.png?ex=69af12a9&is=69adc129&hm=f5f20ab1bea7f82001fc93094d19b127e96c62a9b6ca521693f2f7a4ec25732f&"
     },
     {
@@ -1721,27 +1631,6 @@
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1317306230716371005/Ronog.jpg?ex=69aecec7&is=69ad7d47&hm=3542aef4e143affe7b185ac17975c0d6d31bf8a6de8498f46cafcb18b11b540d&"
     },
     {
-      "id": "jane",
-      "name": "Jane",
-      "type": "other",
-      "status": "retired",
-      "tags": [
-        "adventurer",
-        "property-owner",
-        "guardian",
-        "settlement-founder",
-        "educadora",
-        "mãe-adotiva",
-        "empresária",
-        "Talset",
-        "professora",
-        "mãe",
-        "Falahar"
-      ],
-      "summary": "Jane é uma mulher dedicada que, juntamente com Brakk, cuida de uma escola no orfanato de Talset e da sua filha Sara. Apesar das dificuldades financeiras e de uma dívida com um patrono, encontrou a felicidade na vida familiar e no trabalho de educadora.",
-      "image": null
-    },
-    {
       "id": "sara",
       "name": "Sara",
       "type": "bard",
@@ -1801,28 +1690,6 @@
       "image": null
     },
     {
-      "id": "clevius",
-      "name": "Clevius",
-      "type": "other",
-      "status": "retired",
-      "tags": [
-        "artificer",
-        "craftsman",
-        "blacksmith",
-        "family-oriented",
-        "humble",
-        "ferreiro",
-        "irmão",
-        "Moldler's Forge",
-        "perseverança",
-        "irmãos-moldler",
-        "aldeia",
-        "forja"
-      ],
-      "summary": "Clevius é um ferreiro e artificer que trabalha na Moldler's Forge com o seu irmão Melvius. Após uma vida de aventuras, retirou-se para a aldeia onde cria ferramentas e proteções que salvam vidas. Simboliza a perseverança, o trabalho árduo e a união familiar.",
-      "image": null
-    },
-    {
       "id": "xolani-o-xamã-dos-xhosa",
       "name": "!Xolani o Xamã dos !!Xhosa",
       "type": "druid",
@@ -1852,9 +1719,18 @@
         "caçador-de-monstros",
         "ouro",
         "guerreiro",
-        "caçador de monstros"
+        "caçador de monstros",
+        "banished",
+        "mysterious",
+        "outcast",
+        "banido",
+        "mistério",
+        "personagem-notável",
+        "exilado",
+        "misterioso",
+        "personagem-principal"
       ],
-      "summary": "Zachiel é um Half-Orc Fighter/Barbarian que começou sua carreira movido pela vingança após ser expulso de casa, mas encontrou uma nova família na guilda de aventureiros. Após 34 aventuras e uma transformação pessoal profunda, reformou-se com rank Ouro, dedicando-se agora à caça de monstros gigantes enquanto preserva as amizades feitas.",
+      "summary": "Zachiel é um Half-Orc Fighter/Barbarian que emergiu do exílio movido pela vingança, transformando-se gradualmente através de trinta e quatro aventuras que lhe permitiram encontrar uma verdadeira família na guilda de aventureiros. Após esta jornada de profunda metamorfose pessoal, o herói reformou-se com rank Ouro, dedicando agora os seus dias à caça de monstros gigantes enquanto cultiva as amizades que moldaram quem se tornou.",
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1359231012177187060/Zachiel.png?ex=69af0f06&is=69adbd86&hm=aba53ec86273dc572ac724b7fb2fdedb7bafe7bb09e64ddf8db87b5fcde967e2&"
     },
     {
@@ -1974,9 +1850,18 @@
         "bardo",
         "inesperado",
         "eletrizante",
-        "lendário"
+        "lendário",
+        "trickster",
+        "sharp-tongue",
+        "humor",
+        "personagem-misterioso",
+        "título-épico",
+        "spira",
+        "misterioso",
+        "épico",
+        "personagem-único"
       ],
-      "summary": "Chakalaka foi um bardo cuya vida foi tão vibrante e imprevista quanto sua morte. Faleceu de forma inesperada e eletrizante, deixando saudades em Lenton.",
+      "summary": "Chakalaka, O Mordaz, foi um bardo cuja língua afiada e comentários incisivos marcaram uma carreira tão vibrante e imprevista quanto o seu próprio legado, tendo falecido de forma inesperada e eletrizante, deixando saudades profundas em Lenton.",
       "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1299746215394545776/IMG_1220.jpg?ex=69aedd7d&is=69ad8bfd&hm=d43145170b1e9e1cbef72068bc9f6a50a3aa724bcba513a50da66c05274aa98f&"
     },
     {
@@ -1996,9 +1881,15 @@
         "lendária",
         "irmã-do-marro",
         "legenda",
-        "memória-viva"
+        "memória-viva",
+        "small",
+        "spirited",
+        "melee",
+        "pequena",
+        "espírito-indomável",
+        "espírito-guerreiro"
       ],
-      "summary": "Conhecida também como Melga, foi uma heroína cuja chama perdurou para além da morte. Descansa numa sepultura respeitosamente mantida, e reza a lenda que uma parte do seu espírito reside no coração do seu irmão Marro.",
+      "summary": "Melinha, uma pequena fada com um grande espírito guerreiro, marcou a sua passagem por Spira com uma coragem e determinação notáveis que desafiavam o seu tamanho reduzido. A sua chama perdurou para além da morte, e hoje repousa numa sepultura respeitosamente mantida, enquanto a lenda diz que parte do seu espírito vive eternamente no coração do seu irmão Marro.",
       "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1356725698139652147/Fairy_Barbarian-1.jpg?ex=69af2c45&is=69addac5&hm=f8c076fd3da0080b53b1da463f3bfecf8380da9b7be2ef5156fe7804823ac588&"
     },
     {
@@ -2016,9 +1907,19 @@
         "velha",
         "dragão",
         "sorgvar",
-        "morta-pelo-dragão"
+        "morta-pelo-dragão",
+        "grandmother",
+        "adventurer",
+        "cat-lover",
+        "guild-member",
+        "aventureira",
+        "guilda",
+        "carismática",
+        "amiga-dos-animais",
+        "avó",
+        "felina"
       ],
-      "summary": "Avó Ziva era uma criminosa velha identificada em Talset, O Inferno do Sorgvar. Pereceu nas garras de um dragão, um fim que muitos consideravam merecido para alguém com seu passado.",
+      "summary": "Avó Ziva \"Felpuda\" foi uma aventureira que se juntou à Guilda, movida pela determinação em explorar o mundo e pelo seu peculiar apreço pelos gatos, mas ao longo dos anos desceu para a criminalidade, acabando por ser identificada em Talset, O Inferno do Sorgvar. Pereceu nas garras de um dragão, um desfecho que muitos consideravam merecido para alguém com seu passado.",
       "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1356727160055791686/ziva_midjourney.png?ex=69ae84e1&is=69ad3361&hm=2165e69abb1f8fdcfa8ed1da257434a97535d50ed2ca7028eaaa183c4d6b641f&"
     },
     {
@@ -2065,9 +1966,13 @@
         "mabari",
         "companheiro-animal",
         "falecido",
-        "guerreiro"
+        "guerreiro",
+        "adventurer",
+        "duo-heróico",
+        "aliado",
+        "Sir Quackson"
       ],
-      "summary": "Zuko Mabari foi um herói acompanhado pelo seu fiel companheiro Sir Quackson. Ambos deixaram um legado memorável no mundo de Spira.",
+      "summary": "Zuko 'Calmaria' Mabari foi um herói de origens misteriosas que percorreu o mundo de Spira acompanhado pelo seu fiel companheiro Sir Quackson, deixando um legado memorável que transcendeu as lacunas do seu passado obscuro.",
       "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1406557013567078501/zuko-token.png?ex=69ae864c&is=69ad34cc&hm=a464656a698ca318ae87de481b05e45ff6dcd43c543a307302f2d029dfe193d1&"
     },
     {
@@ -2111,21 +2016,6 @@
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1479942685727920272/Dra._Ishkara_Vermis.jpg?ex=69ae8848&is=69ad36c8&hm=a9118fdc9c421679a4bac47c8a5ff69ea99e01dddf90722907870c585165fe23&"
     },
     {
-      "id": "xolani-o-xama-da-tribo-xhosa",
-      "name": "Xolani o Xama da tribo Xhosa",
-      "type": "other",
-      "status": "active",
-      "tags": [
-        "xamã",
-        "tribo-xhosa",
-        "curandeiro-espiritual",
-        "líder-tribal",
-        "xama"
-      ],
-      "summary": "Xolani é o xama da tribo Xhosa, um líder espiritual e curandeiro que guia seu povo através da sabedoria ancestral e conexão com o mundo espiritual.",
-      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1176617344068501514/Xholani.png?ex=69af2acb&is=69add94b&hm=9c5483adf328a4508d111c2927fcf4b8c01ffd691d233d35c9cec18266464c82&"
-    },
-    {
       "id": "ze-pequeno",
       "name": "Zé Pequeno",
       "type": "other",
@@ -2166,10 +2056,14 @@
         "druid",
         "xamã",
         "titânio",
-        "tribo"
+        "tribo",
+        "tribo-xhosa",
+        "curandeiro-espiritual",
+        "líder-tribal",
+        "xama"
       ],
-      "summary": "!Xolani é um jovem bugbear que abraçou o caminho do druidismo, transformando um destino que lhe foi imposto numa vocação genuína. Durante a sua carreira de aventureiro, fez amigos especiais com quem aprendeu lições que levará consigo para sempre, visando a prosperidade da sua tribo. Reforma-se com rank de Titânio após uma jornada que o marcou profundamente.",
-      "image": null
+      "summary": "!Xolani é um xamã bugbear dos !!Xhosa que transformou um destino imposto numa verdadeira vocação espiritual, guiando sua tribo através da sabedoria ancestral e da conexão com o mundo espiritual. Durante sua carreira de aventureiro, forjou amizades profundas que o enriqueceram e marcaram a sua jornada, aprendendo lições que o moldaram como líder. Reformou-se com rank de Titânio, legando o conhecimento adquirido à prosperidade duradoura do seu povo.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1176617344068501514/Xholani.png?ex=69af2acb&is=69add94b&hm=9c5483adf328a4508d111c2927fcf4b8c01ffd691d233d35c9cec18266464c82&"
     },
     {
       "id": "chakalaka-o-bardo",
@@ -2195,9 +2089,16 @@
         "halfling",
         "sacrifício",
         "ranger",
-        "guerreiro"
+        "guerreiro",
+        "mysterious",
+        "spira",
+        "archer",
+        "sacrificial",
+        "brave",
+        "personagem-misterioso",
+        "exótico"
       ],
-      "summary": "Azim era uma pequena arqueira que deu sua vida por Poopoo (Lupu). Um herói cujo sacrifício final testou o valor da compaixão.",
+      "summary": "Azim Ö foi uma pequena arqueira cujos primeiros passos como aventureira prometiam grandes feitos, mas cuja verdadeira marca no mundo só se revelaria no seu derradeiro acto: ofereceu sua vida por Poopoo, um gesto de compaixão que provou ser o mais valioso de toda a sua jornada.",
       "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1408598438408360076/Azim1.jpg?ex=69aeb346&is=69ad61c6&hm=428eb553f74f18ddb0a8b95e2e47c9c39250bfcf59a2bf0842407a95c790838f&"
     },
     {
@@ -2212,21 +2113,6 @@
       ],
       "summary": "Um herói cujo nome e história permanecem inscritos apenas numa lápide, sem mais informações disponíveis.",
       "image": null
-    },
-    {
-      "id": "ser-brakk",
-      "name": "Ser Brakk",
-      "type": "warrior",
-      "status": "active",
-      "tags": [
-        "centauro",
-        "yanogu",
-        "guerreiro",
-        "grande",
-        "nobre"
-      ],
-      "summary": "Ser Brakk é um centauro yanogu de grandes proporções, medindo 4 metros de altura. Um guerreiro de estatura imponente e nobreza evidente.",
-      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1300052784007090247/Sorgvar.png?ex=69aea981&is=69ad5801&hm=64c5b33fa486312cf525f7d9ef942ad335529af5bc8f59faa67ae24ab1d456c7&"
     },
     {
       "id": "clara-grutze",
@@ -2255,20 +2141,6 @@
       ],
       "summary": "Aprendiz de artificer e irmão de Clevius Moldler, Melvius reformou-se na aldeia natal da família nas montanhas. Agora gere a Moldler's Forge, uma forja onde magia e técnica se unem para criar armas, armaduras e itens mágicos, combinando o talento comercial com o carisma natural.",
       "image": null
-    },
-    {
-      "id": "preston-a-ama-seca",
-      "name": "Preston - A ama-seca",
-      "type": "other",
-      "status": "retired",
-      "tags": [
-        "ama-seca",
-        "cuidador",
-        "contrato-real",
-        "corte-da-rainha"
-      ],
-      "summary": "Preston foi uma aventureira que serviu durante 13 meses com 12 aventuras registadas. Após cumprir o papel de cuidar do seu irmão, regressou à Corte da Rainha da Primavera para honrar o seu contrato com a Rainha.",
-      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1473832215828889814/image.png?ex=69aeb6f6&is=69ad6576&hm=67add8636ef4ce5efdbc4d0b3cfafa9797a6465af81e460b5a9ec669a0f1a82e&"
     }
   ]
 }
