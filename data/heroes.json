@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-09T09:50:56.172Z",
+  "lastUpdated": "2026-03-09T09:51:05.551Z",
   "entries": [
     {
       "id": "hamil-laena",
@@ -351,24 +351,6 @@
       ],
       "summary": "Nastasia é uma heroína activa na campanha Spira. Detalhes adicionais sobre o seu passado, capacidades e papel aguardam descoberta.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1253702013913403473/Nastasia.jpg?ex=69ad787c&is=69ac26fc&hm=5cfec185c1cc10bbfc0809b7cb49300d3a6d8f02eb4378915f96e1c70c5ec43e&"
-    },
-    {
-      "id": "tairnenach-flyborn",
-      "name": "Tairnenach Flyborn",
-      "type": "other",
-      "status": "active",
-      "tags": [
-        "flyborn",
-        "adventurer",
-        "mysterious",
-        "Tair",
-        "Fly",
-        "aventureiro",
-        "aliados-Tair",
-        "mistério"
-      ],
-      "summary": "Tairnenach Flyborn, conhecido pelos apelidos Tair ou Fly, é um herói cujos pormenores exactos ainda necessitam de maior documentação. Aparentemente ligado a Spira através de conexões ainda não totalmente esclarecidas.",
-      "image": null
     },
     {
       "id": "rain",
