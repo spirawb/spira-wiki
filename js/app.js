@@ -191,7 +191,7 @@ function renderPantheon(entries, container) {
     }).join('');
 
     return `
-      <details class="pantheon-group" open>
+      <details class="pantheon-group">
         <summary class="pantheon-group-title">${title}<span class="group-chevron" aria-hidden="true">▶</span></summary>
         <div class="deity-list">${cards}</div>
       </details>`;
@@ -239,7 +239,7 @@ function renderHeroes(entries, container) {
     }).join('');
 
     return `
-      <details class="hero-group" open>
+      <details class="hero-group">
         <summary class="hero-group-title">${title}<span class="group-chevron" aria-hidden="true">▶</span></summary>
         <div class="hero-group-entries">${cards}</div>
       </details>`;
@@ -446,10 +446,105 @@ async function loadHistory() {
   }
 }
 
+// ── Nav Search ─────────────────────────────────────────────────────────────
+
+function initNavSearch() {
+  const ul = document.querySelector('.site-nav ul');
+  if (!ul) return;
+
+  const isInPages = location.pathname.includes('/pages/');
+  const searchHref = isInPages ? 'search.html' : 'pages/search.html';
+
+  const li = document.createElement('li');
+  li.style.marginLeft = 'auto';
+
+  const form = document.createElement('form');
+  form.className = 'nav-search-form';
+  form.action = searchHref;
+  form.method = 'get';
+  form.innerHTML = `
+    <input type="search" name="q" class="nav-search-input"
+           placeholder="Pesquisa global…" autocomplete="off" spellcheck="false" />
+    <button type="submit" class="nav-search-btn" aria-label="Pesquisar">🔍</button>
+  `;
+  li.appendChild(form);
+  ul.appendChild(li);
+
+  const q = new URLSearchParams(location.search).get('q');
+  if (q) form.querySelector('.nav-search-input').value = q;
+}
+
+// ── Global Search ──────────────────────────────────────────────────────────
+
+async function loadGlobalSearch() {
+  const container = document.getElementById('search-results');
+  if (!container) return;
+
+  const q = new URLSearchParams(location.search).get('q')?.trim() || '';
+
+  const heading = document.getElementById('search-heading');
+  if (heading) heading.textContent = q ? `Resultados para: "${q}"` : 'Pesquisa Global';
+
+  if (!q) {
+    container.innerHTML = `<div class="empty-state">Introduz um termo na barra de pesquisa.</div>`;
+    return;
+  }
+
+  container.innerHTML = `<div class="empty-state">A pesquisar…</div>`;
+
+  const ql = q.toLowerCase();
+  const sections = [
+    { file: 'heroes.json',   label: '⚔️ Heróis' },
+    { file: 'pantheon.json', label: '🏛️ Panteão' },
+    { file: 'news.json',     label: '📰 Notícias' },
+    { file: 'history.json',  label: '📜 História de Spira' },
+  ];
+
+  const results = await Promise.all(sections.map(async s => {
+    try {
+      const data = await loadJSON(`${BASE}data/${s.file}`);
+      const matches = (data.entries || []).filter(e =>
+        e.name?.toLowerCase().includes(ql) ||
+        e.summary?.toLowerCase().includes(ql) ||
+        e.content?.toLowerCase().includes(ql) ||
+        e.tags?.some(t => t.toLowerCase().includes(ql))
+      );
+      return { ...s, matches };
+    } catch {
+      return { ...s, matches: [] };
+    }
+  }));
+
+  const total = results.reduce((n, r) => n + r.matches.length, 0);
+
+  if (total === 0) {
+    container.innerHTML = `<div class="empty-state">Sem resultados para "<strong>${q}</strong>".</div>`;
+    return;
+  }
+
+  container.innerHTML = results
+    .filter(r => r.matches.length > 0)
+    .map(r => `
+      <section class="search-section">
+        <h3 class="search-section-title">
+          ${r.label} <span class="search-count-badge">${r.matches.length}</span>
+        </h3>
+        ${r.matches.map(e => `
+          <div class="search-result-card">
+            <strong>${e.name}</strong>
+            ${e.tags?.length ? `<div class="tags">${e.tags.map(t => `<span class="tag">${t}</span>`).join('')}</div>` : ''}
+            <p>${e.summary || ''}</p>
+          </div>
+        `).join('')}
+      </section>
+    `).join('');
+}
+
 // ── Boot ───────────────────────────────────────────────────────────────────
 
-document.addEventListener('DOMContentLoaded', () => {
+function _boot() {
   markActiveNav();
+  initNavSearch();
 
   const page = location.pathname.split('/').pop() || 'index.html';
   const loaders = {
@@ -461,7 +556,14 @@ document.addEventListener('DOMContentLoaded', () => {
     'pantheon.html': loadPantheon,
     'news.html':     loadNews,
     'history.html':  loadHistory,
+    'search.html':   loadGlobalSearch,
   };
 
   (loaders[page] || (() => {}))();
-});
+}
+
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', _boot);
+} else {
+  _boot();
+}

@@ -172,7 +172,7 @@ function formatJSON() {
 
 // ── Init ──────────────────────────────────────────────────────────────────────
 
-document.addEventListener('DOMContentLoaded', () => {
+function _boot() {
   // Populate file selector
   const select = document.getElementById('file-select');
   DATA_FILES.forEach(f => {
@@ -222,4 +222,10 @@ document.addEventListener('DOMContentLoaded', () => {
       saveFile();
     }
   });
-});
+}
+
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', _boot);
+} else {
+  _boot();
+}
