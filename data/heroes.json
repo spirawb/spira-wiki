@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-09T00:38:45.653Z",
+  "lastUpdated": "2026-03-09T00:52:21.441Z",
   "entries": [
     {
       "id": "hamil-laena",
@@ -2063,21 +2063,6 @@
         "falecido"
       ],
       "summary": "Um herói cujo nome e história permanecem inscritos apenas numa lápide, sem mais informações disponíveis.",
-      "image": null
-    },
-    {
-      "id": "melvius",
-      "name": "Melvius",
-      "type": "other",
-      "status": "retired",
-      "tags": [
-        "artificer",
-        "ferreiro",
-        "negociante",
-        "irmão de Clevius",
-        "Moldler's Forge"
-      ],
-      "summary": "Aprendiz de artificer e irmão de Clevius Moldler, Melvius reformou-se na aldeia natal da família nas montanhas. Agora gere a Moldler's Forge, uma forja onde magia e técnica se unem para criar armas, armaduras e itens mágicos, combinando o talento comercial com o carisma natural.",
       "image": null
     }
   ]
