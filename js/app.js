@@ -192,7 +192,7 @@ function renderPantheon(entries, container) {
 
     return `
       <details class="pantheon-group" open>
-        <summary class="pantheon-group-title">${title}</summary>
+        <summary class="pantheon-group-title">${title}<span class="group-chevron" aria-hidden="true">▶</span></summary>
         <div class="deity-list">${cards}</div>
       </details>`;
   }
@@ -240,7 +240,7 @@ function renderHeroes(entries, container) {
 
     return `
       <details class="hero-group" open>
-        <summary class="hero-group-title">${title}</summary>
+        <summary class="hero-group-title">${title}<span class="group-chevron" aria-hidden="true">▶</span></summary>
         <div class="hero-group-entries">${cards}</div>
       </details>`;
   }

@@ -566,24 +566,25 @@ details.pantheon-group > summary::-webkit-details-marker {
   display: none;
 }
 
-details.hero-group > summary::after,
-details.pantheon-group > summary::after {
-  content: '▶';
+details.hero-group > summary:hover,
+details.pantheon-group > summary:hover {
+  opacity: 0.85;
+}
+
+/* Chevron span injected by JS — more reliable than ::after on <summary> */
+.group-chevron {
+  display: inline-block;
   font-size: 0.65em;
-  opacity: 0.45;
+  color: var(--color-accent);
+  opacity: 0.5;
   transition: transform 0.2s ease, opacity 0.15s;
   flex-shrink: 0;
   margin-left: 0.75rem;
+  line-height: 1;
 }
 
-details.hero-group[open] > summary::after,
-details.pantheon-group[open] > summary::after {
+details[open] > summary .group-chevron {
   transform: rotate(90deg);
-  opacity: 0.75;
-}
-
-details.hero-group > summary:hover,
-details.pantheon-group > summary:hover {
   opacity: 0.85;
 }
 
