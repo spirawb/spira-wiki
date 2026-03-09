@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-09T01:09:03.950Z",
+  "lastUpdated": "2026-03-09T01:32:24.008Z",
   "entries": [
     {
       "id": "hamil-laena",
@@ -859,20 +859,6 @@
       ],
       "summary": "Sssimon é um Yuan-ti misterioso que viaja acompanhado pela sua cobra de estimação, Sssiri. Portador de um livro macabro, parece ser um praticante de magia antiga e arcana.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1335254549778141285/s-removebg-preview.png?ex=69aed834&is=69ad86b4&hm=393c12eab017987532eeced0f4bacbe85e3b27e233d14c55d1fcd4348b8b12ad&"
-    },
-    {
-      "id": "familiar",
-      "name": "Familiar",
-      "type": "other",
-      "status": "active",
-      "tags": [
-        "companion",
-        "magical",
-        "green",
-        "familiar"
-      ],
-      "summary": "Um familiar mágico verde do reino de Dungeons and Dragons. Este companheiro serve como um auxílio místico ao seu mestre, vinculado pelo poder arcano e pela lealdade.",
-      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1335255318208446516/santas_A_familiar_from_Dungeons_and_Dragons_which_is_a_Green__fafc43c8-9c1e-41d3-bd9e-6c769dff0ba8_1.png?ex=69ad876b&is=69ac35eb&hm=b76284b2d4d937ef1423937ec50ad3bfd5648daccd3335478ab0b5a6efce52bd&"
     },
     {
       "id": "gideon-larderius",
