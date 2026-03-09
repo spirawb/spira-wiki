@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-03-09T11:34:02.687Z",
+  "lastUpdated": "2026-03-09T12:23:29.701Z",
   "entries": [
     {
       "id": "buzug",
       "name": "Buzug",
-      "tier": "maior",
+      "tier": "major",
       "domain": "Vida, Fertilidade e Progresso",
       "symbol": "Katta'Ra, a cidade do progresso",
       "alignment": "Neutro",
@@ -23,7 +23,7 @@
     {
       "id": "scutum",
       "name": "Scutum",
-      "tier": "maior",
+      "tier": "major",
       "domain": "Proteção, longevidade e natureza",
       "symbol": "Tartaruga com carapaça em formato de escudo",
       "alignment": "Caótico e Bom",
@@ -41,7 +41,7 @@
     {
       "id": "ramness",
       "name": "Ramness",
-      "tier": "maior",
+      "tier": "major",
       "domain": "Mares",
       "symbol": "Um Barco",
       "alignment": "Leal e Neutro",
@@ -63,7 +63,7 @@
     {
       "id": "ojoo",
       "name": "O'joo",
-      "tier": "maior",
+      "tier": "major",
       "domain": "Caos e Arcana",
       "symbol": "Cristais de magia concentrada",
       "alignment": "Neutro",
@@ -83,7 +83,7 @@
     {
       "id": "mystic-a-quarta",
       "name": "Mystic, A Quarta",
-      "tier": "maior",
+      "tier": "major",
       "domain": "Arcana, Magia, Tempo, Conhecimento",
       "symbol": "Uma mão cheia de fios e 7 caminhos",
       "alignment": "Leal e Neutro",
@@ -103,7 +103,7 @@
     {
       "id": "lilia-rainha-das-sucubbis",
       "name": "Lilia, Rainha das Sucubbis",
-      "tier": "outro",
+      "tier": "other",
       "domain": "Ilusão, Sexo, Seca",
       "symbol": "Triângulo cor de areia com uma palmeira com asas negras e fitas pretas",
       "alignment": "Caótico e Malévolo",
@@ -123,7 +123,7 @@
     {
       "id": "latifur",
       "name": "Latifur",
-      "tier": "semideus",
+      "tier": "semigod",
       "domain": "Lua, Escuridão, Ladinos, Segredos",
       "symbol": "Lua no quarto crescente",
       "alignment": "Caótico e Bom",
@@ -143,7 +143,7 @@
     {
       "id": "kuncare",
       "name": "Kuncare",
-      "tier": "maior",
+      "tier": "major",
       "domain": "Redenção, Caridade, Proteção, Honestidade, Vida",
       "symbol": "Uma galhada de veado",
       "alignment": "Leal e Bom",
@@ -162,7 +162,7 @@
     {
       "id": "viltots-bog",
       "name": "Viltots Bog",
-      "tier": "semideus",
+      "tier": "semigod",
       "domain": "Sorte, Proteção, Caos",
       "symbol": null,
       "alignment": "Neutro",
@@ -199,7 +199,7 @@
     {
       "id": "d-franciesco-de-russo",
       "name": "D. Franciesco de Russo",
-      "tier": "maior",
+      "tier": "major",
       "domain": "Civilização e Refinamento",
       "symbol": "Cartola",
       "alignment": "Neutro",
@@ -217,7 +217,7 @@
     {
       "id": "musas-das-estacoes",
       "name": "Musas das Estações",
-      "tier": "maior",
+      "tier": "major",
       "domain": "Estações, Colheita, Tempestade",
       "symbol": null,
       "alignment": "Leal e Neutro",
@@ -236,7 +236,7 @@
     {
       "id": "cervin",
       "name": "Cervin",
-      "tier": "semideus",
+      "tier": "semigod",
       "domain": "Celebrações e Liberdade",
       "symbol": "Garrafa de vinho",
       "alignment": "Neutral Evil",
