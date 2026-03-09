@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-09T00:28:00.054Z",
+  "lastUpdated": "2026-03-09T00:28:42.382Z",
   "entries": [
     {
       "id": "hamil-laena",
@@ -127,7 +127,7 @@
         "herói"
       ],
       "summary": "Zerrir é um herói do mundo de Spira.",
-      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1187771949095596052/image0_0.jpg?ex=69aee0d4&is=69ad8f54&hm=b46e0d85c31d307e60d3b12fa00ba8b98af207e1928739974754092126d2d757&"
+      "image": null
     },
     {
       "id": "mienshi",
@@ -220,7 +220,7 @@
         "mistério"
       ],
       "summary": "Raksha é um herói envolvido em mistério, cuja história e origem permanecem a ser descobertas.",
-      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1202276550733467678/Mina_Norvaris.png?ex=69aee94a&is=69ad97ca&hm=64fb2644116d89e962ec3dc1598f78947f9814fc46caf6a375caa236be697543&"
+      "image": null
     },
     {
       "id": "zhaul-baikal",
@@ -250,7 +250,7 @@
         "personagem-misterioso"
       ],
       "summary": "Kall Teach é um herói cuja história e classe permanecem por definir.",
-      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1206404228130807828/med.jpg?ex=69aec43d&is=69ad72bd&hm=715e6f7b3e023d5c31d6f31f299b9ee15979e7eefbabc673d02c9d51ce564206&"
+      "image": null
     },
     {
       "id": "manu-lapilis",
@@ -280,7 +280,7 @@
         "aventureiro"
       ],
       "summary": "Irineus Robberman é um herói da campanha. Pouco se sabe sobre o seu background no momento, aguardando mais detalhes.",
-      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1213958803372904509/Screenshot_2024-03-01_at_12.52.53.png?ex=69ae907c&is=69ad3efc&hm=145e508b68e2263bab7e725724c64a9d86a65a036d82e9b09b8415dec21fbfbb&"
+      "image": null
     },
     {
       "id": "clevius-moldler",
@@ -368,7 +368,7 @@
         "mistério"
       ],
       "summary": "Tairnenach Flyborn, conhecido pelos apelidos Tair ou Fly, é um herói cujos pormenores exactos ainda necessitam de maior documentação. Aparentemente ligado a Spira através de conexões ainda não totalmente esclarecidas.",
-      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1253702013913403473/Nastasia.jpg?ex=69aec9fc&is=69ad787c&hm=206ca42514d940d53ccd0676cfaf0697dacad3bccfa4492464aed99c5b20cf73&"
+      "image": null
     },
     {
       "id": "rain",
@@ -399,7 +399,7 @@
         "herói"
       ],
       "summary": "Elka Wynna é um herói do mundo de Spira.",
-      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1261479710551048202/med.jpg?ex=69aebd48&is=69ad6bc8&hm=9add675c044b606c15d53dde3f9261023b786798d22802aec6b587e0b2290f61&"
+      "image": null
     },
     {
       "id": "rajo-furashada",
@@ -752,7 +752,7 @@
         "aventureiro"
       ],
       "summary": "Alvorius Venator é um herói cujo nome sugere uma natureza de caçador ou perseguidor. Pouco se sabe sobre este personagem além do seu nome evocativo.",
-      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1305467164807135282/file-J1XTiBFLIBFWt1k5ki06zow8.png?ex=69ae958a&is=69ad440a&hm=16f329da1f91d590e03451d8f4257149ae6edb641dd164445d393c18d0211580&"
+      "image": null
     },
     {
       "id": "vak-o-renegado",
@@ -1066,7 +1066,7 @@
         "aventureiro"
       ],
       "summary": "Gök Otta é um herói que se apresenta ao mundo de Spira.",
-      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1360645100522307745/med.png?ex=69aeedff&is=69ad9c7f&hm=b7b270b0a9dd55f289cad81e420bb0efe75ffdac12e4ee4e5cc30cf474bf3ca1&"
+      "image": null
     },
     {
       "id": "perrie-perval",
@@ -1444,7 +1444,7 @@
         "magia"
       ],
       "summary": "Belo é um mago que idolatra o lendário Dragon-born Branco Balo, considerado por ele o mais grandioso mago de todos os tempos. Inspira-se nas façanhas do seu ídolo na sua jornada como praticante de magia.",
-      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1423634863948300338/image.png?ex=69aeb0c9&is=69ad5f49&hm=e1295d1f7ad68cd47608d18264d656dba00563aecdee5c5cc5d6ed70708e7706&"
+      "image": null
     },
     {
       "id": "rhainnis",
@@ -1642,7 +1642,7 @@
         "mentor"
       ],
       "summary": "A compassionate music teacher who founded a music school and formed a partnership with the local orphanage. Through community sponsorships and personal dedication, they created a welcoming space for orphans like Sara, establishing a thriving institution dedicated to music and dreams.",
-      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1320444795273085000/file-98TQTSgg5QDMPvaW2ew7kY-1.webp?ex=69adb38b&is=69ac620b&hm=9faffe46363a87fa4cc2e27cc5d7bb7e5fa825312529fddbdd34924703b2622b&"
+      "image": null
     },
     {
       "id": "jane-and-brakk",
@@ -1706,7 +1706,7 @@
         "Garza"
       ],
       "summary": "Amble foi um curandeiro dedicado à ajuda do próximo, servindo na guilda de Garza durante 9 aventuras. Após a destruição de Asura, respondeu ao chamado para auxiliar os refugiados a estabelecerem uma nova casa junto aos elfos. Agora viaja pelo continente como missionário de Kunkare, continuando a sua missão de ajudar quem necessita.",
-      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1388657748035764375/sorgvar.jpg?ex=69aeaa8f&is=69ad590f&hm=2cb6390ada93d4fe0e1bf3aec56d8c24e412c93e804b3e5258e878b227cf85f0&"
+      "image": null
     },
     {
       "id": "jahira-hardy",
@@ -1983,7 +1983,7 @@
         "guerreiro-miúdo"
       ],
       "summary": "Zé Pequeno é um herói português conhecido pelo epíteto \"Dedinho\". Um personagem de pequena estatura mas grande personalidade, marca presença com atitude e disposição para o combate.",
-      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1275447334477631579/Ze_dedo_mindinho.jpg?ex=69aecbe5&is=69ad7a65&hm=a231694b23d7721630745279d560f7c9bbe29a21eb9e2667a5a8f552dcc64cd7"
+      "image": null
     },
     {
       "id": "thorgan-o-inabalavel",
