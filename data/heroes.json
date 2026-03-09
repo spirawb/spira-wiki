@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-09T01:32:24.008Z",
+  "lastUpdated": "2026-03-09T01:32:25.989Z",
   "entries": [
     {
       "id": "hamil-laena",
@@ -1896,21 +1896,6 @@
       ],
       "summary": "Dra. Ishkara Vermis é uma erudita dedicada à preservação e precisão histórica. Apresenta-se como guardiã da verdade, determinada a garantir que passado e presente sejam registados correctamente. Disposta a empregar métodos mais rigorosos para defender a integridade histórica.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1479942685727920272/Dra._Ishkara_Vermis.jpg?ex=69ae8848&is=69ad36c8&hm=a9118fdc9c421679a4bac47c8a5ff69ea99e01dddf90722907870c585165fe23&"
-    },
-    {
-      "id": "ze-pequeno",
-      "name": "Zé Pequeno",
-      "type": "other",
-      "status": "active",
-      "tags": [
-        "personagem",
-        "herói",
-        "dedinho",
-        "português",
-        "guerreiro-miúdo"
-      ],
-      "summary": "Zé Pequeno é um herói português conhecido pelo epíteto \"Dedinho\". Um personagem de pequena estatura mas grande personalidade, marca presença com atitude e disposição para o combate.",
-      "image": null
     },
     {
       "id": "thorgan-o-inabalavel",
