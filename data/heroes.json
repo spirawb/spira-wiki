@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-09T01:32:25.989Z",
+  "lastUpdated": "2026-03-09T01:34:17.014Z",
   "entries": [
     {
       "id": "hamil-laena",
@@ -964,22 +964,6 @@
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1369012563341475880/image.png?ex=69af0c4e&is=69adbace&hm=e3fbb6a1ff5ff945a7e87b98f44adbb22279f55c9921a7e5b6d1a0c9af6bb2ff&"
     },
     {
-      "id": "feio",
-      "name": "Feio",
-      "type": "other",
-      "status": "active",
-      "tags": [
-        "portuguese",
-        "bully",
-        "character",
-        "personagem-misterioso",
-        "herói",
-        "personagem-jogável"
-      ],
-      "summary": "Feio é um herói do mundo de Spira.",
-      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1346722979173761064/image-2.png?ex=69af09c3&is=69adb843&hm=bb89a3903b35a631cb8712dadae95f0325c0abb3e7e4d64b2b1ee0f3c0246df7&"
-    },
-    {
       "id": "nak-tuk",
       "name": "Nak'Tuk",
       "type": "warrior",
@@ -1858,25 +1842,6 @@
       "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1406557013567078501/zuko-token.png?ex=69ae864c&is=69ad34cc&hm=a464656a698ca318ae87de481b05e45ff6dcd43c543a307302f2d029dfe193d1&"
     },
     {
-      "id": "arnaldo",
-      "name": "Arnaldo",
-      "type": "warrior",
-      "status": "deceased",
-      "tags": [
-        "kenku",
-        "fighter",
-        "brave",
-        "tragic",
-        "family-driven",
-        "valente",
-        "martelo",
-        "sacrifício",
-        "família"
-      ],
-      "summary": "Um Kenku que lutou com determinação apesar das perdas familiares no caminho. Morreu de forma rápida às mãos de um inimigo, mas não sem antes deixar um último grito de desafio e pedir aos companheiros que se mantivessem fortes.",
-      "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1434983471507570710/portuguesebully.__93550bcb-8a66-4b91-b5a2-26ae4a3114c1.png?ex=69af1b80&is=69adca00&hm=0747bc8c9bb24166c712acb671cfeb3bdf0343ca85613d82d04377c22195293a&"
-    },
-    {
       "id": "dra-ishkara-vermis",
       "name": "Dra. Ishkara Vermis",
       "type": "mage",
@@ -1963,6 +1928,31 @@
       ],
       "summary": "Azim Ö foi uma pequena arqueira cujos primeiros passos como aventureira prometiam grandes feitos, mas cuja verdadeira marca no mundo só se revelaria no seu derradeiro acto: ofereceu sua vida por Poopoo, um gesto de compaixão que provou ser o mais valioso de toda a sua jornada.",
       "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1408598438408360076/Azim1.jpg?ex=69aeb346&is=69ad61c6&hm=428eb553f74f18ddb0a8b95e2e47c9c39250bfcf59a2bf0842407a95c790838f&"
+    },
+    {
+      "id": "feio",
+      "name": "Feio",
+      "type": "warrior",
+      "status": "deceased",
+      "tags": [
+        "kenku",
+        "fighter",
+        "brave",
+        "tragic",
+        "family-driven",
+        "valente",
+        "martelo",
+        "sacrifício",
+        "família",
+        "portuguese",
+        "bully",
+        "character",
+        "personagem-misterioso",
+        "herói",
+        "personagem-jogável"
+      ],
+      "summary": "Um Kenku que lutou com determinação apesar das perdas familiares no caminho. Morreu de forma rápida às mãos de um inimigo, mas não sem antes deixar um último grito de desafio e pedir aos companheiros que se mantivessem fortes.",
+      "image": null
     }
   ]
 }
