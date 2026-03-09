@@ -191,10 +191,10 @@ function renderPantheon(entries, container) {
     }).join('');
 
     return `
-      <div class="pantheon-group">
-        <h3 class="pantheon-group-title">${title}</h3>
+      <details class="pantheon-group" open>
+        <summary class="pantheon-group-title">${title}</summary>
         <div class="deity-list">${cards}</div>
-      </div>`;
+      </details>`;
   }
 
   container.innerHTML = [
@@ -239,10 +239,10 @@ function renderHeroes(entries, container) {
     }).join('');
 
     return `
-      <div class="hero-group">
-        <h3 class="hero-group-title">${title}</h3>
+      <details class="hero-group" open>
+        <summary class="hero-group-title">${title}</summary>
         <div class="hero-group-entries">${cards}</div>
-      </div>`;
+      </details>`;
   }
 
   container.innerHTML = [

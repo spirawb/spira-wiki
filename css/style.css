@@ -514,7 +514,11 @@ main.container { padding-top: 2.5rem; padding-bottom: 3rem; }
   color: var(--color-accent);
   border-bottom: 1px solid var(--color-border);
   padding-bottom: 0.5rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0;
+}
+
+.hero-group[open] .hero-group-entries {
+  margin-top: 1rem;
 }
 
 .hero-group-entries {
@@ -535,8 +539,52 @@ main.container { padding-top: 2.5rem; padding-bottom: 3rem; }
   color: var(--color-accent);
   border-bottom: 1px solid var(--color-border);
   padding-bottom: 0.5rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0;
   font-family: var(--font-heading);
+}
+
+.pantheon-group[open] .deity-list {
+  margin-top: 1rem;
+}
+
+/* =====================
+   Collapsible summary shared styles
+   ===================== */
+details.hero-group > summary,
+details.pantheon-group > summary {
+  list-style: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  user-select: none;
+  transition: opacity 0.15s;
+}
+
+details.hero-group > summary::-webkit-details-marker,
+details.pantheon-group > summary::-webkit-details-marker {
+  display: none;
+}
+
+details.hero-group > summary::after,
+details.pantheon-group > summary::after {
+  content: '▶';
+  font-size: 0.65em;
+  opacity: 0.45;
+  transition: transform 0.2s ease, opacity 0.15s;
+  flex-shrink: 0;
+  margin-left: 0.75rem;
+}
+
+details.hero-group[open] > summary::after,
+details.pantheon-group[open] > summary::after {
+  transform: rotate(90deg);
+  opacity: 0.75;
+}
+
+details.hero-group > summary:hover,
+details.pantheon-group > summary:hover {
+  opacity: 0.85;
 }
 
 .deity-list {
