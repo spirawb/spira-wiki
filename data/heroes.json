@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-09T11:22:36.424Z",
+  "lastUpdated": "2026-03-09T12:25:54.055Z",
   "entries": [
     {
       "id": "hamil-laena",
@@ -155,15 +155,11 @@
       "type": "other",
       "status": "active",
       "tags": [
-        "human",
-        "mystery",
-        "unknown-class",
-        "goblin",
-        "mestre-embriagado",
-        "lutador",
-        "aventureiro"
+        "humana",
+        "aventureira",
+        "mistério"
       ],
-      "summary": "Cateline Clarke é uma goblin aventureira. Baseada na imagem do mestre embriagado, parece ser uma personagem com habilidades de combate marcial.",
+      "summary": "Cateline Clarke é uma aventureira humana cujos detalhes sobre a sua classe e habilidades permanecem incertos.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1189607110691004536/Cateline_Clarke.jpg?ex=69aef675&is=69ada4f5&hm=98881f9bdeb4f00c572caa161735fecd61a95a9ffd58ba2bf26acb45fcac7246&"
     },
     {
@@ -465,16 +461,15 @@
     {
       "id": "ze-dedo-mindinho",
       "name": "Zé Dedo-mindinho",
-      "type": "rogue",
+      "type": "other",
       "status": "active",
       "tags": [
-        "rogue",
-        "cunning",
-        "dexterous",
-        "small",
-        "hero"
+        "pequeno",
+        "astuto",
+        "ágil",
+        "aventureiro"
       ],
-      "summary": "Zé Dedo-mindinho é um rogue ágil e astuto, provavelmente conhecido pela sua agilidade notável e dedos rápidos. O seu epíteto invulgar sugere um personagem definido pela precisão e táticas astutas.",
+      "summary": "Zé Dedo-mindinho é um aventureiro ágil e astuto, cujo epíteto invulgar sugere uma personagem definida pela precisão e pela esperteza.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1275447334477631579/Ze_dedo_mindinho.jpg?ex=69ad7a65&is=69ac28e5&hm=d7c8665122e68791cfc03d5bf9ac9e46b00e2785d89d9d8e0166e4ce017ccd59&"
     },
     {
@@ -681,11 +676,12 @@
       "type": "other",
       "status": "active",
       "tags": [
-        "mysterious",
+        "misterioso",
+        "desconhecido",
         "vitha",
-        "character"
+        "aventureiro"
       ],
-      "summary": "V de Vitha is a character whose details remain largely mysterious. More information about their background, abilities, and role in the campaign is needed.",
+      "summary": "V de Vitha é uma personagem envolta em mistério, cujos detalhes sobre o seu passado, capacidades e papel na campanha permanecem por descobrir.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1304101807932444752/240ee2aa64a3a73100ef0be346dd870b.jpg?ex=69ad9274&is=69ac40f4&hm=7982ff20c4ac6742bdc499ff8bd5f0b906bf5ab056c30176b87ea00591425a44&"
     },
     {
@@ -780,20 +776,6 @@
       ],
       "summary": "Lepain Dessages, conhecido como O Padeiro, foi um aventureiro marcado pela morte de Raziel. Tido por alguns como mestre do crime e por outros como um totó, encontra a sua verdadeira vocação na arte de fazer pão. Esperava poder ajudar a guilda através da sua paixão pela padaria.",
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1386416970458726580/Lepain_Dessages.jpg?ex=69af156c&is=69adc3ec&hm=b581545cd5d21a7fa32eed67ece79a90c1bf04ec016611143ad699cd16fe10ad&"
-    },
-    {
-      "id": "amble-annseea",
-      "name": "Amble Annseea",
-      "type": "cleric",
-      "status": "active",
-      "tags": [
-        "healer",
-        "medic",
-        "support",
-        "cleric"
-      ],
-      "summary": "Amble Annseea é uma curandeira e médica dedicada, como indicado pelo emoji de ambulância. Esta cleric especializa-se em magia de restauração e suporte para ajudar os seus aliados em combate e recuperação.",
-      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1320775170171998308/AA1.jpg?ex=69ad95bb&is=69ac443b&hm=e1fcbe58edbdfffae9750c2d9ce6dad9eb770ce1c20a3164e62e2c53b0e7124d&"
     },
     {
       "id": "marro",
@@ -1572,27 +1554,6 @@
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1359231012177187060/Zachiel.png?ex=69af0f06&is=69adbd86&hm=aba53ec86273dc572ac724b7fb2fdedb7bafe7bb09e64ddf8db87b5fcde967e2&"
     },
     {
-      "id": "amble",
-      "name": "Amble",
-      "type": "cleric",
-      "status": "retired",
-      "tags": [
-        "healer",
-        "cleric",
-        "missionary",
-        "compassionate",
-        "silver-rank",
-        "curandeiro",
-        "missionário",
-        "Kunkare",
-        "refugiado",
-        "refugiados",
-        "Garza"
-      ],
-      "summary": "Amble foi um curandeiro dedicado à ajuda do próximo, servindo na guilda de Garza durante 9 aventuras. Após a destruição de Asura, respondeu ao chamado para auxiliar os refugiados a estabelecerem uma nova casa junto aos elfos. Agora viaja pelo continente como missionário de Kunkare, continuando a sua missão de ajudar quem necessita.",
-      "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1390684994351136858/image.png?ex=69af7314&is=69ae2194&hm=d39ca79c26218ef150f90b3f5489aa4480dfdc3b006274dd9be6a1ea8aaf3dd6&"
-    },
-    {
       "id": "jahira-hardy",
       "name": "Jahira Hardy",
       "type": "rogue",
@@ -1926,6 +1887,29 @@
       ],
       "summary": "Um Kenku que lutou com determinação apesar das perdas familiares no caminho. Morreu de forma rápida às mãos de um inimigo, mas não sem antes deixar um último grito de desafio e pedir aos companheiros que se mantivessem fortes.",
       "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1434983471507570710/portuguesebully.__93550bcb-8a66-4b91-b5a2-26ae4a3114c1.png?ex=69af1b80&is=69adca00&hm=0747bc8c9bb24166c712acb671cfeb3bdf0343ca85613d82d04377c22195293a&"
+    },
+    {
+      "id": "amble-annseea",
+      "name": "Amble Annseea",
+      "type": "cleric",
+      "status": "retired",
+      "tags": [
+        "healer",
+        "cleric",
+        "missionary",
+        "compassionate",
+        "silver-rank",
+        "curandeiro",
+        "missionário",
+        "kunkare",
+        "refugiado",
+        "refugiados",
+        "garza",
+        "medic",
+        "support"
+      ],
+      "summary": "Amble foi um curandeiro dedicado à ajuda do próximo, servindo na guilda de Garza durante 9 aventuras. Após a destruição de Asura, respondeu ao chamado para auxiliar os refugiados a estabelecerem uma nova casa junto aos elfos. Agora viaja pelo continente como missionário de Kunkare, continuando a sua missão de ajudar quem necessita.",
+      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1320775170171998308/AA1.jpg?ex=69ad95bb&is=69ac443b&hm=e1fcbe58edbdfffae9750c2d9ce6dad9eb770ce1c20a3164e62e2c53b0e7124d&"
     }
   ]
 }
