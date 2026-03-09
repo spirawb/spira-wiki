@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-09T00:04:27.105Z",
+  "lastUpdated": "2026-03-09T00:26:56.114Z",
   "entries": [
     {
       "id": "hamil-laena",
@@ -23,21 +23,6 @@
       ],
       "summary": "Hamil Laena era um aventureiro obcecado com demónios e a sua extinção, resolvendo tudo através da queimação. Atormentado por pesadelos que o mantinham acordado, buscava paz nos retiros diários na floresta. Desapareceu durante um desses retiros, com localização actual desconhecida.",
       "image": "https://cdn.discordapp.com/attachments/1311109381948964884/1386033177201737728/Hamil.jpg?ex=69af017c&is=69adaffc&hm=03657669373f1edbc5f3f99ca3975bbd2ce6d31d30369eda629d48e2e455d713&"
-    },
-    {
-      "id": "xolani",
-      "name": "Xolani",
-      "type": "druid",
-      "status": "active",
-      "tags": [
-        "shaman",
-        "xhosa",
-        "tribal",
-        "nature",
-        "healer"
-      ],
-      "summary": "Xolani is a shaman of the Xhosa tribe, wielding natural magic and spiritual wisdom. He serves as a spiritual guide and healer for his people.",
-      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1176617344068501514/Xholani.png?ex=69add94b&is=69ac87cb&hm=9c3221741f43feb2c2aed0793046b0e9cfaf8e1990e06c6f7059a286b02625ed&"
     },
     {
       "id": "chilin",
@@ -1462,22 +1447,6 @@
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1423634863948300338/image.png?ex=69aeb0c9&is=69ad5f49&hm=e1295d1f7ad68cd47608d18264d656dba00563aecdee5c5cc5d6ed70708e7706&"
     },
     {
-      "id": "thorgan",
-      "name": "Thorgan",
-      "type": "paladin",
-      "status": "active",
-      "tags": [
-        "goliath",
-        "paladin",
-        "stoic",
-        "resilient",
-        "mountain-born",
-        "strength"
-      ],
-      "summary": "Thorgan the Unshakeable is a stoic Goliath Paladin, a wall of flesh and steel forged in the mountains. With great strength and Stone Resistance, he seeks to prove that the greatest strength of all is simply the ability to never fall.",
-      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1439003407519060029/ChatGPT_Image_14_11_2025_18_54_41.png?ex=69ad409b&is=69abef1b&hm=3c0d183c55e25acffc6d2ff8c8c10eb983cc9e630ace8a348c256d6ece0f1848&"
-    },
-    {
       "id": "rhainnis",
       "name": "Rhainnis",
       "type": "cleric",
@@ -1546,9 +1515,10 @@
         "support",
         "mãe-da-guilda",
         "aliada",
-        "personagem-npc"
+        "personagem-npc",
+        "personagem-importante"
       ],
-      "summary": "Clara Grütze é a nova mãe da guilda, descrita com afecto pela comunidade. Aparentemente uma figura maternal importante para o grupo.",
+      "summary": "Clara Grütze é uma figura maternal enigmática que se tornou o coração da guilda, cuidando dos seus membros com dedicação mesmo quando pouco se conhecia do seu passado. Ao longo dos anos consolidou-se como a mãe incontestável da comunidade, ganhando o afecto sincero de todos quantos a rodeavam, eternizando assim o seu legado como guardiã e confidente geracional da organização.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1446978780198473920/23a46098-de9c-4dcc-9872-210ca4397d2b.jpg?ex=69ae94c0&is=69ad4340&hm=1c6d934475eee583b0c15791d960c97acfb7471cbe71e91bd4055426e5e2bcc5&"
     },
     {
@@ -1859,9 +1829,10 @@
         "spira",
         "misterioso",
         "épico",
-        "personagem-único"
+        "personagem-único",
+        "lenton"
       ],
-      "summary": "Chakalaka, O Mordaz, foi um bardo cuja língua afiada e comentários incisivos marcaram uma carreira tão vibrante e imprevista quanto o seu próprio legado, tendo falecido de forma inesperada e eletrizante, deixando saudades profundas em Lenton.",
+      "summary": "Chakalaka, o Bardo Mordaz, foi uma figura vibrante cuja língua afiada e comentários incisivos marcaram uma carreira tão imprevista quanto memorável, deixando saudades profundas em Lenton até à sua morte inesperada e eletrizante.",
       "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1299746215394545776/IMG_1220.jpg?ex=69aedd7d&is=69ad8bfd&hm=d43145170b1e9e1cbef72068bc9f6a50a3aa724bcba513a50da66c05274aa98f&"
     },
     {
@@ -2041,9 +2012,14 @@
         "força",
         "resistência",
         "montanhas",
-        "montanhês"
+        "montanhês",
+        "paladin",
+        "stoic",
+        "resilient",
+        "mountain-born",
+        "strength"
       ],
-      "summary": "Thorgan é um Paladino Goliath estóico, um muro de carne e aço forjado nas montanhas. Com a sua grande força e a Resistência da Pedra, ele busca provar que a maior força de todas é simplesmente a capacidade de não cair.",
+      "summary": "Thorgan, o Inabalável, é um Paladino Goliath esculpido pelas montanhas, um muro vivo de carne e aço cuja força colossal e Resistência da Pedra o tornaram lendário na sua busca por provar que a verdadeira força reside na capacidade imutável de nunca cair. Após décadas de batalhas que o testaram além dos limites, este guerreiro estóico finalmente repousa, tendo transmitido o seu legado de inabalabilidade aos que o sucederão.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1439003407519060029/ChatGPT_Image_14_11_2025_18_54_41.png?ex=69ae921b&is=69ad409b&hm=812e63bf8a97906e4504dff6f7a8d585fa85566ce96cd04943575ace9496b901&"
     },
     {
@@ -2060,24 +2036,15 @@
         "tribo-xhosa",
         "curandeiro-espiritual",
         "líder-tribal",
-        "xama"
+        "xama",
+        "shaman",
+        "xhosa",
+        "tribal",
+        "nature",
+        "healer"
       ],
-      "summary": "!Xolani é um xamã bugbear dos !!Xhosa que transformou um destino imposto numa verdadeira vocação espiritual, guiando sua tribo através da sabedoria ancestral e da conexão com o mundo espiritual. Durante sua carreira de aventureiro, forjou amizades profundas que o enriqueceram e marcaram a sua jornada, aprendendo lições que o moldaram como líder. Reformou-se com rank de Titânio, legando o conhecimento adquirido à prosperidade duradoura do seu povo.",
+      "summary": "!Xolani é um xamã bugbear dos !!Xhosa que começou sua carreira como guia espiritual e curandeiro da sua tribo, empunhando magia natural e sabedoria ancestral para servir o seu povo. Ao longo da sua jornada de aventureiro, transformou um destino inicial numa verdadeira vocação, forjando amizades profundas e aprendendo lições que o moldaram como líder, até reformar-se com rank de Titânio e legar todo o conhecimento adquirido à prosperidade duradoura dos !!Xhosa.",
       "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1176617344068501514/Xholani.png?ex=69af2acb&is=69add94b&hm=9c5483adf328a4508d111c2927fcf4b8c01ffd691d233d35c9cec18266464c82&"
-    },
-    {
-      "id": "chakalaka-o-bardo",
-      "name": "Chakalaka o Bardo",
-      "type": "bard",
-      "status": "deceased",
-      "tags": [
-        "bardo",
-        "inesperado",
-        "eletrizante",
-        "lenton"
-      ],
-      "summary": "Chakalaka o Bardo jaz aqui após uma morte tão inesperada e eletrizante quanto a sua própria vida. Deixou saudades em Lenton.",
-      "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1299746215394545776/IMG_1220.jpg?ex=69aedd7d&is=69ad8bfd&hm=d43145170b1e9e1cbef72068bc9f6a50a3aa724bcba513a50da66c05274aa98f&"
     },
     {
       "id": "azim",
@@ -2113,19 +2080,6 @@
       ],
       "summary": "Um herói cujo nome e história permanecem inscritos apenas numa lápide, sem mais informações disponíveis.",
       "image": null
-    },
-    {
-      "id": "clara-grutze",
-      "name": "Clara Grütze",
-      "type": "other",
-      "status": "active",
-      "tags": [
-        "mãe-da-guilda",
-        "personagem-importante",
-        "aliada"
-      ],
-      "summary": "Clara Grütze é a mãe da guilda, uma figura central e cuidadora dos seus membros. Pouco se sabe sobre o seu passado, mas o seu papel é fundamental na dinâmica do grupo.",
-      "image": "https://cdn.discordapp.com/attachments/1173780964128866344/1446978780198473920/23a46098-de9c-4dcc-9872-210ca4397d2b.jpg?ex=69ae94c0&is=69ad4340&hm=1c6d934475eee583b0c15791d960c97acfb7471cbe71e91bd4055426e5e2bcc5&"
     },
     {
       "id": "melvius",
