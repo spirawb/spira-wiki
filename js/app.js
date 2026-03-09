@@ -198,9 +198,57 @@ function renderPantheon(entries, container) {
   }
 
   container.innerHTML = [
-    renderGroup('⭐ Deuses Maiores', major),
-    renderGroup('🌙 Deuses Menores', minor),
-    renderGroup('🌀 Outras Entidades', other),
+    renderGroup('Divindades Maiores', major),
+    renderGroup('Divindades Menores', minor),
+    renderGroup('Outras Entidades', other),
+  ].join('');
+}
+
+// ── Heroes renderer (grouped by status) ────────────────────────────────────
+
+function renderHeroes(entries, container) {
+  if (!entries?.length) {
+    container.innerHTML = `<div class="empty-state">Sem heróis ainda.</div>`;
+    return;
+  }
+
+  const active   = entries.filter(e => e.status === 'active');
+  const retired  = entries.filter(e => e.status === 'retired');
+  const deceased = entries.filter(e => e.status === 'deceased');
+
+  const ICONS = { warrior: '⚔️', mage: '🧙', rogue: '🗡️', cleric: '✨' };
+
+  function renderGroup(title, heroes) {
+    if (!heroes.length) return '';
+    const cards = heroes.map(entry => {
+      const imgHtml = entry.image
+        ? `<img src="${entry.image}" alt="${entry.name}" loading="lazy" />`
+        : placeholderImg(ICONS[entry.type] || '⚔️');
+      const tags = entry.tags?.length
+        ? `<div class="tags">${entry.tags.map(t => `<span class="tag" data-tag="${t}">${t}</span>`).join('')}</div>`
+        : '';
+      return `
+        <div class="entry-card">
+          ${imgHtml}
+          <div>
+            <h3>${entry.name}</h3>
+            ${tags}
+            <p>${entry.summary || ''}</p>
+          </div>
+        </div>`;
+    }).join('');
+
+    return `
+      <div class="hero-group">
+        <h3 class="hero-group-title">${title}</h3>
+        <div class="hero-group-entries">${cards}</div>
+      </div>`;
+  }
+
+  container.innerHTML = [
+    renderGroup('⚔️ Activos', active),
+    renderGroup('🛡️ Reformados', retired),
+    renderGroup('💀 Hall dos Mortos', deceased),
   ].join('');
 }
 
@@ -340,11 +388,10 @@ async function loadLocations() {
 async function loadHeroes() {
   const container = document.getElementById('heroes-entries');
   if (!container) return;
-  const icons = { warrior: '⚔️', mage: '🧙', rogue: '🗡️', cleric: '✨' };
   try {
     const data = await loadJSON(`${BASE}data/heroes.json`);
     setLastUpdated(data.lastUpdated);
-    initSearchAndFilter(data.entries, container, icons);
+    initSearchAndFilter(data.entries, container, {}, renderHeroes);
   } catch (e) {
     container.innerHTML = `<div class="empty-state">Dados de heróis não encontrados.</div>`;
   }
