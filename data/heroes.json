@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-09T00:52:21.441Z",
+  "lastUpdated": "2026-03-09T01:07:00.903Z",
   "entries": [
     {
       "id": "hamil-laena",
@@ -2051,19 +2051,6 @@
       ],
       "summary": "Azim Ö foi uma pequena arqueira cujos primeiros passos como aventureira prometiam grandes feitos, mas cuja verdadeira marca no mundo só se revelaria no seu derradeiro acto: ofereceu sua vida por Poopoo, um gesto de compaixão que provou ser o mais valioso de toda a sua jornada.",
       "image": "https://cdn.discordapp.com/attachments/1173781274457026610/1408598438408360076/Azim1.jpg?ex=69aeb346&is=69ad61c6&hm=428eb553f74f18ddb0a8b95e2e47c9c39250bfcf59a2bf0842407a95c790838f&"
-    },
-    {
-      "id": "mensagem-na-lapide",
-      "name": "Mensagem na lápide",
-      "type": "other",
-      "status": "deceased",
-      "tags": [
-        "desconhecido",
-        "hall-dos-mortos",
-        "falecido"
-      ],
-      "summary": "Um herói cujo nome e história permanecem inscritos apenas numa lápide, sem mais informações disponíveis.",
-      "image": null
     }
   ]
 }
